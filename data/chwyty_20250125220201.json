@@ -1,0 +1,13379 @@
+{
+"chwyty": [
+	{
+		"id" : 1,
+		"chwyt" : "A E fis D"
+	},
+	{
+		"id" : 2,
+		"chwyt" : "E fis"
+	},
+	{
+		"id" : 3,
+		"chwyt" : "gis A"
+	},
+	{
+		"id" : 4,
+		"chwyt" : "E fis"
+	},
+	{
+		"id" : 5,
+		"chwyt" : "gis A"
+	},
+	{
+		"id" : 6,
+		"chwyt" : "fis E D D"
+	},
+	{
+		"id" : 7,
+		"chwyt" : "fis E D D"
+	},
+	{
+		"id" : 17,
+		"chwyt" : "\/fis E D Cis fis\/x2"
+	},
+	{
+		"id" : 18,
+		"chwyt" : "fis E fis"
+	},
+	{
+		"id" : 19,
+		"chwyt" : "E A E fis"
+	},
+	{
+		"id" : 20,
+		"chwyt" : "D E Cis fis"
+	},
+	{
+		"id" : 21,
+		"chwyt" : "fis E fis"
+	},
+	{
+		"id" : 42,
+		"chwyt" : "a a"
+	},
+	{
+		"id" : 43,
+		"chwyt" : "G e a a"
+	},
+	{
+		"id" : 45,
+		"chwyt" : "G e a a"
+	},
+	{
+		"id" : 71,
+		"chwyt" : "1.d C g a d B C F A"
+	},
+	{
+		"id" : 72,
+		"chwyt" : "2.d C g a d B C d d"
+	},
+	{
+		"id" : 73,
+		"chwyt" : "d C"
+	},
+	{
+		"id" : 74,
+		"chwyt" : "g a d d"
+	},
+	{
+		"id" : 75,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 76,
+		"chwyt" : "F A"
+	},
+	{
+		"id" : 77,
+		"chwyt" : "d C"
+	},
+	{
+		"id" : 78,
+		"chwyt" : "g a d d"
+	},
+	{
+		"id" : 79,
+		"chwyt" : "B C d d"
+	},
+	{
+		"id" : 92,
+		"chwyt" : "E fis"
+	},
+	{
+		"id" : 94,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 95,
+		"chwyt" : "E fis"
+	},
+	{
+		"id" : 96,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 97,
+		"chwyt" : "E fis"
+	},
+	{
+		"id" : 99,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 101,
+		"chwyt" : "E fis"
+	},
+	{
+		"id" : 102,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 103,
+		"chwyt" : "fis gis"
+	},
+	{
+		"id" : 104,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 107,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 108,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 109,
+		"chwyt" : "C a D D"
+	},
+	{
+		"id" : 110,
+		"chwyt" : "G D7"
+	},
+	{
+		"id" : 112,
+		"chwyt" : "C D G e"
+	},
+	{
+		"id" : 113,
+		"chwyt" : "C a D D"
+	},
+	{
+		"id" : 114,
+		"chwyt" : "e a D7"
+	},
+	{
+		"id" : 117,
+		"chwyt" : "D G A"
+	},
+	{
+		"id" : 118,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 119,
+		"chwyt" : "G A D h"
+	},
+	{
+		"id" : 120,
+		"chwyt" : "D G A D D"
+	},
+	{
+		"id" : 123,
+		"chwyt" : "d B C d"
+	},
+	{
+		"id" : 133,
+		"chwyt" : "g d d"
+	},
+	{
+		"id" : 134,
+		"chwyt" : "C a d d"
+	},
+	{
+		"id" : 139,
+		"chwyt" : "1.E 2. E cis"
+	},
+	{
+		"id" : 140,
+		"chwyt" : "2. D"
+	},
+	{
+		"id" : 141,
+		"chwyt" : "2. fis E A D"
+	},
+	{
+		"id" : 142,
+		"chwyt" : "2. E cis"
+	},
+	{
+		"id" : 143,
+		"chwyt" : "2. D"
+	},
+	{
+		"id" : 144,
+		"chwyt" : "1. E fis E A D 2. fis E A D E"
+	},
+	{
+		"id" : 146,
+		"chwyt" : "fis A"
+	},
+	{
+		"id" : 147,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 148,
+		"chwyt" : "fis A"
+	},
+	{
+		"id" : 149,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 150,
+		"chwyt" : "fis A"
+	},
+	{
+		"id" : 151,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 152,
+		"chwyt" : "fis fis"
+	},
+	{
+		"id" : 153,
+		"chwyt" : "D D H"
+	},
+	{
+		"id" : 167,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 168,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 169,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 170,
+		"chwyt" : "fis E A D"
+	},
+	{
+		"id" : 173,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 174,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 175,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 176,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 178,
+		"chwyt" : "A Fis7"
+	},
+	{
+		"id" : 179,
+		"chwyt" : "h E7"
+	},
+	{
+		"id" : 180,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 181,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 182,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 183,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 184,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 185,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 186,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 187,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 190,
+		"chwyt" : "E gis fis H"
+	},
+	{
+		"id" : 191,
+		"chwyt" : "E gis fis H"
+	},
+	{
+		"id" : 192,
+		"chwyt" : "A H Gis cis"
+	},
+	{
+		"id" : 193,
+		"chwyt" : "1. fis E D H, 2. D fis H H"
+	},
+	{
+		"id" : 195,
+		"chwyt" : "E gis A C D"
+	},
+	{
+		"id" : 196,
+		"chwyt" : "E gis A C D"
+	},
+	{
+		"id" : 197,
+		"chwyt" : "E gis A C D"
+	},
+	{
+		"id" : 198,
+		"chwyt" : "E gis A C D E E"
+	},
+	{
+		"id" : 201,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 202,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 203,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 205,
+		"chwyt" : "h D"
+	},
+	{
+		"id" : 206,
+		"chwyt" : "D E"
+	},
+	{
+		"id" : 207,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 208,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 210,
+		"chwyt" : "E cis fis A"
+	},
+	{
+		"id" : 211,
+		"chwyt" : "E cis fis A"
+	},
+	{
+		"id" : 218,
+		"chwyt" : "fis gis"
+	},
+	{
+		"id" : 219,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 220,
+		"chwyt" : "fis gis"
+	},
+	{
+		"id" : 221,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 224,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 225,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 226,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 228,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 229,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 232,
+		"chwyt" : "D A G G"
+	},
+	{
+		"id" : 233,
+		"chwyt" : "D A G G"
+	},
+	{
+		"id" : 234,
+		"chwyt" : "e G A A"
+	},
+	{
+		"id" : 235,
+		"chwyt" : "e G A A"
+	},
+	{
+		"id" : 237,
+		"chwyt" : "D G A A"
+	},
+	{
+		"id" : 238,
+		"chwyt" : "D G A A"
+	},
+	{
+		"id" : 241,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 242,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 243,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 244,
+		"chwyt" : "C D G G"
+	},
+	{
+		"id" : 246,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 247,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 248,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 249,
+		"chwyt" : "C D G G"
+	},
+	{
+		"id" : 251,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 252,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 253,
+		"chwyt" : "C C G D"
+	},
+	{
+		"id" : 261,
+		"chwyt" : "E H D A"
+	},
+	{
+		"id" : 269,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 270,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 272,
+		"chwyt" : "E H D A"
+	},
+	{
+		"id" : 275,
+		"chwyt" : "E D C h7"
+	},
+	{
+		"id" : 278,
+		"chwyt" : "D e"
+	},
+	{
+		"id" : 280,
+		"chwyt" : "D e"
+	},
+	{
+		"id" : 281,
+		"chwyt" : "h e"
+	},
+	{
+		"id" : 282,
+		"chwyt" : "D e"
+	},
+	{
+		"id" : 283,
+		"chwyt" : "h e"
+	},
+	{
+		"id" : 284,
+		"chwyt" : "D e"
+	},
+	{
+		"id" : 285,
+		"chwyt" : "h e"
+	},
+	{
+		"id" : 286,
+		"chwyt" : "D e"
+	},
+	{
+		"id" : 287,
+		"chwyt" : "h e"
+	},
+	{
+		"id" : 292,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 293,
+		"chwyt" : "e A7"
+	},
+	{
+		"id" : 299,
+		"chwyt" : "cis H A H"
+	},
+	{
+		"id" : 300,
+		"chwyt" : "cis H A H"
+	},
+	{
+		"id" : 301,
+		"chwyt" : "E fis H E"
+	},
+	{
+		"id" : 302,
+		"chwyt" : "cis H AHcis"
+	},
+	{
+		"id" : 304,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 305,
+		"chwyt" : "H E"
+	},
+	{
+		"id" : 306,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 308,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 312,
+		"chwyt" : "H E"
+	},
+	{
+		"id" : 315,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 316,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 317,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 318,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 320,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 321,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 324,
+		"chwyt" : "E H A A"
+	},
+	{
+		"id" : 325,
+		"chwyt" : "E H A A"
+	},
+	{
+		"id" : 326,
+		"chwyt" : "E H A A"
+	},
+	{
+		"id" : 327,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 333,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 334,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 335,
+		"chwyt" : "cis H E E"
+	},
+	{
+		"id" : 336,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 337,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 338,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 339,
+		"chwyt" : "fis fis"
+	},
+	{
+		"id" : 349,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 350,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 351,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 352,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 355,
+		"chwyt" : "h G"
+	},
+	{
+		"id" : 356,
+		"chwyt" : "h G"
+	},
+	{
+		"id" : 357,
+		"chwyt" : "h A G G"
+	},
+	{
+		"id" : 358,
+		"chwyt" : "h A G G"
+	},
+	{
+		"id" : 360,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 361,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 362,
+		"chwyt" : "h A G G"
+	},
+	{
+		"id" : 364,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 365,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 366,
+		"chwyt" : "h A G G"
+	},
+	{
+		"id" : 371,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 372,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 373,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 374,
+		"chwyt" : "h A GG"
+	},
+	{
+		"id" : 376,
+		"chwyt" : "h A D G"
+	},
+	{
+		"id" : 377,
+		"chwyt" : "h A D D"
+	},
+	{
+		"id" : 382,
+		"chwyt" : "h A D G"
+	},
+	{
+		"id" : 383,
+		"chwyt" : "h A D D"
+	},
+	{
+		"id" : 386,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 387,
+		"chwyt" : "C a"
+	},
+	{
+		"id" : 388,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 389,
+		"chwyt" : "G G7"
+	},
+	{
+		"id" : 391,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 392,
+		"chwyt" : "e a"
+	},
+	{
+		"id" : 393,
+		"chwyt" : "d G7"
+	},
+	{
+		"id" : 394,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 396,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 397,
+		"chwyt" : "C a"
+	},
+	{
+		"id" : 398,
+		"chwyt" : "d G7"
+	},
+	{
+		"id" : 399,
+		"chwyt" : "C G7"
+	},
+	{
+		"id" : 400,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 401,
+		"chwyt" : "C a"
+	},
+	{
+		"id" : 402,
+		"chwyt" : "d G7"
+	},
+	{
+		"id" : 403,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 406,
+		"chwyt" : "G C D C"
+	},
+	{
+		"id" : 409,
+		"chwyt" : "G C D D"
+	},
+	{
+		"id" : 411,
+		"chwyt" : "G C D C"
+	},
+	{
+		"id" : 412,
+		"chwyt" : "G C D C"
+	},
+	{
+		"id" : 413,
+		"chwyt" : "G C D e"
+	},
+	{
+		"id" : 414,
+		"chwyt" : "C D G G"
+	},
+	{
+		"id" : 417,
+		"chwyt" : "h A D G"
+	},
+	{
+		"id" : 422,
+		"chwyt" : "h A G G"
+	},
+	{
+		"id" : 423,
+		"chwyt" : "h A G G"
+	},
+	{
+		"id" : 425,
+		"chwyt" : "h G D A"
+	},
+	{
+		"id" : 436,
+		"chwyt" : "D A G A"
+	},
+	{
+		"id" : 441,
+		"chwyt" : "h G"
+	},
+	{
+		"id" : 443,
+		"chwyt" : "D A G D"
+	},
+	{
+		"id" : 444,
+		"chwyt" : "D A G D"
+	},
+	{
+		"id" : 445,
+		"chwyt" : "D A G D"
+	},
+	{
+		"id" : 446,
+		"chwyt" : "D A G A"
+	},
+	{
+		"id" : 447,
+		"chwyt" : "D A G A"
+	},
+	{
+		"id" : 449,
+		"chwyt" : "d B"
+	},
+	{
+		"id" : 450,
+		"chwyt" : "F g A7"
+	},
+	{
+		"id" : 451,
+		"chwyt" : "d B"
+	},
+	{
+		"id" : 452,
+		"chwyt" : "F A7"
+	},
+	{
+		"id" : 454,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 455,
+		"chwyt" : "a D"
+	},
+	{
+		"id" : 456,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 457,
+		"chwyt" : "g a B C"
+	},
+	{
+		"id" : 459,
+		"chwyt" : "F F"
+	},
+	{
+		"id" : 460,
+		"chwyt" : "C C A7 d d"
+	},
+	{
+		"id" : 461,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 463,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 464,
+		"chwyt" : "d B C"
+	},
+	{
+		"id" : 465,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 466,
+		"chwyt" : "d B C"
+	},
+	{
+		"id" : 470,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 471,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 472,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 473,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 474,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 475,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 476,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 477,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 479,
+		"chwyt" : "F a G G"
+	},
+	{
+		"id" : 480,
+		"chwyt" : "F a G G"
+	},
+	{
+		"id" : 492,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 493,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 494,
+		"chwyt" : "E cis"
+	},
+	{
+		"id" : 495,
+		"chwyt" : "D E fis fis"
+	},
+	{
+		"id" : 497,
+		"chwyt" : "fis fis"
+	},
+	{
+		"id" : 498,
+		"chwyt" : "E cis D E fis fis"
+	},
+	{
+		"id" : 512,
+		"chwyt" : "A cis"
+	},
+	{
+		"id" : 513,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 514,
+		"chwyt" : "h fis"
+	},
+	{
+		"id" : 515,
+		"chwyt" : "D E"
+	},
+	{
+		"id" : 517,
+		"chwyt" : "A fis"
+	},
+	{
+		"id" : 518,
+		"chwyt" : "D E"
+	},
+	{
+		"id" : 519,
+		"chwyt" : "A fis"
+	},
+	{
+		"id" : 520,
+		"chwyt" : "D E"
+	},
+	{
+		"id" : 522,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 523,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 524,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 525,
+		"chwyt" : "D E"
+	},
+	{
+		"id" : 527,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 528,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 529,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 530,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 533,
+		"chwyt" : "C F C F"
+	},
+	{
+		"id" : 536,
+		"chwyt" : "C G C F"
+	},
+	{
+		"id" : 542,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 543,
+		"chwyt" : "C G a a"
+	},
+	{
+		"id" : 544,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 545,
+		"chwyt" : "C G a a"
+	},
+	{
+		"id" : 547,
+		"chwyt" : "F d G e"
+	},
+	{
+		"id" : 550,
+		"chwyt" : "F d G G"
+	},
+	{
+		"id" : 551,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 552,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 553,
+		"chwyt" : "B F G G"
+	},
+	{
+		"id" : 554,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 555,
+		"chwyt" : "B F G G"
+	},
+	{
+		"id" : 559,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 560,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 561,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 562,
+		"chwyt" : "A D A"
+	},
+	{
+		"id" : 564,
+		"chwyt" : "D A G A"
+	},
+	{
+		"id" : 573,
+		"chwyt" : "h G e e"
+	},
+	{
+		"id" : 574,
+		"chwyt" : "h G e e"
+	},
+	{
+		"id" : 575,
+		"chwyt" : "h G e A"
+	},
+	{
+		"id" : 576,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 583,
+		"chwyt" : "h G e A"
+	},
+	{
+		"id" : 586,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 590,
+		"chwyt" : "G C D C"
+	},
+	{
+		"id" : 591,
+		"chwyt" : "G C D C"
+	},
+	{
+		"id" : 592,
+		"chwyt" : "G C D D"
+	},
+	{
+		"id" : 593,
+		"chwyt" : "a D"
+	},
+	{
+		"id" : 594,
+		"chwyt" : "G C D C"
+	},
+	{
+		"id" : 595,
+		"chwyt" : "G C D C"
+	},
+	{
+		"id" : 596,
+		"chwyt" : "G C D D"
+	},
+	{
+		"id" : 597,
+		"chwyt" : "e D"
+	},
+	{
+		"id" : 600,
+		"chwyt" : "E H7"
+	},
+	{
+		"id" : 601,
+		"chwyt" : "H7 E"
+	},
+	{
+		"id" : 602,
+		"chwyt" : "E A E"
+	},
+	{
+		"id" : 603,
+		"chwyt" : "cis E7"
+	},
+	{
+		"id" : 610,
+		"chwyt" : "\/D D D G A\/x3"
+	},
+	{
+		"id" : 611,
+		"chwyt" : "D D D D"
+	},
+	{
+		"id" : 612,
+		"chwyt" : "A A h h"
+	},
+	{
+		"id" : 615,
+		"chwyt" : "A A G D"
+	},
+	{
+		"id" : 629,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 641,
+		"chwyt" : "d C d d"
+	},
+	{
+		"id" : 642,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 643,
+		"chwyt" : "d C d d"
+	},
+	{
+		"id" : 644,
+		"chwyt" : "B A7"
+	},
+	{
+		"id" : 645,
+		"chwyt" : "d C d d"
+	},
+	{
+		"id" : 646,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 647,
+		"chwyt" : "d C d d"
+	},
+	{
+		"id" : 648,
+		"chwyt" : "C d"
+	},
+	{
+		"id" : 650,
+		"chwyt" : "g"
+	},
+	{
+		"id" : 651,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 652,
+		"chwyt" : "A7"
+	},
+	{
+		"id" : 653,
+		"chwyt" : "d C B A7"
+	},
+	{
+		"id" : 654,
+		"chwyt" : "g"
+	},
+	{
+		"id" : 655,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 656,
+		"chwyt" : "E7"
+	},
+	{
+		"id" : 657,
+		"chwyt" : "A7"
+	},
+	{
+		"id" : 658,
+		"chwyt" : "d C B A7"
+	},
+	{
+		"id" : 662,
+		"chwyt" : "e e D"
+	},
+	{
+		"id" : 663,
+		"chwyt" : "D D e"
+	},
+	{
+		"id" : 664,
+		"chwyt" : "e e D"
+	},
+	{
+		"id" : 665,
+		"chwyt" : "D C D"
+	},
+	{
+		"id" : 666,
+		"chwyt" : "e C D"
+	},
+	{
+		"id" : 667,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 669,
+		"chwyt" : "C D e e"
+	},
+	{
+		"id" : 670,
+		"chwyt" : "C D e e"
+	},
+	{
+		"id" : 675,
+		"chwyt" : "C F C F"
+	},
+	{
+		"id" : 676,
+		"chwyt" : "C G C G"
+	},
+	{
+		"id" : 677,
+		"chwyt" : "C F C F"
+	},
+	{
+		"id" : 678,
+		"chwyt" : "C G C G"
+	},
+	{
+		"id" : 680,
+		"chwyt" : "C F C F"
+	},
+	{
+		"id" : 681,
+		"chwyt" : "C G C G"
+	},
+	{
+		"id" : 684,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 685,
+		"chwyt" : "h G A"
+	},
+	{
+		"id" : 686,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 687,
+		"chwyt" : "h G A"
+	},
+	{
+		"id" : 688,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 689,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 690,
+		"chwyt" : "G e"
+	},
+	{
+		"id" : 691,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 695,
+		"chwyt" : "G G C D"
+	},
+	{
+		"id" : 696,
+		"chwyt" : "G G C D"
+	},
+	{
+		"id" : 697,
+		"chwyt" : "G G C D"
+	},
+	{
+		"id" : 698,
+		"chwyt" : "G G C H"
+	},
+	{
+		"id" : 700,
+		"chwyt" : "e D C C"
+	},
+	{
+		"id" : 701,
+		"chwyt" : "e D C C"
+	},
+	{
+		"id" : 702,
+		"chwyt" : "G C A7 D"
+	},
+	{
+		"id" : 703,
+		"chwyt" : "G G C D"
+	},
+	{
+		"id" : 713,
+		"chwyt" : "e e D C"
+	},
+	{
+		"id" : 714,
+		"chwyt" : "e e D C"
+	},
+	{
+		"id" : 715,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 716,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 717,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 718,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 720,
+		"chwyt" : "e D"
+	},
+	{
+		"id" : 721,
+		"chwyt" : "h e"
+	},
+	{
+		"id" : 722,
+		"chwyt" : "e D"
+	},
+	{
+		"id" : 726,
+		"chwyt" : "e e D D"
+	},
+	{
+		"id" : 727,
+		"chwyt" : "C D e e"
+	},
+	{
+		"id" : 730,
+		"chwyt" : "a h C D"
+	},
+	{
+		"id" : 731,
+		"chwyt" : "a h C D"
+	},
+	{
+		"id" : 733,
+		"chwyt" : "C C e D"
+	},
+	{
+		"id" : 734,
+		"chwyt" : "1. a C D D 2. a C H7 H7"
+	},
+	{
+		"id" : 744,
+		"chwyt" : "cis A E H"
+	},
+	{
+		"id" : 745,
+		"chwyt" : "cis A H H"
+	},
+	{
+		"id" : 747,
+		"chwyt" : "A H gis7 cis"
+	},
+	{
+		"id" : 748,
+		"chwyt" : "A H cis cis"
+	},
+	{
+		"id" : 750,
+		"chwyt" : "A H gis7 cis"
+	},
+	{
+		"id" : 751,
+		"chwyt" : "fis gis7 fis Cis7"
+	},
+	{
+		"id" : 753,
+		"chwyt" : "fis cis A H"
+	},
+	{
+		"id" : 754,
+		"chwyt" : "fis cis A H"
+	},
+	{
+		"id" : 756,
+		"chwyt" : "fis cis A H"
+	},
+	{
+		"id" : 757,
+		"chwyt" : "E A cis H"
+	},
+	{
+		"id" : 762,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 763,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 764,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 765,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 767,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 768,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 769,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 770,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 772,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 773,
+		"chwyt" : "a C"
+	},
+	{
+		"id" : 774,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 775,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 776,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 777,
+		"chwyt" : "a C"
+	},
+	{
+		"id" : 778,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 779,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 783,
+		"chwyt" : "E A E A"
+	},
+	{
+		"id" : 784,
+		"chwyt" : "E A H"
+	},
+	{
+		"id" : 785,
+		"chwyt" : "E A E A"
+	},
+	{
+		"id" : 786,
+		"chwyt" : "E A H"
+	},
+	{
+		"id" : 788,
+		"chwyt" : "E A H H"
+	},
+	{
+		"id" : 792,
+		"chwyt" : "E A E A"
+	},
+	{
+		"id" : 795,
+		"chwyt" : "e e h"
+	},
+	{
+		"id" : 796,
+		"chwyt" : "e D"
+	},
+	{
+		"id" : 797,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 798,
+		"chwyt" : "h e"
+	},
+	{
+		"id" : 800,
+		"chwyt" : "e h e"
+	},
+	{
+		"id" : 801,
+		"chwyt" : "h e"
+	},
+	{
+		"id" : 802,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 803,
+		"chwyt" : "D eh e"
+	},
+	{
+		"id" : 826,
+		"chwyt" : "fis D h Cis7"
+	},
+	{
+		"id" : 827,
+		"chwyt" : "fis D h Cis7"
+	},
+	{
+		"id" : 833,
+		"chwyt" : "D A D D"
+	},
+	{
+		"id" : 834,
+		"chwyt" : "D G A A"
+	},
+	{
+		"id" : 836,
+		"chwyt" : "G D G D"
+	},
+	{
+		"id" : 837,
+		"chwyt" : "G D A A"
+	},
+	{
+		"id" : 840,
+		"chwyt" : "E H A E"
+	},
+	{
+		"id" : 841,
+		"chwyt" : "fis E H H"
+	},
+	{
+		"id" : 842,
+		"chwyt" : "E H A E"
+	},
+	{
+		"id" : 843,
+		"chwyt" : "fis H E E"
+	},
+	{
+		"id" : 845,
+		"chwyt" : "E fis H H"
+	},
+	{
+		"id" : 848,
+		"chwyt" : "A H E E"
+	},
+	{
+		"id" : 850,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 851,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 852,
+		"chwyt" : "d G"
+	},
+	{
+		"id" : 853,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 855,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 856,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 857,
+		"chwyt" : "d G"
+	},
+	{
+		"id" : 858,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 859,
+		"chwyt" : "d G C"
+	},
+	{
+		"id" : 862,
+		"chwyt" : "G C G G"
+	},
+	{
+		"id" : 863,
+		"chwyt" : "G C G G"
+	},
+	{
+		"id" : 864,
+		"chwyt" : "e h C G"
+	},
+	{
+		"id" : 865,
+		"chwyt" : "C G D D"
+	},
+	{
+		"id" : 872,
+		"chwyt" : "G C G C"
+	},
+	{
+		"id" : 875,
+		"chwyt" : "fis fis E"
+	},
+	{
+		"id" : 876,
+		"chwyt" : "cis cis fis"
+	},
+	{
+		"id" : 877,
+		"chwyt" : "fis fis E"
+	},
+	{
+		"id" : 878,
+		"chwyt" : "cis cis fis"
+	},
+	{
+		"id" : 884,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 885,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 886,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 887,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 889,
+		"chwyt" : "e7 D A A"
+	},
+	{
+		"id" : 895,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 896,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 897,
+		"chwyt" : "G e"
+	},
+	{
+		"id" : 898,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 900,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 901,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 902,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 903,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 905,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 906,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 907,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 908,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 917,
+		"chwyt" : "G D A h"
+	},
+	{
+		"id" : 918,
+		"chwyt" : "G D A A"
+	},
+	{
+		"id" : 919,
+		"chwyt" : "G h GA h"
+	},
+	{
+		"id" : 920,
+		"chwyt" : "G A D D"
+	},
+	{
+		"id" : 922,
+		"chwyt" : "G D A h"
+	},
+	{
+		"id" : 925,
+		"chwyt" : "G D A D"
+	},
+	{
+		"id" : 939,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 940,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 941,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 942,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 943,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 944,
+		"chwyt" : "A A\/x2"
+	},
+	{
+		"id" : 946,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 947,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 948,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 949,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 962,
+		"chwyt" : "D A h h"
+	},
+	{
+		"id" : 963,
+		"chwyt" : "G D e A"
+	},
+	{
+		"id" : 964,
+		"chwyt" : "D A h h"
+	},
+	{
+		"id" : 965,
+		"chwyt" : "G DAD D"
+	},
+	{
+		"id" : 967,
+		"chwyt" : "D D D7D7"
+	},
+	{
+		"id" : 968,
+		"chwyt" : "G G D D"
+	},
+	{
+		"id" : 969,
+		"chwyt" : "fis fis h G"
+	},
+	{
+		"id" : 970,
+		"chwyt" : "D A7 D D"
+	},
+	{
+		"id" : 986,
+		"chwyt" : "D G D D"
+	},
+	{
+		"id" : 987,
+		"chwyt" : "D G e A"
+	},
+	{
+		"id" : 988,
+		"chwyt" : "G D G D"
+	},
+	{
+		"id" : 989,
+		"chwyt" : "G C A A7"
+	},
+	{
+		"id" : 990,
+		"chwyt" : "D G A D"
+	},
+	{
+		"id" : 991,
+		"chwyt" : "D G A D"
+	},
+	{
+		"id" : 1002,
+		"chwyt" : "e e a H7"
+	},
+	{
+		"id" : 1007,
+		"chwyt" : "e H7 e e"
+	},
+	{
+		"id" : 1008,
+		"chwyt" : "C H7 e e"
+	},
+	{
+		"id" : 1009,
+		"chwyt" : "a e a a"
+	},
+	{
+		"id" : 1010,
+		"chwyt" : "Fis H7"
+	},
+	{
+		"id" : 1012,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 1013,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 1014,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 1015,
+		"chwyt" : "C H7"
+	},
+	{
+		"id" : 1017,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 1018,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 1019,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1020,
+		"chwyt" : "H7"
+	},
+	{
+		"id" : 1023,
+		"chwyt" : "C CGF F"
+	},
+	{
+		"id" : 1028,
+		"chwyt" : "F F d d"
+	},
+	{
+		"id" : 1029,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 1031,
+		"chwyt" : "CeF G"
+	},
+	{
+		"id" : 1032,
+		"chwyt" : "a e"
+	},
+	{
+		"id" : 1033,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 1034,
+		"chwyt" : "CeF G"
+	},
+	{
+		"id" : 1035,
+		"chwyt" : "a e"
+	},
+	{
+		"id" : 1036,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 1039,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 1040,
+		"chwyt" : "g"
+	},
+	{
+		"id" : 1041,
+		"chwyt" : "F B"
+	},
+	{
+		"id" : 1042,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 1043,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 1044,
+		"chwyt" : "B"
+	},
+	{
+		"id" : 1045,
+		"chwyt" : "F B"
+	},
+	{
+		"id" : 1046,
+		"chwyt" : "C BC"
+	},
+	{
+		"id" : 1047,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 1048,
+		"chwyt" : "g d"
+	},
+	{
+		"id" : 1049,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 1050,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 1051,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 1052,
+		"chwyt" : "g d"
+	},
+	{
+		"id" : 1053,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 1054,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 1055,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 1070,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 1071,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1072,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 1073,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1074,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 1076,
+		"chwyt" : "A H cis cis"
+	},
+	{
+		"id" : 1077,
+		"chwyt" : "A H E E"
+	},
+	{
+		"id" : 1079,
+		"chwyt" : "E E A A"
+	},
+	{
+		"id" : 1080,
+		"chwyt" : "H H A A"
+	},
+	{
+		"id" : 1082,
+		"chwyt" : "E E A A"
+	},
+	{
+		"id" : 1085,
+		"chwyt" : "G D e e"
+	},
+	{
+		"id" : 1086,
+		"chwyt" : "C G a D"
+	},
+	{
+		"id" : 1087,
+		"chwyt" : "G D e e"
+	},
+	{
+		"id" : 1088,
+		"chwyt" : "C G C G"
+	},
+	{
+		"id" : 1089,
+		"chwyt" : "F C D D"
+	},
+	{
+		"id" : 1090,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 1091,
+		"chwyt" : "G D a D"
+	},
+	{
+		"id" : 1093,
+		"chwyt" : "G D a D"
+	},
+	{
+		"id" : 1095,
+		"chwyt" : "G D a D"
+	},
+	{
+		"id" : 1096,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 1104,
+		"chwyt" : "C d G"
+	},
+	{
+		"id" : 1105,
+		"chwyt" : "C a"
+	},
+	{
+		"id" : 1106,
+		"chwyt" : "d G"
+	},
+	{
+		"id" : 1107,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 1109,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 1110,
+		"chwyt" : "C a"
+	},
+	{
+		"id" : 1111,
+		"chwyt" : "d G"
+	},
+	{
+		"id" : 1112,
+		"chwyt" : "C C7"
+	},
+	{
+		"id" : 1113,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 1114,
+		"chwyt" : "C a"
+	},
+	{
+		"id" : 1115,
+		"chwyt" : "d G"
+	},
+	{
+		"id" : 1116,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 1117,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 1122,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 1123,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 1124,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 1125,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 1126,
+		"chwyt" : "cis A E H"
+	},
+	{
+		"id" : 1127,
+		"chwyt" : "cis A E H"
+	},
+	{
+		"id" : 1129,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 1130,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 1131,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 1132,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 1136,
+		"chwyt" : "F B"
+	},
+	{
+		"id" : 1146,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 1157,
+		"chwyt" : "E E H H"
+	},
+	{
+		"id" : 1158,
+		"chwyt" : "cis A H H"
+	},
+	{
+		"id" : 1160,
+		"chwyt" : "A H E cis"
+	},
+	{
+		"id" : 1161,
+		"chwyt" : "A H E cis"
+	},
+	{
+		"id" : 1162,
+		"chwyt" : "A H EH cis"
+	},
+	{
+		"id" : 1163,
+		"chwyt" : "fis H E E"
+	},
+	{
+		"id" : 1173,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 1174,
+		"chwyt" : "A D D D"
+	},
+	{
+		"id" : 1175,
+		"chwyt" : "G D e e A A"
+	},
+	{
+		"id" : 1176,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 1177,
+		"chwyt" : "A D D D"
+	},
+	{
+		"id" : 1178,
+		"chwyt" : "G D A A"
+	},
+	{
+		"id" : 1179,
+		"chwyt" : "G G D A"
+	},
+	{
+		"id" : 1182,
+		"chwyt" : "E7 A7"
+	},
+	{
+		"id" : 1190,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 1191,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 1192,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 1193,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 1195,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 1196,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1197,
+		"chwyt" : "E fis"
+	},
+	{
+		"id" : 1198,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 1201,
+		"chwyt" : "D G A A"
+	},
+	{
+		"id" : 1206,
+		"chwyt" : "G A D D"
+	},
+	{
+		"id" : 1222,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 1223,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 1224,
+		"chwyt" : "fis G"
+	},
+	{
+		"id" : 1225,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1226,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 1227,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 1228,
+		"chwyt" : "fis G"
+	},
+	{
+		"id" : 1229,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1231,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 1232,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 1233,
+		"chwyt" : "D e"
+	},
+	{
+		"id" : 1234,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 1235,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 1240,
+		"chwyt" : "a e"
+	},
+	{
+		"id" : 1241,
+		"chwyt" : "a e"
+	},
+	{
+		"id" : 1242,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 1243,
+		"chwyt" : "a a"
+	},
+	{
+		"id" : 1244,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 1245,
+		"chwyt" : "F Ga"
+	},
+	{
+		"id" : 1246,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 1247,
+		"chwyt" : "F Ga"
+	},
+	{
+		"id" : 1259,
+		"chwyt" : "a d"
+	},
+	{
+		"id" : 1260,
+		"chwyt" : "G C E"
+	},
+	{
+		"id" : 1261,
+		"chwyt" : "a a d d"
+	},
+	{
+		"id" : 1262,
+		"chwyt" : "a G F d"
+	},
+	{
+		"id" : 1263,
+		"chwyt" : "a E E"
+	},
+	{
+		"id" : 1266,
+		"chwyt" : "A E D A"
+	},
+	{
+		"id" : 1267,
+		"chwyt" : "D E A A"
+	},
+	{
+		"id" : 1269,
+		"chwyt" : "A E D A"
+	},
+	{
+		"id" : 1270,
+		"chwyt" : "D E A A"
+	},
+	{
+		"id" : 1272,
+		"chwyt" : "fis D A"
+	},
+	{
+		"id" : 1273,
+		"chwyt" : "D D h A"
+	},
+	{
+		"id" : 1274,
+		"chwyt" : "A E D A"
+	},
+	{
+		"id" : 1275,
+		"chwyt" : "D E A A"
+	},
+	{
+		"id" : 1278,
+		"chwyt" : "h"
+	},
+	{
+		"id" : 1279,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1280,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 1281,
+		"chwyt" : "h Fis"
+	},
+	{
+		"id" : 1287,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 1288,
+		"chwyt" : "h Fis"
+	},
+	{
+		"id" : 1289,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 1290,
+		"chwyt" : "h Fis"
+	},
+	{
+		"id" : 1301,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 1302,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 1303,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 1304,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 1305,
+		"chwyt" : "fis gis"
+	},
+	{
+		"id" : 1306,
+		"chwyt" : "fis gis"
+	},
+	{
+		"id" : 1307,
+		"chwyt" : "fis gis"
+	},
+	{
+		"id" : 1308,
+		"chwyt" : "1. A gis"
+	},
+	{
+		"id" : 1309,
+		"chwyt" : "2. A H"
+	},
+	{
+		"id" : 1312,
+		"chwyt" : "F C G a"
+	},
+	{
+		"id" : 1313,
+		"chwyt" : "F C G a"
+	},
+	{
+		"id" : 1314,
+		"chwyt" : "F C E7 a"
+	},
+	{
+		"id" : 1315,
+		"chwyt" : "F C a7 G"
+	},
+	{
+		"id" : 1321,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 1322,
+		"chwyt" : "a G F"
+	},
+	{
+		"id" : 1323,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 1324,
+		"chwyt" : "C A7 d G"
+	},
+	{
+		"id" : 1335,
+		"chwyt" : "D A G G"
+	},
+	{
+		"id" : 1340,
+		"chwyt" : "D A G G"
+	},
+	{
+		"id" : 1343,
+		"chwyt" : "h A G e"
+	},
+	{
+		"id" : 1349,
+		"chwyt" : "e D e e"
+	},
+	{
+		"id" : 1351,
+		"chwyt" : "D h e e"
+	},
+	{
+		"id" : 1360,
+		"chwyt" : "a F C G"
+	},
+	{
+		"id" : 1367,
+		"chwyt" : "a F C E7"
+	},
+	{
+		"id" : 1368,
+		"chwyt" : "a F C G"
+	},
+	{
+		"id" : 1374,
+		"chwyt" : "a D G C"
+	},
+	{
+		"id" : 1377,
+		"chwyt" : "F F G G"
+	},
+	{
+		"id" : 1380,
+		"chwyt" : "a D G C"
+	},
+	{
+		"id" : 1381,
+		"chwyt" : "F F G G"
+	},
+	{
+		"id" : 1387,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 1388,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1389,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 1390,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1392,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 1393,
+		"chwyt" : "fis h"
+	},
+	{
+		"id" : 1394,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 1395,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 1396,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 1397,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1398,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 1399,
+		"chwyt" : "G e"
+	},
+	{
+		"id" : 1400,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 1401,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1402,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 1403,
+		"chwyt" : "G h"
+	},
+	{
+		"id" : 1404,
+		"chwyt" : "e A D"
+	},
+	{
+		"id" : 1408,
+		"chwyt" : "h"
+	},
+	{
+		"id" : 1409,
+		"chwyt" : "h"
+	},
+	{
+		"id" : 1410,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 1411,
+		"chwyt" : "e7"
+	},
+	{
+		"id" : 1412,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 1413,
+		"chwyt" : "     A"
+	},
+	{
+		"id" : 1414,
+		"chwyt" : "h"
+	},
+	{
+		"id" : 1415,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 1416,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 1417,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 1418,
+		"chwyt" : "h"
+	},
+	{
+		"id" : 1419,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 1422,
+		"chwyt" : "a d"
+	},
+	{
+		"id" : 1423,
+		"chwyt" : "G d"
+	},
+	{
+		"id" : 1424,
+		"chwyt" : "a d"
+	},
+	{
+		"id" : 1425,
+		"chwyt" : "G d"
+	},
+	{
+		"id" : 1427,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 1428,
+		"chwyt" : "d d"
+	},
+	{
+		"id" : 1429,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 1430,
+		"chwyt" : "d E"
+	},
+	{
+		"id" : 1431,
+		"chwyt" : "a dE"
+	},
+	{
+		"id" : 1432,
+		"chwyt" : "a FG"
+	},
+	{
+		"id" : 1433,
+		"chwyt" : "C dE"
+	},
+	{
+		"id" : 1434,
+		"chwyt" : "a FG"
+	},
+	{
+		"id" : 1435,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 1440,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1441,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 1442,
+		"chwyt" : "h G"
+	},
+	{
+		"id" : 1443,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1444,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 1445,
+		"chwyt" : "h"
+	},
+	{
+		"id" : 1446,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 1450,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 1451,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 1452,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 1453,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1454,
+		"chwyt" : "C H7"
+	},
+	{
+		"id" : 1455,
+		"chwyt" : "e c"
+	},
+	{
+		"id" : 1456,
+		"chwyt" : "G D7"
+	},
+	{
+		"id" : 1457,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 1458,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 1459,
+		"chwyt" : "e c"
+	},
+	{
+		"id" : 1460,
+		"chwyt" : "G D G"
+	},
+	{
+		"id" : 1463,
+		"chwyt" : "E H7 A E"
+	},
+	{
+		"id" : 1464,
+		"chwyt" : "A H E E"
+	},
+	{
+		"id" : 1465,
+		"chwyt" : "E H7 A E"
+	},
+	{
+		"id" : 1466,
+		"chwyt" : "A H E E"
+	},
+	{
+		"id" : 1468,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 1469,
+		"chwyt" : "H7 E"
+	},
+	{
+		"id" : 1470,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 1471,
+		"chwyt" : "H7 E"
+	},
+	{
+		"id" : 1476,
+		"chwyt" : "F a7"
+	},
+	{
+		"id" : 1477,
+		"chwyt" : "d B"
+	},
+	{
+		"id" : 1478,
+		"chwyt" : "d B"
+	},
+	{
+		"id" : 1479,
+		"chwyt" : "F a7"
+	},
+	{
+		"id" : 1484,
+		"chwyt" : "d B"
+	},
+	{
+		"id" : 1485,
+		"chwyt" : "F a7"
+	},
+	{
+		"id" : 1486,
+		"chwyt" : "g a"
+	},
+	{
+		"id" : 1487,
+		"chwyt" : "d C"
+	},
+	{
+		"id" : 1488,
+		"chwyt" : "g a"
+	},
+	{
+		"id" : 1489,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 1492,
+		"chwyt" : "gis A cisH"
+	},
+	{
+		"id" : 1497,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 1498,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 1499,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 1500,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1501,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 1502,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1503,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 1504,
+		"chwyt" : "cisA H"
+	},
+	{
+		"id" : 1511,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 1512,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1513,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 1514,
+		"chwyt" : "gis A"
+	},
+	{
+		"id" : 1515,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 1516,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1520,
+		"chwyt" : "E A H A"
+	},
+	{
+		"id" : 1525,
+		"chwyt" : "E fis gis A"
+	},
+	{
+		"id" : 1529,
+		"chwyt" : "E A H A"
+	},
+	{
+		"id" : 1533,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 1534,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 1535,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 1536,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 1537,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 1538,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 1539,
+		"chwyt" : "fis H"
+	},
+	{
+		"id" : 1540,
+		"chwyt" : "E EA"
+	},
+	{
+		"id" : 1541,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 1542,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 1543,
+		"chwyt" : "fis H"
+	},
+	{
+		"id" : 1544,
+		"chwyt" : "E EA"
+	},
+	{
+		"id" : 1545,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 1546,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 1547,
+		"chwyt" : "A fis"
+	},
+	{
+		"id" : 1548,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 1551,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 1552,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 1553,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 1554,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 1555,
+		"chwyt" : "fis fis"
+	},
+	{
+		"id" : 1556,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 1557,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 1558,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 1559,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 1560,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 1561,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 1572,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 1573,
+		"chwyt" : "fis A"
+	},
+	{
+		"id" : 1575,
+		"chwyt" : "fis cis"
+	},
+	{
+		"id" : 1576,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 1577,
+		"chwyt" : "fis cis"
+	},
+	{
+		"id" : 1578,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 1583,
+		"chwyt" : "D GA"
+	},
+	{
+		"id" : 1584,
+		"chwyt" : "D GA"
+	},
+	{
+		"id" : 1585,
+		"chwyt" : "D GA"
+	},
+	{
+		"id" : 1591,
+		"chwyt" : "GDeD"
+	},
+	{
+		"id" : 1593,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 1594,
+		"chwyt" : "fis h"
+	},
+	{
+		"id" : 1595,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 1596,
+		"chwyt" : "fis A"
+	},
+	{
+		"id" : 1598,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 1599,
+		"chwyt" : "fis h"
+	},
+	{
+		"id" : 1600,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 1601,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1605,
+		"chwyt" : "D G D G"
+	},
+	{
+		"id" : 1606,
+		"chwyt" : "D G D G"
+	},
+	{
+		"id" : 1607,
+		"chwyt" : "e e G A"
+	},
+	{
+		"id" : 1608,
+		"chwyt" : "D G D G"
+	},
+	{
+		"id" : 1609,
+		"chwyt" : "D G D G"
+	},
+	{
+		"id" : 1621,
+		"chwyt" : "D A G A"
+	},
+	{
+		"id" : 1622,
+		"chwyt" : "D A G A"
+	},
+	{
+		"id" : 1623,
+		"chwyt" : "D A G A"
+	},
+	{
+		"id" : 1624,
+		"chwyt" : "D A GAD"
+	},
+	{
+		"id" : 1626,
+		"chwyt" : "G A D D"
+	},
+	{
+		"id" : 1627,
+		"chwyt" : "G A h h"
+	},
+	{
+		"id" : 1628,
+		"chwyt" : "G A fis h"
+	},
+	{
+		"id" : 1629,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 1632,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 1633,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 1634,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 1635,
+		"chwyt" : "a aD"
+	},
+	{
+		"id" : 1636,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 1638,
+		"chwyt" : "C D e e"
+	},
+	{
+		"id" : 1639,
+		"chwyt" : "C D e e"
+	},
+	{
+		"id" : 1640,
+		"chwyt" : "a D GDe"
+	},
+	{
+		"id" : 1641,
+		"chwyt" : "a a H H"
+	},
+	{
+		"id" : 1644,
+		"chwyt" : "e G"
+	},
+	{
+		"id" : 1645,
+		"chwyt" : "D h e e"
+	},
+	{
+		"id" : 1646,
+		"chwyt" : "a e"
+	},
+	{
+		"id" : 1647,
+		"chwyt" : "D h e e"
+	},
+	{
+		"id" : 1652,
+		"chwyt" : "D GD A D"
+	},
+	{
+		"id" : 1654,
+		"chwyt" : "D GD A D"
+	},
+	{
+		"id" : 1656,
+		"chwyt" : "D G A D"
+	},
+	{
+		"id" : 1657,
+		"chwyt" : "D G A A"
+	},
+	{
+		"id" : 1659,
+		"chwyt" : "D G A D"
+	},
+	{
+		"id" : 1660,
+		"chwyt" : "D G A A"
+	},
+	{
+		"id" : 1661,
+		"chwyt" : "F C G D"
+	},
+	{
+		"id" : 1662,
+		"chwyt" : "F C G A"
+	},
+	{
+		"id" : 1664,
+		"chwyt" : "D GD A D"
+	},
+	{
+		"id" : 1665,
+		"chwyt" : "D GD A D"
+	},
+	{
+		"id" : 1669,
+		"chwyt" : "d C a d"
+	},
+	{
+		"id" : 1673,
+		"chwyt" : "F C a d"
+	},
+	{
+		"id" : 1682,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 1683,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 1686,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 1687,
+		"chwyt" : "cis cis"
+	},
+	{
+		"id" : 1688,
+		"chwyt" : "H H A A"
+	},
+	{
+		"id" : 1700,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 1701,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 1702,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 1703,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1707,
+		"chwyt" : "\/D GD G\/x2"
+	},
+	{
+		"id" : 1708,
+		"chwyt" : "h h fis fis"
+	},
+	{
+		"id" : 1709,
+		"chwyt" : "h h A A"
+	},
+	{
+		"id" : 1712,
+		"chwyt" : "e e a e"
+	},
+	{
+		"id" : 1713,
+		"chwyt" : "a a H H"
+	},
+	{
+		"id" : 1721,
+		"chwyt" : "e e a e"
+	},
+	{
+		"id" : 1722,
+		"chwyt" : "a e Fis H"
+	},
+	{
+		"id" : 1723,
+		"chwyt" : "e e a e"
+	},
+	{
+		"id" : 1724,
+		"chwyt" : "a e Fis H e e"
+	},
+	{
+		"id" : 1727,
+		"chwyt" : "\/A H"
+	},
+	{
+		"id" : 1728,
+		"chwyt" : "E E \/x4"
+	},
+	{
+		"id" : 1729,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 1730,
+		"chwyt" : "E cis"
+	},
+	{
+		"id" : 1731,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 1732,
+		"chwyt" : "E cis"
+	},
+	{
+		"id" : 1733,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 1734,
+		"chwyt" : "E cis"
+	},
+	{
+		"id" : 1735,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 1736,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 1737,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 1738,
+		"chwyt" : "h G"
+	},
+	{
+		"id" : 1739,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 1740,
+		"chwyt" : "h G"
+	},
+	{
+		"id" : 1742,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 1743,
+		"chwyt" : "C A"
+	},
+	{
+		"id" : 1744,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 1745,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 1747,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 1748,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 1749,
+		"chwyt" : "E H A A"
+	},
+	{
+		"id" : 1750,
+		"chwyt" : "D D A A"
+	},
+	{
+		"id" : 1751,
+		"chwyt" : "h G 1. A A 2. A H"
+	},
+	{
+		"id" : 1756,
+		"chwyt" : "\/D A h G A\/x2"
+	},
+	{
+		"id" : 1767,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 1768,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 1770,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1771,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 1772,
+		"chwyt" : "H7 A"
+	},
+	{
+		"id" : 1773,
+		"chwyt" : "E EH7"
+	},
+	{
+		"id" : 1775,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 1776,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 1777,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1778,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 1779,
+		"chwyt" : "H7 A"
+	},
+	{
+		"id" : 1781,
+		"chwyt" : "D D G A"
+	},
+	{
+		"id" : 1786,
+		"chwyt" : "e e h h"
+	},
+	{
+		"id" : 1787,
+		"chwyt" : "e e D A"
+	},
+	{
+		"id" : 1788,
+		"chwyt" : "e e h h"
+	},
+	{
+		"id" : 1789,
+		"chwyt" : "G G A A"
+	},
+	{
+		"id" : 1792,
+		"chwyt" : "\/D D\/x2"
+	},
+	{
+		"id" : 1793,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 1794,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1795,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 1796,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1797,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 1798,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1799,
+		"chwyt" : "A G A"
+	},
+	{
+		"id" : 1800,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 1801,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 1802,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 1803,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1804,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 1806,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 1807,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 1808,
+		"chwyt" : "h e"
+	},
+	{
+		"id" : 1809,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 1812,
+		"chwyt" : "d C a d"
+	},
+	{
+		"id" : 1813,
+		"chwyt" : "F C a d"
+	},
+	{
+		"id" : 1814,
+		"chwyt" : "d C a d"
+	},
+	{
+		"id" : 1815,
+		"chwyt" : "F C a d"
+	},
+	{
+		"id" : 1817,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 1818,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 1819,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 1820,
+		"chwyt" : "d C B C"
+	},
+	{
+		"id" : 1822,
+		"chwyt" : "C G a a"
+	},
+	{
+		"id" : 1823,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 1827,
+		"chwyt" : "C G a a"
+	},
+	{
+		"id" : 1828,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 1833,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 1834,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 1835,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 1836,
+		"chwyt" : "E Gis7"
+	},
+	{
+		"id" : 1838,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 1839,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 1840,
+		"chwyt" : "cis Gis7"
+	},
+	{
+		"id" : 1841,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 1843,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 1844,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 1845,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 1846,
+		"chwyt" : "E Gis7"
+	},
+	{
+		"id" : 1848,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 1849,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 1850,
+		"chwyt" : "cis Gis7"
+	},
+	{
+		"id" : 1851,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 1853,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1854,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1855,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 1856,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 1857,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 1858,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 1859,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1860,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 1861,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1862,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1864,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 1865,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 1866,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1867,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 1868,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 1869,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 1870,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 1871,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 1874,
+		"chwyt" : "E gis A A"
+	},
+	{
+		"id" : 1875,
+		"chwyt" : "E H A A"
+	},
+	{
+		"id" : 1876,
+		"chwyt" : "E H A fis"
+	},
+	{
+		"id" : 1877,
+		"chwyt" : "E H E E"
+	},
+	{
+		"id" : 1879,
+		"chwyt" : "E gis A A"
+	},
+	{
+		"id" : 1880,
+		"chwyt" : "E H A A"
+	},
+	{
+		"id" : 1881,
+		"chwyt" : "E H A fis"
+	},
+	{
+		"id" : 1882,
+		"chwyt" : "H H E E"
+	},
+	{
+		"id" : 1884,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 1885,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 1886,
+		"chwyt" : "A cis"
+	},
+	{
+		"id" : 1887,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 1891,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 1892,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 1901,
+		"chwyt" : "E A H H"
+	},
+	{
+		"id" : 1904,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1905,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 1908,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 1909,
+		"chwyt" : "h fis h"
+	},
+	{
+		"id" : 1910,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 1911,
+		"chwyt" : "D G A A7"
+	},
+	{
+		"id" : 1912,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 1913,
+		"chwyt" : "h fis h"
+	},
+	{
+		"id" : 1914,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 1915,
+		"chwyt" : "D D7"
+	},
+	{
+		"id" : 1917,
+		"chwyt" : "G A fis h"
+	},
+	{
+		"id" : 1918,
+		"chwyt" : "e A D D7"
+	},
+	{
+		"id" : 1919,
+		"chwyt" : "G A fis h"
+	},
+	{
+		"id" : 1920,
+		"chwyt" : "e A D D"
+	},
+	{
+		"id" : 1924,
+		"chwyt" : "A D E E"
+	},
+	{
+		"id" : 1925,
+		"chwyt" : "1. fis D E E 2. D D h E A"
+	},
+	{
+		"id" : 1929,
+		"chwyt" : "e h C C"
+	},
+	{
+		"id" : 1932,
+		"chwyt" : "a a h h"
+	},
+	{
+		"id" : 1934,
+		"chwyt" : "e h C C"
+	},
+	{
+		"id" : 1937,
+		"chwyt" : "a a D D"
+	},
+	{
+		"id" : 1938,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 1939,
+		"chwyt" : "G G D D C G C D"
+	},
+	{
+		"id" : 1941,
+		"chwyt" : "e e D D C G C D"
+	},
+	{
+		"id" : 1942,
+		"chwyt" : "G G D D"
+	},
+	{
+		"id" : 1943,
+		"chwyt" : "a a C C"
+	},
+	{
+		"id" : 1946,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 1947,
+		"chwyt" : "G D A A"
+	},
+	{
+		"id" : 1949,
+		"chwyt" : "G D A A"
+	},
+	{
+		"id" : 1950,
+		"chwyt" : "G D A A"
+	},
+	{
+		"id" : 1952,
+		"chwyt" : "DAG G G"
+	},
+	{
+		"id" : 1962,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 1963,
+		"chwyt" : "e H7"
+	},
+	{
+		"id" : 1964,
+		"chwyt" : "H7 H7"
+	},
+	{
+		"id" : 1965,
+		"chwyt" : "H7 e"
+	},
+	{
+		"id" : 1966,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 1967,
+		"chwyt" : "e H7"
+	},
+	{
+		"id" : 1968,
+		"chwyt" : "H7 H7"
+	},
+	{
+		"id" : 1969,
+		"chwyt" : "H7 e"
+	},
+	{
+		"id" : 1976,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 1977,
+		"chwyt" : "e H7"
+	},
+	{
+		"id" : 1978,
+		"chwyt" : "H7 H7"
+	},
+	{
+		"id" : 1979,
+		"chwyt" : "H7 e"
+	},
+	{
+		"id" : 1981,
+		"chwyt" : "C e C e"
+	},
+	{
+		"id" : 1982,
+		"chwyt" : "C e C H7"
+	},
+	{
+		"id" : 1983,
+		"chwyt" : "H7 H7"
+	},
+	{
+		"id" : 1986,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 1987,
+		"chwyt" : "H7 H7 e"
+	},
+	{
+		"id" : 1991,
+		"chwyt" : "E fis cis A"
+	},
+	{
+		"id" : 1997,
+		"chwyt" : "C D e e"
+	},
+	{
+		"id" : 1998,
+		"chwyt" : "C D C G"
+	},
+	{
+		"id" : 1999,
+		"chwyt" : "C D e e"
+	},
+	{
+		"id" : 2000,
+		"chwyt" : "a D"
+	},
+	{
+		"id" : 2002,
+		"chwyt" : "C D e e"
+	},
+	{
+		"id" : 2003,
+		"chwyt" : "C D C G"
+	},
+	{
+		"id" : 2004,
+		"chwyt" : "C D e e"
+	},
+	{
+		"id" : 2005,
+		"chwyt" : "a G"
+	},
+	{
+		"id" : 2006,
+		"chwyt" : "C h7"
+	},
+	{
+		"id" : 2014,
+		"chwyt" : "C e D D"
+	},
+	{
+		"id" : 2015,
+		"chwyt" : "C DhC C"
+	},
+	{
+		"id" : 2016,
+		"chwyt" : "C D h C"
+	},
+	{
+		"id" : 2017,
+		"chwyt" : "C DhC C"
+	},
+	{
+		"id" : 2019,
+		"chwyt" : "C e D D"
+	},
+	{
+		"id" : 2020,
+		"chwyt" : "C e DeD"
+	},
+	{
+		"id" : 2021,
+		"chwyt" : "C e D D"
+	},
+	{
+		"id" : 2022,
+		"chwyt" : "C e D h"
+	},
+	{
+		"id" : 2023,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 2034,
+		"chwyt" : "G G e e"
+	},
+	{
+		"id" : 2035,
+		"chwyt" : "C C C CD"
+	},
+	{
+		"id" : 2039,
+		"chwyt" : "C e D D"
+	},
+	{
+		"id" : 2041,
+		"chwyt" : "C e D eD"
+	},
+	{
+		"id" : 2042,
+		"chwyt" : "C e D D"
+	},
+	{
+		"id" : 2043,
+		"chwyt" : "C e D h"
+	},
+	{
+		"id" : 2044,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 2046,
+		"chwyt" : "C G D D"
+	},
+	{
+		"id" : 2052,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2053,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 2054,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 2055,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 2057,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 2058,
+		"chwyt" : "h E"
+	},
+	{
+		"id" : 2059,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 2060,
+		"chwyt" : "h E"
+	},
+	{
+		"id" : 2061,
+		"chwyt" : "cis fis"
+	},
+	{
+		"id" : 2062,
+		"chwyt" : "D E"
+	},
+	{
+		"id" : 2063,
+		"chwyt" : "A fis"
+	},
+	{
+		"id" : 2064,
+		"chwyt" : "D E A fis"
+	},
+	{
+		"id" : 2065,
+		"chwyt" : "D E A"
+	},
+	{
+		"id" : 2067,
+		"chwyt" : "fis E D E"
+	},
+	{
+		"id" : 2068,
+		"chwyt" : "A h7Cis7"
+	},
+	{
+		"id" : 2069,
+		"chwyt" : "fis E D E"
+	},
+	{
+		"id" : 2070,
+		"chwyt" : "1. fis h7 Cis7  2. fis E"
+	},
+	{
+		"id" : 2073,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 2074,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 2075,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 2076,
+		"chwyt" : "a H7"
+	},
+	{
+		"id" : 2077,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 2078,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 2079,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 2080,
+		"chwyt" : "a H"
+	},
+	{
+		"id" : 2081,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 2082,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 2083,
+		"chwyt" : "C H7"
+	},
+	{
+		"id" : 2085,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 2086,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 2087,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 2088,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 2089,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 2090,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 2091,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 2092,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 2095,
+		"chwyt" : "d C"
+	},
+	{
+		"id" : 2096,
+		"chwyt" : "a d"
+	},
+	{
+		"id" : 2097,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 2098,
+		"chwyt" : "d d"
+	},
+	{
+		"id" : 2099,
+		"chwyt" : "d C"
+	},
+	{
+		"id" : 2100,
+		"chwyt" : "g d"
+	},
+	{
+		"id" : 2101,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 2102,
+		"chwyt" : "d d"
+	},
+	{
+		"id" : 2106,
+		"chwyt" : "C F C G"
+	},
+	{
+		"id" : 2107,
+		"chwyt" : "C F a G"
+	},
+	{
+		"id" : 2108,
+		"chwyt" : "C F C G"
+	},
+	{
+		"id" : 2109,
+		"chwyt" : "C F a G"
+	},
+	{
+		"id" : 2110,
+		"chwyt" : "C C F G"
+	},
+	{
+		"id" : 2111,
+		"chwyt" : "C C F G"
+	},
+	{
+		"id" : 2112,
+		"chwyt" : "C C F G"
+	},
+	{
+		"id" : 2115,
+		"chwyt" : "G e"
+	},
+	{
+		"id" : 2116,
+		"chwyt" : "C D G G"
+	},
+	{
+		"id" : 2117,
+		"chwyt" : "G e"
+	},
+	{
+		"id" : 2118,
+		"chwyt" : "C D G G"
+	},
+	{
+		"id" : 2120,
+		"chwyt" : "D e"
+	},
+	{
+		"id" : 2121,
+		"chwyt" : "D e"
+	},
+	{
+		"id" : 2124,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 2125,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 2126,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 2127,
+		"chwyt" : "D D7"
+	},
+	{
+		"id" : 2129,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 2130,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 2131,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 2132,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2135,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 2136,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 2137,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 2138,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 2140,
+		"chwyt" : "h E"
+	},
+	{
+		"id" : 2141,
+		"chwyt" : "cis fis"
+	},
+	{
+		"id" : 2142,
+		"chwyt" : "h E"
+	},
+	{
+		"id" : 2143,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 2157,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 2158,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 2159,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 2160,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 2166,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 2167,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 2168,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 2169,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 2172,
+		"chwyt" : "E fis A H"
+	},
+	{
+		"id" : 2173,
+		"chwyt" : "E fis AH E"
+	},
+	{
+		"id" : 2177,
+		"chwyt" : "cis A E H"
+	},
+	{
+		"id" : 2178,
+		"chwyt" : "cis A EH E"
+	},
+	{
+		"id" : 2191,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 2192,
+		"chwyt" : "g"
+	},
+	{
+		"id" : 2193,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 2194,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 2196,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 2197,
+		"chwyt" : "g"
+	},
+	{
+		"id" : 2198,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 2199,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 2201,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 2202,
+		"chwyt" : "g"
+	},
+	{
+		"id" : 2203,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2204,
+		"chwyt" : "F A7"
+	},
+	{
+		"id" : 2205,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 2206,
+		"chwyt" : "g A"
+	},
+	{
+		"id" : 2207,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 2208,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 2209,
+		"chwyt" : "g a"
+	},
+	{
+		"id" : 2210,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 2214,
+		"chwyt" : "A A E E"
+	},
+	{
+		"id" : 2215,
+		"chwyt" : "fis E D D"
+	},
+	{
+		"id" : 2216,
+		"chwyt" : "A D A fis"
+	},
+	{
+		"id" : 2217,
+		"chwyt" : "G D E E"
+	},
+	{
+		"id" : 2224,
+		"chwyt" : "A fis D E"
+	},
+	{
+		"id" : 2225,
+		"chwyt" : "A  fis D E"
+	},
+	{
+		"id" : 2226,
+		"chwyt" : "fis D"
+	},
+	{
+		"id" : 2227,
+		"chwyt" : "E D E E"
+	},
+	{
+		"id" : 2228,
+		"chwyt" : "A fis D E"
+	},
+	{
+		"id" : 2229,
+		"chwyt" : "A fis D E"
+	},
+	{
+		"id" : 2230,
+		"chwyt" : "fis D E A E"
+	},
+	{
+		"id" : 2233,
+		"chwyt" : "E A H A"
+	},
+	{
+		"id" : 2238,
+		"chwyt" : "E A H A"
+	},
+	{
+		"id" : 2250,
+		"chwyt" : "e D h C"
+	},
+	{
+		"id" : 2251,
+		"chwyt" : "e D h C"
+	},
+	{
+		"id" : 2252,
+		"chwyt" : "a C eD C"
+	},
+	{
+		"id" : 2254,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 2256,
+		"chwyt" : "G a"
+	},
+	{
+		"id" : 2257,
+		"chwyt" : "e C e D h C"
+	},
+	{
+		"id" : 2264,
+		"chwyt" : "e C"
+	},
+	{
+		"id" : 2265,
+		"chwyt" : "D CDe"
+	},
+	{
+		"id" : 2266,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 2267,
+		"chwyt" : "a G D"
+	},
+	{
+		"id" : 2268,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 2269,
+		"chwyt" : "a G D"
+	},
+	{
+		"id" : 2272,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 2283,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 2286,
+		"chwyt" : "h A D D"
+	},
+	{
+		"id" : 2288,
+		"chwyt" : "G D G A"
+	},
+	{
+		"id" : 2289,
+		"chwyt" : "D A h E"
+	},
+	{
+		"id" : 2290,
+		"chwyt" : "D D A A"
+	},
+	{
+		"id" : 2292,
+		"chwyt" : "D A e D"
+	},
+	{
+		"id" : 2293,
+		"chwyt" : "1. G A D A 2. G A G A h h"
+	},
+	{
+		"id" : 2319,
+		"chwyt" : "E gis"
+	},
+	{
+		"id" : 2320,
+		"chwyt" : "fis H"
+	},
+	{
+		"id" : 2321,
+		"chwyt" : "fis cis"
+	},
+	{
+		"id" : 2322,
+		"chwyt" : "fis H"
+	},
+	{
+		"id" : 2324,
+		"chwyt" : "E gis"
+	},
+	{
+		"id" : 2325,
+		"chwyt" : "fis H"
+	},
+	{
+		"id" : 2326,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 2328,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 2329,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 2333,
+		"chwyt" : "cis A E E"
+	},
+	{
+		"id" : 2334,
+		"chwyt" : "cis A E E"
+	},
+	{
+		"id" : 2335,
+		"chwyt" : "fis H"
+	},
+	{
+		"id" : 2340,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 2341,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 2342,
+		"chwyt" : "cis A E H"
+	},
+	{
+		"id" : 2345,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 2346,
+		"chwyt" : "D e"
+	},
+	{
+		"id" : 2347,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 2348,
+		"chwyt" : "a h e e"
+	},
+	{
+		"id" : 2351,
+		"chwyt" : "D A h h"
+	},
+	{
+		"id" : 2352,
+		"chwyt" : "G e A A7"
+	},
+	{
+		"id" : 2354,
+		"chwyt" : "D A h h"
+	},
+	{
+		"id" : 2355,
+		"chwyt" : "G A D D"
+	},
+	{
+		"id" : 2359,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2360,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 2361,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2362,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 2363,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2364,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 2365,
+		"chwyt" : "C d"
+	},
+	{
+		"id" : 2366,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2367,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2368,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 2369,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 2370,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 2371,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2372,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 2373,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 2374,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 2376,
+		"chwyt" : "e D a e"
+	},
+	{
+		"id" : 2377,
+		"chwyt" : "e D CD e"
+	},
+	{
+		"id" : 2378,
+		"chwyt" : "G D a e"
+	},
+	{
+		"id" : 2379,
+		"chwyt" : "G D a a"
+	},
+	{
+		"id" : 2380,
+		"chwyt" : "a H7"
+	},
+	{
+		"id" : 2381,
+		"chwyt" : "G D a H7"
+	},
+	{
+		"id" : 2382,
+		"chwyt" : "G D a H7"
+	},
+	{
+		"id" : 2385,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 2386,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 2387,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 2388,
+		"chwyt" : "E H E"
+	},
+	{
+		"id" : 2390,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 2391,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 2392,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 2393,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 2396,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2397,
+		"chwyt" : "e7 e7"
+	},
+	{
+		"id" : 2398,
+		"chwyt" : "g7 a7 D D"
+	},
+	{
+		"id" : 2403,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 2404,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 2405,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 2406,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2412,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 2413,
+		"chwyt" : "g7 a7"
+	},
+	{
+		"id" : 2414,
+		"chwyt" : "B a7"
+	},
+	{
+		"id" : 2415,
+		"chwyt" : "g7 A7"
+	},
+	{
+		"id" : 2419,
+		"chwyt" : "E H A H"
+	},
+	{
+		"id" : 2420,
+		"chwyt" : "E H A H"
+	},
+	{
+		"id" : 2421,
+		"chwyt" : "E H A H"
+	},
+	{
+		"id" : 2422,
+		"chwyt" : "E H A A"
+	},
+	{
+		"id" : 2424,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 2425,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 2432,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2433,
+		"chwyt" : "G e"
+	},
+	{
+		"id" : 2434,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 2435,
+		"chwyt" : "e A7"
+	},
+	{
+		"id" : 2436,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2437,
+		"chwyt" : "G g"
+	},
+	{
+		"id" : 2438,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 2439,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 2443,
+		"chwyt" : "e e D"
+	},
+	{
+		"id" : 2444,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 2445,
+		"chwyt" : "e e D"
+	},
+	{
+		"id" : 2446,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 2448,
+		"chwyt" : "F G A A"
+	},
+	{
+		"id" : 2451,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2452,
+		"chwyt" : "G D "
+	},
+	{
+		"id" : 2453,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2454,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 2456,
+		"chwyt" : "A G"
+	},
+	{
+		"id" : 2459,
+		"chwyt" : "A G"
+	},
+	{
+		"id" : 2460,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 2461,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2462,
+		"chwyt" : "A G"
+	},
+	{
+		"id" : 2463,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2464,
+		"chwyt" : "A G"
+	},
+	{
+		"id" : 2465,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2466,
+		"chwyt" : "A G"
+	},
+	{
+		"id" : 2467,
+		"chwyt" : "A G"
+	},
+	{
+		"id" : 2468,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 2471,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 2472,
+		"chwyt" : "G a"
+	},
+	{
+		"id" : 2473,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 2474,
+		"chwyt" : "G a"
+	},
+	{
+		"id" : 2476,
+		"chwyt" : "F F"
+	},
+	{
+		"id" : 2477,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 2478,
+		"chwyt" : "d d"
+	},
+	{
+		"id" : 2479,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 2492,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 2493,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 2494,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2495,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2496,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 2497,
+		"chwyt" : "H7"
+	},
+	{
+		"id" : 2498,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 2499,
+		"chwyt" : "C H7"
+	},
+	{
+		"id" : 2500,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2501,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2502,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 2503,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 2504,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2505,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2506,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 2507,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 2508,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2509,
+		"chwyt" : "H7"
+	},
+	{
+		"id" : 2510,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 2511,
+		"chwyt" : "H7"
+	},
+	{
+		"id" : 2515,
+		"chwyt" : "D A G G"
+	},
+	{
+		"id" : 2516,
+		"chwyt" : "h D G G"
+	},
+	{
+		"id" : 2521,
+		"chwyt" : "h hA D D"
+	},
+	{
+		"id" : 2522,
+		"chwyt" : "e eD C C"
+	},
+	{
+		"id" : 2523,
+		"chwyt" : "h hA D D"
+	},
+	{
+		"id" : 2524,
+		"chwyt" : "e eD C GA"
+	},
+	{
+		"id" : 2533,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 2534,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2535,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 2536,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 2537,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 2538,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2539,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 2540,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 2541,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 2542,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 2543,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2544,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 2545,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 2546,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 2547,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2548,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 2549,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 2555,
+		"chwyt" : "D fis h h"
+	},
+	{
+		"id" : 2556,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 2557,
+		"chwyt" : "D fis h h"
+	},
+	{
+		"id" : 2558,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 2560,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 2561,
+		"chwyt" : "fis h"
+	},
+	{
+		"id" : 2562,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 2563,
+		"chwyt" : "D fis h h"
+	},
+	{
+		"id" : 2564,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 2565,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 2568,
+		"chwyt" : "E E gis cis A H E E"
+	},
+	{
+		"id" : 2569,
+		"chwyt" : "E E E E"
+	},
+	{
+		"id" : 2570,
+		"chwyt" : "A H E E"
+	},
+	{
+		"id" : 2590,
+		"chwyt" : "G C D D"
+	},
+	{
+		"id" : 2595,
+		"chwyt" : "G C D D"
+	},
+	{
+		"id" : 2599,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 2600,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 2601,
+		"chwyt" : "h"
+	},
+	{
+		"id" : 2602,
+		"chwyt" : "G e"
+	},
+	{
+		"id" : 2603,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 2605,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 2606,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 2607,
+		"chwyt" : "e h B A"
+	},
+	{
+		"id" : 2609,
+		"chwyt" : "D A h h"
+	},
+	{
+		"id" : 2610,
+		"chwyt" : "e G A"
+	},
+	{
+		"id" : 2611,
+		"chwyt" : "D A h h"
+	},
+	{
+		"id" : 2612,
+		"chwyt" : "e G A"
+	},
+	{
+		"id" : 2614,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 2615,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 2616,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 2617,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 2618,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 2619,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 2620,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 2621,
+		"chwyt" : "D G A A"
+	},
+	{
+		"id" : 2622,
+		"chwyt" : "e A D D"
+	},
+	{
+		"id" : 2632,
+		"chwyt" : "E A H"
+	},
+	{
+		"id" : 2650,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 2651,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 2655,
+		"chwyt" : "e a"
+	},
+	{
+		"id" : 2659,
+		"chwyt" : "C a"
+	},
+	{
+		"id" : 2662,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 2664,
+		"chwyt" : "e a"
+	},
+	{
+		"id" : 2666,
+		"chwyt" : "C a"
+	},
+	{
+		"id" : 2669,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 2672,
+		"chwyt" : "A D E fis"
+	},
+	{
+		"id" : 2673,
+		"chwyt" : "A D E A"
+	},
+	{
+		"id" : 2674,
+		"chwyt" : "A D E fis"
+	},
+	{
+		"id" : 2675,
+		"chwyt" : "A D E A"
+	},
+	{
+		"id" : 2677,
+		"chwyt" : "E fis"
+	},
+	{
+		"id" : 2678,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 2679,
+		"chwyt" : "E fis"
+	},
+	{
+		"id" : 2680,
+		"chwyt" : "D E"
+	},
+	{
+		"id" : 2684,
+		"chwyt" : "a C G"
+	},
+	{
+		"id" : 2685,
+		"chwyt" : "a C G"
+	},
+	{
+		"id" : 2686,
+		"chwyt" : "a C G"
+	},
+	{
+		"id" : 2687,
+		"chwyt" : "a C G"
+	},
+	{
+		"id" : 2688,
+		"chwyt" : "a a"
+	},
+	{
+		"id" : 2689,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 2690,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 2691,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 2692,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 2694,
+		"chwyt" : "a C G"
+	},
+	{
+		"id" : 2695,
+		"chwyt" : "a C G"
+	},
+	{
+		"id" : 2698,
+		"chwyt" : "D A h fis"
+	},
+	{
+		"id" : 2699,
+		"chwyt" : "G D e A"
+	},
+	{
+		"id" : 2701,
+		"chwyt" : "D A h fis"
+	},
+	{
+		"id" : 2702,
+		"chwyt" : "G A D A"
+	},
+	{
+		"id" : 2710,
+		"chwyt" : "E H fis A"
+	},
+	{
+		"id" : 2715,
+		"chwyt" : "E H fis A"
+	},
+	{
+		"id" : 2726,
+		"chwyt" : "cis H fis fis"
+	},
+	{
+		"id" : 2731,
+		"chwyt" : "C F C"
+	},
+	{
+		"id" : 2732,
+		"chwyt" : "d G"
+	},
+	{
+		"id" : 2733,
+		"chwyt" : "C F a"
+	},
+	{
+		"id" : 2734,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 2735,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 2736,
+		"chwyt" : "a d"
+	},
+	{
+		"id" : 2737,
+		"chwyt" : "a E"
+	},
+	{
+		"id" : 2738,
+		"chwyt" : "a d"
+	},
+	{
+		"id" : 2739,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 2742,
+		"chwyt" : "D F C D F C"
+	},
+	{
+		"id" : 2743,
+		"chwyt" : "D F C D F C"
+	},
+	{
+		"id" : 2744,
+		"chwyt" : "C G C G"
+	},
+	{
+		"id" : 2745,
+		"chwyt" : "C G D D"
+	},
+	{
+		"id" : 2746,
+		"chwyt" : "C G C G"
+	},
+	{
+		"id" : 2747,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2748,
+		"chwyt" : "C G C G"
+	},
+	{
+		"id" : 2749,
+		"chwyt" : "C G D D"
+	},
+	{
+		"id" : 2750,
+		"chwyt" : "C G C G"
+	},
+	{
+		"id" : 2751,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 2754,
+		"chwyt" : "D A h h"
+	},
+	{
+		"id" : 2755,
+		"chwyt" : "h A D D"
+	},
+	{
+		"id" : 2758,
+		"chwyt" : "G D A A"
+	},
+	{
+		"id" : 2764,
+		"chwyt" : "e C G H7"
+	},
+	{
+		"id" : 2768,
+		"chwyt" : "a a G D"
+	},
+	{
+		"id" : 2771,
+		"chwyt" : "a a G H7"
+	},
+	{
+		"id" : 2773,
+		"chwyt" : "C D e e"
+	},
+	{
+		"id" : 2779,
+		"chwyt" : "a C"
+	},
+	{
+		"id" : 2780,
+		"chwyt" : "G d7"
+	},
+	{
+		"id" : 2781,
+		"chwyt" : "a C"
+	},
+	{
+		"id" : 2782,
+		"chwyt" : "G d7"
+	},
+	{
+		"id" : 2783,
+		"chwyt" : "a C"
+	},
+	{
+		"id" : 2784,
+		"chwyt" : "G d7"
+	},
+	{
+		"id" : 2785,
+		"chwyt" : "F F"
+	},
+	{
+		"id" : 2786,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 2788,
+		"chwyt" : "F F FG"
+	},
+	{
+		"id" : 2789,
+		"chwyt" : "a a"
+	},
+	{
+		"id" : 2790,
+		"chwyt" : "d7 C G"
+	},
+	{
+		"id" : 2791,
+		"chwyt" : "F F FG"
+	},
+	{
+		"id" : 2792,
+		"chwyt" : "a a"
+	},
+	{
+		"id" : 2793,
+		"chwyt" : "d7 d7"
+	},
+	{
+		"id" : 2794,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 2795,
+		"chwyt" : "F F"
+	},
+	{
+		"id" : 2796,
+		"chwyt" : "a a"
+	},
+	{
+		"id" : 2797,
+		"chwyt" : "d7 d7"
+	},
+	{
+		"id" : 2798,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 2799,
+		"chwyt" : "F F"
+	},
+	{
+		"id" : 2800,
+		"chwyt" : "a a"
+	},
+	{
+		"id" : 2801,
+		"chwyt" : "d7 d7"
+	},
+	{
+		"id" : 2802,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 2807,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 2808,
+		"chwyt" : "cis cis"
+	},
+	{
+		"id" : 2809,
+		"chwyt" : "fis A H H"
+	},
+	{
+		"id" : 2810,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 2811,
+		"chwyt" : "H cis H"
+	},
+	{
+		"id" : 2812,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 2813,
+		"chwyt" : "H cis"
+	},
+	{
+		"id" : 2815,
+		"chwyt" : "fis gis A H"
+	},
+	{
+		"id" : 2816,
+		"chwyt" : "fis gis A H"
+	},
+	{
+		"id" : 2820,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2821,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 2822,
+		"chwyt" : "A A7"
+	},
+	{
+		"id" : 2823,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2825,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 2826,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 2827,
+		"chwyt" : "D hA"
+	},
+	{
+		"id" : 2828,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 2829,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2832,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 2833,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 2834,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 2835,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 2836,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 2837,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 2838,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 2839,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 2840,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 2847,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 2848,
+		"chwyt" : "G D G"
+	},
+	{
+		"id" : 2849,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 2850,
+		"chwyt" : "G D G"
+	},
+	{
+		"id" : 2852,
+		"chwyt" : "h e"
+	},
+	{
+		"id" : 2853,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 2854,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 2855,
+		"chwyt" : "G D G"
+	},
+	{
+		"id" : 2857,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 2858,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 2859,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 2860,
+		"chwyt" : "G D G"
+	},
+	{
+		"id" : 2876,
+		"chwyt" : "d C"
+	},
+	{
+		"id" : 2877,
+		"chwyt" : "d a"
+	},
+	{
+		"id" : 2878,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 2879,
+		"chwyt" : "C a"
+	},
+	{
+		"id" : 2880,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 2881,
+		"chwyt" : "d C"
+	},
+	{
+		"id" : 2882,
+		"chwyt" : "F G d"
+	},
+	{
+		"id" : 2883,
+		"chwyt" : "FG G"
+	},
+	{
+		"id" : 2886,
+		"chwyt" : "(D) G A"
+	},
+	{
+		"id" : 2887,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 2888,
+		"chwyt" : "G e A A"
+	},
+	{
+		"id" : 2889,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2891,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 2892,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 2893,
+		"chwyt" : "G e A A"
+	},
+	{
+		"id" : 2894,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2898,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 2899,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 2900,
+		"chwyt" : "d F"
+	},
+	{
+		"id" : 2901,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 2903,
+		"chwyt" : "G a"
+	},
+	{
+		"id" : 2904,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 2905,
+		"chwyt" : "G a"
+	},
+	{
+		"id" : 2906,
+		"chwyt" : "d G"
+	},
+	{
+		"id" : 2908,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 2909,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 2910,
+		"chwyt" : "F F"
+	},
+	{
+		"id" : 2911,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 2914,
+		"chwyt" : "d B"
+	},
+	{
+		"id" : 2915,
+		"chwyt" : "g7 B"
+	},
+	{
+		"id" : 2916,
+		"chwyt" : "\/d B g7 B\/x2"
+	},
+	{
+		"id" : 2917,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 2918,
+		"chwyt" : "a d"
+	},
+	{
+		"id" : 2933,
+		"chwyt" : "d F g g B C d d"
+	},
+	{
+		"id" : 2934,
+		"chwyt" : "d F g g"
+	},
+	{
+		"id" : 2935,
+		"chwyt" : "B C d d"
+	},
+	{
+		"id" : 2936,
+		"chwyt" : "d F g g"
+	},
+	{
+		"id" : 2937,
+		"chwyt" : "B a"
+	},
+	{
+		"id" : 2938,
+		"chwyt" : "B C d d"
+	},
+	{
+		"id" : 2940,
+		"chwyt" : "a C G d"
+	},
+	{
+		"id" : 2941,
+		"chwyt" : "a C G d"
+	},
+	{
+		"id" : 2942,
+		"chwyt" : "a C"
+	},
+	{
+		"id" : 2943,
+		"chwyt" : "G d"
+	},
+	{
+		"id" : 2944,
+		"chwyt" : "a C"
+	},
+	{
+		"id" : 2945,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 2946,
+		"chwyt" : "G Gfe"
+	},
+	{
+		"id" : 2947,
+		"chwyt" : "d F g g B C d d"
+	},
+	{
+		"id" : 2950,
+		"chwyt" : "h A h h"
+	},
+	{
+		"id" : 2951,
+		"chwyt" : "G A D D"
+	},
+	{
+		"id" : 2952,
+		"chwyt" : "G A DAh"
+	},
+	{
+		"id" : 2953,
+		"chwyt" : "e hA h"
+	},
+	{
+		"id" : 2955,
+		"chwyt" : "e D"
+	},
+	{
+		"id" : 2956,
+		"chwyt" : "C H7"
+	},
+	{
+		"id" : 2957,
+		"chwyt" : "e D"
+	},
+	{
+		"id" : 2958,
+		"chwyt" : "C H7"
+	},
+	{
+		"id" : 2960,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 2961,
+		"chwyt" : "D e"
+	},
+	{
+		"id" : 2962,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 2963,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 2964,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 2965,
+		"chwyt" : "a e"
+	},
+	{
+		"id" : 2966,
+		"chwyt" : "e D"
+	},
+	{
+		"id" : 2967,
+		"chwyt" : "a h e e"
+	},
+	{
+		"id" : 2984,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 2985,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 2986,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 2987,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 2989,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 2990,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 2991,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 2992,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 2996,
+		"chwyt" : "e C D"
+	},
+	{
+		"id" : 2997,
+		"chwyt" : "e G H7"
+	},
+	{
+		"id" : 2998,
+		"chwyt" : "e C D"
+	},
+	{
+		"id" : 2999,
+		"chwyt" : "e G H7"
+	},
+	{
+		"id" : 3001,
+		"chwyt" : "a G D"
+	},
+	{
+		"id" : 3002,
+		"chwyt" : "a G H7"
+	},
+	{
+		"id" : 3003,
+		"chwyt" : "a G D"
+	},
+	{
+		"id" : 3004,
+		"chwyt" : "a H7"
+	},
+	{
+		"id" : 3005,
+		"chwyt" : "H7 H7"
+	},
+	{
+		"id" : 3006,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 3007,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 3008,
+		"chwyt" : "D C D"
+	},
+	{
+		"id" : 3009,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 3010,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 3011,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 3013,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 3014,
+		"chwyt" : "1. D D"
+	},
+	{
+		"id" : 3015,
+		"chwyt" : "2. D H7"
+	},
+	{
+		"id" : 3018,
+		"chwyt" : "E gis"
+	},
+	{
+		"id" : 3019,
+		"chwyt" : "A cis H"
+	},
+	{
+		"id" : 3020,
+		"chwyt" : "E gis"
+	},
+	{
+		"id" : 3021,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3022,
+		"chwyt" : "Cis Cis"
+	},
+	{
+		"id" : 3023,
+		"chwyt" : "fis E H7 H7"
+	},
+	{
+		"id" : 3024,
+		"chwyt" : "E gis A gis"
+	},
+	{
+		"id" : 3025,
+		"chwyt" : "fis E H7 H7"
+	},
+	{
+		"id" : 3026,
+		"chwyt" : "E gisA gis"
+	},
+	{
+		"id" : 3028,
+		"chwyt" : "fis E D H"
+	},
+	{
+		"id" : 3029,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 3033,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 3034,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 3035,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 3036,
+		"chwyt" : "e D"
+	},
+	{
+		"id" : 3038,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 3039,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 3040,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 3041,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 3044,
+		"chwyt" : "E cis"
+	},
+	{
+		"id" : 3045,
+		"chwyt" : "A E H H"
+	},
+	{
+		"id" : 3046,
+		"chwyt" : "cis E"
+	},
+	{
+		"id" : 3047,
+		"chwyt" : "D A H"
+	},
+	{
+		"id" : 3048,
+		"chwyt" : "E cis"
+	},
+	{
+		"id" : 3049,
+		"chwyt" : "A E H H"
+	},
+	{
+		"id" : 3050,
+		"chwyt" : "cis E"
+	},
+	{
+		"id" : 3051,
+		"chwyt" : "D A H"
+	},
+	{
+		"id" : 3053,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 3054,
+		"chwyt" : "fis A H"
+	},
+	{
+		"id" : 3055,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 3056,
+		"chwyt" : "fis A H"
+	},
+	{
+		"id" : 3057,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 3060,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 3061,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 3062,
+		"chwyt" : "E cis"
+	},
+	{
+		"id" : 3063,
+		"chwyt" : "fis H"
+	},
+	{
+		"id" : 3065,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 3066,
+		"chwyt" : "Gis cis"
+	},
+	{
+		"id" : 3067,
+		"chwyt" : "fis H"
+	},
+	{
+		"id" : 3068,
+		"chwyt" : "fis H"
+	},
+	{
+		"id" : 3069,
+		"chwyt" : "fis H"
+	},
+	{
+		"id" : 3070,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 3072,
+		"chwyt" : "D fis E A"
+	},
+	{
+		"id" : 3073,
+		"chwyt" : "D fis E A"
+	},
+	{
+		"id" : 3074,
+		"chwyt" : "D fis E A"
+	},
+	{
+		"id" : 3075,
+		"chwyt" : "D fis E Fis"
+	},
+	{
+		"id" : 3077,
+		"chwyt" : "D E D E"
+	},
+	{
+		"id" : 3078,
+		"chwyt" : "D fis E A"
+	},
+	{
+		"id" : 3079,
+		"chwyt" : "D E D E"
+	},
+	{
+		"id" : 3080,
+		"chwyt" : "D fis E Fis"
+	},
+	{
+		"id" : 3088,
+		"chwyt" : "F F B B"
+	},
+	{
+		"id" : 3100,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 3101,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 3102,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 3103,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 3104,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 3105,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 3106,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 3107,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 3108,
+		"chwyt" : "C C D"
+	},
+	{
+		"id" : 3109,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 3110,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 3111,
+		"chwyt" : "a7 C D"
+	},
+	{
+		"id" : 3112,
+		"chwyt" : "C C D"
+	},
+	{
+		"id" : 3113,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 3114,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 3115,
+		"chwyt" : "a7 C D"
+	},
+	{
+		"id" : 3116,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 3117,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 3127,
+		"chwyt" : "D G A"
+	},
+	{
+		"id" : 3128,
+		"chwyt" : "D A h h"
+	},
+	{
+		"id" : 3129,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 3130,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 3132,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 3133,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 3134,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 3135,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 3140,
+		"chwyt" : "D G A"
+	},
+	{
+		"id" : 3141,
+		"chwyt" : "D G A"
+	},
+	{
+		"id" : 3142,
+		"chwyt" : "D G A"
+	},
+	{
+		"id" : 3143,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 3145,
+		"chwyt" : "D G A"
+	},
+	{
+		"id" : 3156,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 3157,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 3158,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 3159,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 3160,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 3161,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 3162,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 3163,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 3164,
+		"chwyt" : "e a"
+	},
+	{
+		"id" : 3165,
+		"chwyt" : "d G"
+	},
+	{
+		"id" : 3166,
+		"chwyt" : "e a"
+	},
+	{
+		"id" : 3167,
+		"chwyt" : "d G"
+	},
+	{
+		"id" : 3168,
+		"chwyt" : "e a"
+	},
+	{
+		"id" : 3169,
+		"chwyt" : "d G"
+	},
+	{
+		"id" : 3170,
+		"chwyt" : "e a"
+	},
+	{
+		"id" : 3171,
+		"chwyt" : "d G"
+	},
+	{
+		"id" : 3172,
+		"chwyt" : "d e"
+	},
+	{
+		"id" : 3173,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 3174,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 3178,
+		"chwyt" : "E A H A"
+	},
+	{
+		"id" : 3179,
+		"chwyt" : "E A H A"
+	},
+	{
+		"id" : 3180,
+		"chwyt" : "E A H"
+	},
+	{
+		"id" : 3181,
+		"chwyt" : "E A H"
+	},
+	{
+		"id" : 3182,
+		"chwyt" : "E A cis H"
+	},
+	{
+		"id" : 3184,
+		"chwyt" : "E A H A"
+	},
+	{
+		"id" : 3196,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 3197,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 3198,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 3199,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 3201,
+		"chwyt" : "G D e C"
+	},
+	{
+		"id" : 3220,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 3221,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 3222,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 3223,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 3224,
+		"chwyt" : "\/cis H gis A gis E\/x2"
+	},
+	{
+		"id" : 3226,
+		"chwyt" : "cis cis"
+	},
+	{
+		"id" : 3227,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 3231,
+		"chwyt" : "cis cis"
+	},
+	{
+		"id" : 3232,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 3233,
+		"chwyt" : "cis cis cis H gis A gis fis gis"
+	},
+	{
+		"id" : 3239,
+		"chwyt" : "E fis"
+	},
+	{
+		"id" : 3240,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 3247,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 3248,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 3249,
+		"chwyt" : "G D e D"
+	},
+	{
+		"id" : 3250,
+		"chwyt" : "C e D"
+	},
+	{
+		"id" : 3251,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 3252,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 3253,
+		"chwyt" : "G D e D"
+	},
+	{
+		"id" : 3254,
+		"chwyt" : "C e D"
+	},
+	{
+		"id" : 3255,
+		"chwyt" : "G D e D"
+	},
+	{
+		"id" : 3256,
+		"chwyt" : "C e D"
+	},
+	{
+		"id" : 3257,
+		"chwyt" : "G D e D"
+	},
+	{
+		"id" : 3258,
+		"chwyt" : "C e D"
+	},
+	{
+		"id" : 3262,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3263,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3264,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3265,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3266,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3267,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3268,
+		"chwyt" : "A H E"
+	},
+	{
+		"id" : 3269,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3270,
+		"chwyt" : "gis"
+	},
+	{
+		"id" : 3271,
+		"chwyt" : "A H E"
+	},
+	{
+		"id" : 3274,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3275,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3276,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3277,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3278,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3279,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3280,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3281,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3282,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3283,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 3284,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3285,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3295,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 3296,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3297,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3298,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3299,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 3300,
+		"chwyt" : "gis"
+	},
+	{
+		"id" : 3301,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 3302,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3306,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 3307,
+		"chwyt" : "fis cis"
+	},
+	{
+		"id" : 3324,
+		"chwyt" : "D C"
+	},
+	{
+		"id" : 3325,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 3328,
+		"chwyt" : "D C"
+	},
+	{
+		"id" : 3329,
+		"chwyt" : "F C D"
+	},
+	{
+		"id" : 3331,
+		"chwyt" : "G a7"
+	},
+	{
+		"id" : 3332,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 3333,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 3334,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 3336,
+		"chwyt" : "D e"
+	},
+	{
+		"id" : 3337,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 3338,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 3342,
+		"chwyt" : "B C d d"
+	},
+	{
+		"id" : 3343,
+		"chwyt" : "B C d d"
+	},
+	{
+		"id" : 3345,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 3346,
+		"chwyt" : "B C d d"
+	},
+	{
+		"id" : 3347,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 3348,
+		"chwyt" : "B A7"
+	},
+	{
+		"id" : 3350,
+		"chwyt" : "d d"
+	},
+	{
+		"id" : 3351,
+		"chwyt" : "a d"
+	},
+	{
+		"id" : 3352,
+		"chwyt" : "B C d d"
+	},
+	{
+		"id" : 3353,
+		"chwyt" : "B C d d"
+	},
+	{
+		"id" : 3355,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 3356,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 3357,
+		"chwyt" : "a d"
+	},
+	{
+		"id" : 3358,
+		"chwyt" : "g A7"
+	},
+	{
+		"id" : 3361,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 3362,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 3363,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 3364,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 3366,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 3367,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 3369,
+		"chwyt" : "Fis h"
+	},
+	{
+		"id" : 3370,
+		"chwyt" : "A GA"
+	},
+	{
+		"id" : 3373,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 3377,
+		"chwyt" : "A H "
+	},
+	{
+		"id" : 3378,
+		"chwyt" : "E A "
+	},
+	{
+		"id" : 3379,
+		"chwyt" : "  fis H"
+	},
+	{
+		"id" : 3380,
+		"chwyt" : "E E "
+	},
+	{
+		"id" : 3381,
+		"chwyt" : "G a7 d7 C"
+	},
+	{
+		"id" : 3392,
+		"chwyt" : "d7 d7 d7 C G"
+	},
+	{
+		"id" : 3395,
+		"chwyt" : "cis A H H"
+	},
+	{
+		"id" : 3396,
+		"chwyt" : "cis A H H"
+	},
+	{
+		"id" : 3397,
+		"chwyt" : "cis E H H"
+	},
+	{
+		"id" : 3398,
+		"chwyt" : "A E H H"
+	},
+	{
+		"id" : 3399,
+		"chwyt" : "A cis H H"
+	},
+	{
+		"id" : 3401,
+		"chwyt" : "cis A E H"
+	},
+	{
+		"id" : 3402,
+		"chwyt" : "cis A E H"
+	},
+	{
+		"id" : 3411,
+		"chwyt" : "A E H H"
+	},
+	{
+		"id" : 3412,
+		"chwyt" : "A E H H"
+	},
+	{
+		"id" : 3417,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 3418,
+		"chwyt" : "a F"
+	},
+	{
+		"id" : 3429,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 3430,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 3431,
+		"chwyt" : "cis A E H"
+	},
+	{
+		"id" : 3436,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 3437,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 3438,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3439,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3440,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 3441,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 3442,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3443,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3445,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 3446,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 3447,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 3448,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 3449,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 3450,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 3451,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 3452,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 3465,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3466,
+		"chwyt" : "  H"
+	},
+	{
+		"id" : 3467,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3468,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 3469,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 3470,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3471,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3472,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3475,
+		"chwyt" : "e D"
+	},
+	{
+		"id" : 3476,
+		"chwyt" : "C a h"
+	},
+	{
+		"id" : 3478,
+		"chwyt" : "e D"
+	},
+	{
+		"id" : 3479,
+		"chwyt" : "a h"
+	},
+	{
+		"id" : 3483,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 3484,
+		"chwyt" : "d A7"
+	},
+	{
+		"id" : 3485,
+		"chwyt" : "A7"
+	},
+	{
+		"id" : 3486,
+		"chwyt" : "A7 d"
+	},
+	{
+		"id" : 3488,
+		"chwyt" : "g"
+	},
+	{
+		"id" : 3489,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 3490,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 3491,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 3493,
+		"chwyt" : "d A7"
+	},
+	{
+		"id" : 3494,
+		"chwyt" : "A7 d"
+	},
+	{
+		"id" : 3495,
+		"chwyt" : "d g"
+	},
+	{
+		"id" : 3496,
+		"chwyt" : "g d"
+	},
+	{
+		"id" : 3497,
+		"chwyt" : "d A7"
+	},
+	{
+		"id" : 3498,
+		"chwyt" : "A7 d"
+	},
+	{
+		"id" : 3499,
+		"chwyt" : "d A7"
+	},
+	{
+		"id" : 3500,
+		"chwyt" : "A7 d"
+	},
+	{
+		"id" : 3503,
+		"chwyt" : "D7 D7"
+	},
+	{
+		"id" : 3504,
+		"chwyt" : "c D7"
+	},
+	{
+		"id" : 3505,
+		"chwyt" : "D7 D7"
+	},
+	{
+		"id" : 3506,
+		"chwyt" : "c D7"
+	},
+	{
+		"id" : 3507,
+		"chwyt" : "D7 c"
+	},
+	{
+		"id" : 3508,
+		"chwyt" : "c D7"
+	},
+	{
+		"id" : 3510,
+		"chwyt" : "g g"
+	},
+	{
+		"id" : 3512,
+		"chwyt" : "g g"
+	},
+	{
+		"id" : 3513,
+		"chwyt" : "D7 D7"
+	},
+	{
+		"id" : 3514,
+		"chwyt" : "D7 D7g"
+	},
+	{
+		"id" : 3520,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 3521,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3522,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 3523,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3524,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 3525,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3526,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3527,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3528,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3529,
+		"chwyt" : "gis"
+	},
+	{
+		"id" : 3530,
+		"chwyt" : "Cis"
+	},
+	{
+		"id" : 3531,
+		"chwyt" : "gis"
+	},
+	{
+		"id" : 3532,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 3533,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3534,
+		"chwyt" : "A fis"
+	},
+	{
+		"id" : 3535,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3539,
+		"chwyt" : "E gis"
+	},
+	{
+		"id" : 3540,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3541,
+		"chwyt" : "fis cis"
+	},
+	{
+		"id" : 3542,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3543,
+		"chwyt" : "E gis"
+	},
+	{
+		"id" : 3544,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3545,
+		"chwyt" : "fis cis"
+	},
+	{
+		"id" : 3546,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3547,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3548,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3549,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3550,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3551,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3552,
+		"chwyt" : "fis H H"
+	},
+	{
+		"id" : 3553,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 3554,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3557,
+		"chwyt" : "e G"
+	},
+	{
+		"id" : 3558,
+		"chwyt" : "D C"
+	},
+	{
+		"id" : 3559,
+		"chwyt" : "e G"
+	},
+	{
+		"id" : 3560,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 3562,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 3563,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 3564,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 3565,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 3567,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 3568,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 3569,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 3570,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 3576,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 3577,
+		"chwyt" : "C G7"
+	},
+	{
+		"id" : 3578,
+		"chwyt" : "C C7 F f"
+	},
+	{
+		"id" : 3579,
+		"chwyt" : "C G7"
+	},
+	{
+		"id" : 3580,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 3581,
+		"chwyt" : "C F D7"
+	},
+	{
+		"id" : 3582,
+		"chwyt" : "G7 C FG"
+	},
+	{
+		"id" : 3583,
+		"chwyt" : "C F D7"
+	},
+	{
+		"id" : 3584,
+		"chwyt" : "G7 C"
+	},
+	{
+		"id" : 3596,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 3597,
+		"chwyt" : "Gis7 cis"
+	},
+	{
+		"id" : 3600,
+		"chwyt" : "A fis"
+	},
+	{
+		"id" : 3601,
+		"chwyt" : "cis E"
+	},
+	{
+		"id" : 3602,
+		"chwyt" : "A fis"
+	},
+	{
+		"id" : 3603,
+		"chwyt" : "cis E"
+	},
+	{
+		"id" : 3604,
+		"chwyt" : "Gis7"
+	},
+	{
+		"id" : 3610,
+		"chwyt" : "A fis"
+	},
+	{
+		"id" : 3611,
+		"chwyt" : "cis gis"
+	},
+	{
+		"id" : 3616,
+		"chwyt" : "C G a a"
+	},
+	{
+		"id" : 3617,
+		"chwyt" : "F D G G"
+	},
+	{
+		"id" : 3618,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 3619,
+		"chwyt" : "d7 G e"
+	},
+	{
+		"id" : 3621,
+		"chwyt" : "F G C C"
+	},
+	{
+		"id" : 3622,
+		"chwyt" : "F G a e"
+	},
+	{
+		"id" : 3623,
+		"chwyt" : "F G C G"
+	},
+	{
+		"id" : 3624,
+		"chwyt" : "a G C C"
+	},
+	{
+		"id" : 3632,
+		"chwyt" : "E H E"
+	},
+	{
+		"id" : 3633,
+		"chwyt" : "A H E"
+	},
+	{
+		"id" : 3635,
+		"chwyt" : "H fis cis gis"
+	},
+	{
+		"id" : 3636,
+		"chwyt" : "A H E E"
+	},
+	{
+		"id" : 3637,
+		"chwyt" : "H fis cis gis"
+	},
+	{
+		"id" : 3638,
+		"chwyt" : "A H Cis H"
+	},
+	{
+		"id" : 3641,
+		"chwyt" : "a a"
+	},
+	{
+		"id" : 3642,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 3643,
+		"chwyt" : "F F"
+	},
+	{
+		"id" : 3644,
+		"chwyt" : "1. E a a a  2. E a E E"
+	},
+	{
+		"id" : 3645,
+		"chwyt" : "a C"
+	},
+	{
+		"id" : 3646,
+		"chwyt" : "F G e"
+	},
+	{
+		"id" : 3647,
+		"chwyt" : "1. a E  2. a a"
+	},
+	{
+		"id" : 3649,
+		"chwyt" : "D fis G G"
+	},
+	{
+		"id" : 3650,
+		"chwyt" : "D fis G G"
+	},
+	{
+		"id" : 3651,
+		"chwyt" : "D fis G D"
+	},
+	{
+		"id" : 3652,
+		"chwyt" : "e A D GA"
+	},
+	{
+		"id" : 3655,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 3656,
+		"chwyt" : "D H"
+	},
+	{
+		"id" : 3657,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 3658,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 3659,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 3660,
+		"chwyt" : "D H"
+	},
+	{
+		"id" : 3661,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 3662,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 3664,
+		"chwyt" : "A cis"
+	},
+	{
+		"id" : 3665,
+		"chwyt" : "Ci, A H"
+	},
+	{
+		"id" : 3668,
+		"chwyt" : "A cis"
+	},
+	{
+		"id" : 3669,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3682,
+		"chwyt" : "A cis"
+	},
+	{
+		"id" : 3683,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3690,
+		"chwyt" : "E E E E"
+	},
+	{
+		"id" : 3691,
+		"chwyt" : "H H E E"
+	},
+	{
+		"id" : 3692,
+		"chwyt" : "E E E cis"
+	},
+	{
+		"id" : 3693,
+		"chwyt" : "fis H EA E"
+	},
+	{
+		"id" : 3696,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 3697,
+		"chwyt" : "cis cis"
+	},
+	{
+		"id" : 3698,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 3699,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 3701,
+		"chwyt" : "E E A E"
+	},
+	{
+		"id" : 3702,
+		"chwyt" : "E cis fis H"
+	},
+	{
+		"id" : 3703,
+		"chwyt" : "E E A E"
+	},
+	{
+		"id" : 3705,
+		"chwyt" : "cis fis H E"
+	},
+	{
+		"id" : 3706,
+		"chwyt" : "cis fis H E"
+	},
+	{
+		"id" : 3708,
+		"chwyt" : "E E E H"
+	},
+	{
+		"id" : 3709,
+		"chwyt" : "E E E H"
+	},
+	{
+		"id" : 3711,
+		"chwyt" : "E E E E"
+	},
+	{
+		"id" : 3714,
+		"chwyt" : "E A E H"
+	},
+	{
+		"id" : 3717,
+		"chwyt" : "d d"
+	},
+	{
+		"id" : 3718,
+		"chwyt" : "C a d C"
+	},
+	{
+		"id" : 3719,
+		"chwyt" : "d d"
+	},
+	{
+		"id" : 3720,
+		"chwyt" : "C a d C"
+	},
+	{
+		"id" : 3721,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 3722,
+		"chwyt" : "B A7"
+	},
+	{
+		"id" : 3723,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 3724,
+		"chwyt" : "B C d d"
+	},
+	{
+		"id" : 3729,
+		"chwyt" : "e H7 e e"
+	},
+	{
+		"id" : 3730,
+		"chwyt" : "G D G H7"
+	},
+	{
+		"id" : 3731,
+		"chwyt" : "e H7 C C"
+	},
+	{
+		"id" : 3732,
+		"chwyt" : "a H7 e e"
+	},
+	{
+		"id" : 3734,
+		"chwyt" : "a e"
+	},
+	{
+		"id" : 3735,
+		"chwyt" : "H7 e E"
+	},
+	{
+		"id" : 3736,
+		"chwyt" : "a e"
+	},
+	{
+		"id" : 3737,
+		"chwyt" : "Fis7 H7"
+	},
+	{
+		"id" : 3738,
+		"chwyt" : "H7"
+	},
+	{
+		"id" : 3760,
+		"chwyt" : "G h C D"
+	},
+	{
+		"id" : 3761,
+		"chwyt" : "G h C D"
+	},
+	{
+		"id" : 3762,
+		"chwyt" : "e A7"
+	},
+	{
+		"id" : 3763,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 3765,
+		"chwyt" : "e H7"
+	},
+	{
+		"id" : 3766,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 3767,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 3768,
+		"chwyt" : "1. D D  2. D G"
+	},
+	{
+		"id" : 3772,
+		"chwyt" : "H cis A A"
+	},
+	{
+		"id" : 3777,
+		"chwyt" : "fis H"
+	},
+	{
+		"id" : 3778,
+		"chwyt" : "fis H"
+	},
+	{
+		"id" : 3780,
+		"chwyt" : "cis E"
+	},
+	{
+		"id" : 3781,
+		"chwyt" : "H A"
+	},
+	{
+		"id" : 3782,
+		"chwyt" : "cis E"
+	},
+	{
+		"id" : 3783,
+		"chwyt" : "H A"
+	},
+	{
+		"id" : 3786,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3787,
+		"chwyt" : "cis E"
+	},
+	{
+		"id" : 3788,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3789,
+		"chwyt" : "cis E"
+	},
+	{
+		"id" : 3791,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3792,
+		"chwyt" : "gis cis"
+	},
+	{
+		"id" : 3793,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3794,
+		"chwyt" : "gis cis"
+	},
+	{
+		"id" : 3795,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3796,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 3804,
+		"chwyt" : "A H E A"
+	},
+	{
+		"id" : 3805,
+		"chwyt" : "1. A H cis cis 2. A H E E"
+	},
+	{
+		"id" : 3806,
+		"chwyt" : "A cis H"
+	},
+	{
+		"id" : 3807,
+		"chwyt" : "A cis H H"
+	},
+	{
+		"id" : 3808,
+		"chwyt" : "A cis H"
+	},
+	{
+		"id" : 3809,
+		"chwyt" : "A H E E"
+	},
+	{
+		"id" : 3811,
+		"chwyt" : "C e"
+	},
+	{
+		"id" : 3812,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 3813,
+		"chwyt" : "C e"
+	},
+	{
+		"id" : 3814,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 3816,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 3817,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 3818,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 3819,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 3822,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 3823,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 3824,
+		"chwyt" : "C eFC FC"
+	},
+	{
+		"id" : 3825,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 3826,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 3827,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 3828,
+		"chwyt" : "C eFC FC"
+	},
+	{
+		"id" : 3829,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 3831,
+		"chwyt" : "B F"
+	},
+	{
+		"id" : 3832,
+		"chwyt" : "B F C C"
+	},
+	{
+		"id" : 3833,
+		"chwyt" : "B F"
+	},
+	{
+		"id" : 3834,
+		"chwyt" : "B F C C"
+	},
+	{
+		"id" : 3838,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 3839,
+		"chwyt" : "cis cis"
+	},
+	{
+		"id" : 3840,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 3841,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 3842,
+		"chwyt" : "E A cis H"
+	},
+	{
+		"id" : 3843,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 3844,
+		"chwyt" : "cis cis"
+	},
+	{
+		"id" : 3845,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 3846,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 3847,
+		"chwyt" : "E A cis H"
+	},
+	{
+		"id" : 3848,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 3849,
+		"chwyt" : "cis cis"
+	},
+	{
+		"id" : 3850,
+		"chwyt" : "H cis A A"
+	},
+	{
+		"id" : 3851,
+		"chwyt" : "H cis A A"
+	},
+	{
+		"id" : 3852,
+		"chwyt" : "E A H A"
+	},
+	{
+		"id" : 3853,
+		"chwyt" : "E cis H A"
+	},
+	{
+		"id" : 3854,
+		"chwyt" : "E cis H A"
+	},
+	{
+		"id" : 3855,
+		"chwyt" : "E A H A"
+	},
+	{
+		"id" : 3859,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3860,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3861,
+		"chwyt" : "1. A E 2. A H E"
+	},
+	{
+		"id" : 3863,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3864,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 3865,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3866,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 3867,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 3868,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 3869,
+		"chwyt" : "E cis"
+	},
+	{
+		"id" : 3871,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 3872,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 3873,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3874,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 3875,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 3876,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 3877,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3878,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 3879,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3880,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 3881,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3882,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 3883,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3884,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 3885,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 3886,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3887,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3888,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 3889,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 3890,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3891,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 3892,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 3893,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 3899,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3901,
+		"chwyt" : "cis cis"
+	},
+	{
+		"id" : 3902,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 3903,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 3904,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 3906,
+		"chwyt" : "cis cis"
+	},
+	{
+		"id" : 3907,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 3908,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 3909,
+		"chwyt" : "fis gis"
+	},
+	{
+		"id" : 3910,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3912,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 3913,
+		"chwyt" : "cis cis"
+	},
+	{
+		"id" : 3914,
+		"chwyt" : "A fis"
+	},
+	{
+		"id" : 3915,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3916,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 3920,
+		"chwyt" : "e a"
+	},
+	{
+		"id" : 3923,
+		"chwyt" : "a e"
+	},
+	{
+		"id" : 3924,
+		"chwyt" : "a e"
+	},
+	{
+		"id" : 3925,
+		"chwyt" : "a e D"
+	},
+	{
+		"id" : 3926,
+		"chwyt" : "C h"
+	},
+	{
+		"id" : 3940,
+		"chwyt" : "d C"
+	},
+	{
+		"id" : 3941,
+		"chwyt" : "B A"
+	},
+	{
+		"id" : 3943,
+		"chwyt" : "A d"
+	},
+	{
+		"id" : 3944,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 3945,
+		"chwyt" : "A d C"
+	},
+	{
+		"id" : 3946,
+		"chwyt" : "B g A A"
+	},
+	{
+		"id" : 3947,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 3949,
+		"chwyt" : "A d"
+	},
+	{
+		"id" : 3950,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 3951,
+		"chwyt" : "A d C"
+	},
+	{
+		"id" : 3952,
+		"chwyt" : "B g A A"
+	},
+	{
+		"id" : 3953,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 3954,
+		"chwyt" : "g d"
+	},
+	{
+		"id" : 3955,
+		"chwyt" : "A d CF"
+	},
+	{
+		"id" : 3956,
+		"chwyt" : "g d"
+	},
+	{
+		"id" : 3957,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 3960,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 3961,
+		"chwyt" : "a7 C"
+	},
+	{
+		"id" : 3962,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 3963,
+		"chwyt" : "1. d7 G 2. F G C"
+	},
+	{
+		"id" : 3965,
+		"chwyt" : "B"
+	},
+	{
+		"id" : 3966,
+		"chwyt" : "B"
+	},
+	{
+		"id" : 3967,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 3968,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 3970,
+		"chwyt" : "B"
+	},
+	{
+		"id" : 3971,
+		"chwyt" : "B"
+	},
+	{
+		"id" : 3972,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 3973,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 3977,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 3978,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 3979,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 3984,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 3985,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 3986,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 3987,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 3994,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 3995,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 3996,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 3997,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 4000,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 4001,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 4002,
+		"chwyt" : "G h"
+	},
+	{
+		"id" : 4003,
+		"chwyt" : "G e A"
+	},
+	{
+		"id" : 4006,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 4007,
+		"chwyt" : "fis E"
+	},
+	{
+		"id" : 4008,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 4009,
+		"chwyt" : "h E"
+	},
+	{
+		"id" : 4010,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 4011,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 4012,
+		"chwyt" : "1. A H7 h E  2. A E"
+	},
+	{
+		"id" : 4013,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 4017,
+		"chwyt" : "a G C"
+	},
+	{
+		"id" : 4018,
+		"chwyt" : "F F"
+	},
+	{
+		"id" : 4026,
+		"chwyt" : "d e F F"
+	},
+	{
+		"id" : 4027,
+		"chwyt" : "d e F F"
+	},
+	{
+		"id" : 4029,
+		"chwyt" : "a7 e7"
+	},
+	{
+		"id" : 4030,
+		"chwyt" : "F d7"
+	},
+	{
+		"id" : 4031,
+		"chwyt" : "a7 e7"
+	},
+	{
+		"id" : 4032,
+		"chwyt" : "F d7"
+	},
+	{
+		"id" : 4033,
+		"chwyt" : "a7 e7"
+	},
+	{
+		"id" : 4034,
+		"chwyt" : "F d"
+	},
+	{
+		"id" : 4035,
+		"chwyt" : "a e7"
+	},
+	{
+		"id" : 4036,
+		"chwyt" : "F d"
+	},
+	{
+		"id" : 4037,
+		"chwyt" : "F F"
+	},
+	{
+		"id" : 4042,
+		"chwyt" : "C G a F"
+	},
+	{
+		"id" : 4043,
+		"chwyt" : "C D7G7"
+	},
+	{
+		"id" : 4045,
+		"chwyt" : "C G a F"
+	},
+	{
+		"id" : 4046,
+		"chwyt" : "C FG C"
+	},
+	{
+		"id" : 4048,
+		"chwyt" : "d a"
+	},
+	{
+		"id" : 4049,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 4050,
+		"chwyt" : "d a"
+	},
+	{
+		"id" : 4051,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 4054,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 4055,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 4056,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 4057,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 4059,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 4060,
+		"chwyt" : "E fis"
+	},
+	{
+		"id" : 4061,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 4062,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 4064,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 4065,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 4068,
+		"chwyt" : "e fis h A"
+	},
+	{
+		"id" : 4069,
+		"chwyt" : "G A h h"
+	},
+	{
+		"id" : 4070,
+		"chwyt" : "e fis h A"
+	},
+	{
+		"id" : 4071,
+		"chwyt" : "G A h h"
+	},
+	{
+		"id" : 4073,
+		"chwyt" : "G A fis h"
+	},
+	{
+		"id" : 4074,
+		"chwyt" : "G A h h"
+	},
+	{
+		"id" : 4075,
+		"chwyt" : "G A fis h"
+	},
+	{
+		"id" : 4076,
+		"chwyt" : "e G Fis7"
+	},
+	{
+		"id" : 4083,
+		"chwyt" : "e C D D"
+	},
+	{
+		"id" : 4090,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 4091,
+		"chwyt" : "C G D"
+	},
+	{
+		"id" : 4092,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 4093,
+		"chwyt" : "1. C G D 2. C G D"
+	},
+	{
+		"id" : 4094,
+		"chwyt" : "e G A GA"
+	},
+	{
+		"id" : 4095,
+		"chwyt" : "e G A GA"
+	},
+	{
+		"id" : 4099,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 4100,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 4101,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 4102,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 4103,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 4104,
+		"chwyt" : "A D"
+	},
+	{
+		"id" : 4105,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 4106,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 4107,
+		"chwyt" : "cis fis"
+	},
+	{
+		"id" : 4108,
+		"chwyt" : "D E"
+	},
+	{
+		"id" : 4109,
+		"chwyt" : "cis fis"
+	},
+	{
+		"id" : 4110,
+		"chwyt" : "D E"
+	},
+	{
+		"id" : 4111,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 4115,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 4116,
+		"chwyt" : "a F"
+	},
+	{
+		"id" : 4124,
+		"chwyt" : "G a"
+	},
+	{
+		"id" : 4125,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 4126,
+		"chwyt" : "G a"
+	},
+	{
+		"id" : 4127,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 4129,
+		"chwyt" : "C C Cd"
+	},
+	{
+		"id" : 4130,
+		"chwyt" : "a F"
+	},
+	{
+		"id" : 4131,
+		"chwyt" : "C C Cd"
+	},
+	{
+		"id" : 4132,
+		"chwyt" : "a F"
+	},
+	{
+		"id" : 4152,
+		"chwyt" : "G D C G D C"
+	},
+	{
+		"id" : 4153,
+		"chwyt" : "G D C G7 G7"
+	},
+	{
+		"id" : 4154,
+		"chwyt" : "C G a D G G"
+	},
+	{
+		"id" : 4904,
+		"chwyt" : "e C"
+	},
+	{
+		"id" : 4155,
+		"chwyt" : "C e7 a D"
+	},
+	{
+		"id" : 4157,
+		"chwyt" : "C G a D G G"
+	},
+	{
+		"id" : 4158,
+		"chwyt" : "C G e a G DD"
+	},
+	{
+		"id" : 4159,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 4163,
+		"chwyt" : "G e"
+	},
+	{
+		"id" : 4164,
+		"chwyt" : "A h"
+	},
+	{
+		"id" : 4165,
+		"chwyt" : "  G e"
+	},
+	{
+		"id" : 4166,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 4167,
+		"chwyt" : "G e"
+	},
+	{
+		"id" : 4168,
+		"chwyt" : "  A h"
+	},
+	{
+		"id" : 4169,
+		"chwyt" : "G e"
+	},
+	{
+		"id" : 4170,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 4171,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 4172,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 4173,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 4174,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 4175,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 4176,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 4177,
+		"chwyt" : "A G"
+	},
+	{
+		"id" : 4178,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 4188,
+		"chwyt" : "G e"
+	},
+	{
+		"id" : 4189,
+		"chwyt" : "A h"
+	},
+	{
+		"id" : 4190,
+		"chwyt" : "G e"
+	},
+	{
+		"id" : 4191,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 4194,
+		"chwyt" : "D DG"
+	},
+	{
+		"id" : 4195,
+		"chwyt" : "D DG"
+	},
+	{
+		"id" : 4211,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 4212,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 4213,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 4214,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 4216,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 4217,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 4218,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 4219,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 4220,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 4221,
+		"chwyt" : "E7 a"
+	},
+	{
+		"id" : 4222,
+		"chwyt" : "F d"
+	},
+	{
+		"id" : 4223,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 4226,
+		"chwyt" : "d C"
+	},
+	{
+		"id" : 4227,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 4228,
+		"chwyt" : "d C"
+	},
+	{
+		"id" : 4229,
+		"chwyt" : "d d"
+	},
+	{
+		"id" : 4230,
+		"chwyt" : "d C"
+	},
+	{
+		"id" : 4231,
+		"chwyt" : "F F"
+	},
+	{
+		"id" : 4232,
+		"chwyt" : "d C"
+	},
+	{
+		"id" : 4233,
+		"chwyt" : "d d"
+	},
+	{
+		"id" : 4235,
+		"chwyt" : "d d"
+	},
+	{
+		"id" : 4236,
+		"chwyt" : "C a d"
+	},
+	{
+		"id" : 4237,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 4238,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 4239,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 4240,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 4243,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 4244,
+		"chwyt" : "a a"
+	},
+	{
+		"id" : 4245,
+		"chwyt" : "F F"
+	},
+	{
+		"id" : 4246,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 4248,
+		"chwyt" : "F G C C"
+	},
+	{
+		"id" : 4249,
+		"chwyt" : "F G C C"
+	},
+	{
+		"id" : 4250,
+		"chwyt" : "a e"
+	},
+	{
+		"id" : 4251,
+		"chwyt" : "a G"
+	},
+	{
+		"id" : 4261,
+		"chwyt" : "h G"
+	},
+	{
+		"id" : 4262,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 4264,
+		"chwyt" : "h G"
+	},
+	{
+		"id" : 4265,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 4267,
+		"chwyt" : "h G"
+	},
+	{
+		"id" : 4268,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 4269,
+		"chwyt" : "h G"
+	},
+	{
+		"id" : 4270,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 4273,
+		"chwyt" : "G C"
+	},
+	{
+		"id" : 4291,
+		"chwyt" : "D A G DGG G"
+	},
+	{
+		"id" : 4292,
+		"chwyt" : "D A G DGG G"
+	},
+	{
+		"id" : 4293,
+		"chwyt" : "D A G DGD E"
+	},
+	{
+		"id" : 4294,
+		"chwyt" : "e7 G D D D"
+	},
+	{
+		"id" : 4296,
+		"chwyt" : "h G A A"
+	},
+	{
+		"id" : 4299,
+		"chwyt" : "e G A A"
+	},
+	{
+		"id" : 4306,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 4307,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 4313,
+		"chwyt" : "a D"
+	},
+	{
+		"id" : 4314,
+		"chwyt" : "G e"
+	},
+	{
+		"id" : 4315,
+		"chwyt" : "a D"
+	},
+	{
+		"id" : 4316,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 4318,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 4319,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 4320,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 4321,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 4323,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 4324,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 4325,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 4326,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 4327,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 4329,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 4330,
+		"chwyt" : "cis H"
+	},
+	{
+		"id" : 4331,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 4332,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 4337,
+		"chwyt" : "e C D"
+	},
+	{
+		"id" : 4338,
+		"chwyt" : "h C D"
+	},
+	{
+		"id" : 4339,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 4340,
+		"chwyt" : "e C"
+	},
+	{
+		"id" : 4341,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 4353,
+		"chwyt" : "a a e a"
+	},
+	{
+		"id" : 4354,
+		"chwyt" : "a e e a"
+	},
+	{
+		"id" : 4358,
+		"chwyt" : "a e e a"
+	},
+	{
+		"id" : 4365,
+		"chwyt" : "G D e e"
+	},
+	{
+		"id" : 4366,
+		"chwyt" : "C D G CD"
+	},
+	{
+		"id" : 4367,
+		"chwyt" : "G D e e"
+	},
+	{
+		"id" : 4368,
+		"chwyt" : "C D G G"
+	},
+	{
+		"id" : 4370,
+		"chwyt" : "e h"
+	},
+	{
+		"id" : 4371,
+		"chwyt" : "C D G G"
+	},
+	{
+		"id" : 4372,
+		"chwyt" : "e h"
+	},
+	{
+		"id" : 4373,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 4374,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 4381,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 4382,
+		"chwyt" : "A AH"
+	},
+	{
+		"id" : 4383,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 4384,
+		"chwyt" : "1. H H  2. H E"
+	},
+	{
+		"id" : 4386,
+		"chwyt" : "E A"
+	},
+	{
+		"id" : 4387,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 4388,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 4389,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 4394,
+		"chwyt" : "C F C F"
+	},
+	{
+		"id" : 4395,
+		"chwyt" : "C F C F"
+	},
+	{
+		"id" : 4396,
+		"chwyt" : "C F G F"
+	},
+	{
+		"id" : 4397,
+		"chwyt" : "G FG"
+	},
+	{
+		"id" : 4398,
+		"chwyt" : "C C F C"
+	},
+	{
+		"id" : 4399,
+		"chwyt" : "F C d7 G"
+	},
+	{
+		"id" : 4400,
+		"chwyt" : "C C F C"
+	},
+	{
+		"id" : 4401,
+		"chwyt" : "F C d7 G"
+	},
+	{
+		"id" : 4402,
+		"chwyt" : "C F C F"
+	},
+	{
+		"id" : 4406,
+		"chwyt" : "G h a D"
+	},
+	{
+		"id" : 4407,
+		"chwyt" : "G h a D"
+	},
+	{
+		"id" : 4409,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 4410,
+		"chwyt" : "a C D D"
+	},
+	{
+		"id" : 4411,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 4412,
+		"chwyt" : "a CDG G"
+	},
+	{
+		"id" : 4416,
+		"chwyt" : "G C D"
+	},
+	{
+		"id" : 4417,
+		"chwyt" : "G C D"
+	},
+	{
+		"id" : 4418,
+		"chwyt" : "G e"
+	},
+	{
+		"id" : 4419,
+		"chwyt" : "a7 D G G"
+	},
+	{
+		"id" : 4425,
+		"chwyt" : "F C G G"
+	},
+	{
+		"id" : 4426,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 4427,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 4430,
+		"chwyt" : "fis D A E"
+	},
+	{
+		"id" : 4431,
+		"chwyt" : "fis D ADE"
+	},
+	{
+		"id" : 4432,
+		"chwyt" : "fis D A E"
+	},
+	{
+		"id" : 4433,
+		"chwyt" : "fis D ADE"
+	},
+	{
+		"id" : 4434,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 4435,
+		"chwyt" : "fis fis"
+	},
+	{
+		"id" : 4436,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 4437,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 4438,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 4439,
+		"chwyt" : "fis fis"
+	},
+	{
+		"id" : 4440,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 4441,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 4443,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 4444,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 4445,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 4446,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 4447,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 4458,
+		"chwyt" : "cis H E E"
+	},
+	{
+		"id" : 4459,
+		"chwyt" : "A H E E"
+	},
+	{
+		"id" : 4460,
+		"chwyt" : "cis H E E"
+	},
+	{
+		"id" : 4461,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 4463,
+		"chwyt" : "cis A E E"
+	},
+	{
+		"id" : 4464,
+		"chwyt" : "cis A E E"
+	},
+	{
+		"id" : 4465,
+		"chwyt" : "cis A E E"
+	},
+	{
+		"id" : 4466,
+		"chwyt" : "cis A E H"
+	},
+	{
+		"id" : 4469,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 4470,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 4471,
+		"chwyt" : "A fis H H"
+	},
+	{
+		"id" : 4472,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 4473,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 4474,
+		"chwyt" : "A fis"
+	},
+	{
+		"id" : 4475,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 4476,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 4477,
+		"chwyt" : "cis D"
+	},
+	{
+		"id" : 4478,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 4479,
+		"chwyt" : "cis A Fis"
+	},
+	{
+		"id" : 4480,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 4481,
+		"chwyt" : "cis D"
+	},
+	{
+		"id" : 4482,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 4483,
+		"chwyt" : "cis A H"
+	},
+	{
+		"id" : 4495,
+		"chwyt" : "d d"
+	},
+	{
+		"id" : 4496,
+		"chwyt" : "F F"
+	},
+	{
+		"id" : 4497,
+		"chwyt" : "g B"
+	},
+	{
+		"id" : 4498,
+		"chwyt" : "A7 A7"
+	},
+	{
+		"id" : 4501,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 4502,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 4503,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 4504,
+		"chwyt" : "e H7"
+	},
+	{
+		"id" : 4505,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 4506,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 4507,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 4508,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 4509,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 4510,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 4511,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 4512,
+		"chwyt" : "e e D"
+	},
+	{
+		"id" : 4513,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 4514,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 4519,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 4520,
+		"chwyt" : "cis cis"
+	},
+	{
+		"id" : 4521,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 4522,
+		"chwyt" : "E E"
+	},
+	{
+		"id" : 4528,
+		"chwyt" : "d B"
+	},
+	{
+		"id" : 4529,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 4537,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 4538,
+		"chwyt" : "fis"
+	},
+	{
+		"id" : 4539,
+		"chwyt" : "E cis"
+	},
+	{
+		"id" : 4540,
+		"chwyt" : "D fis"
+	},
+	{
+		"id" : 4541,
+		"chwyt" : "E cis"
+	},
+	{
+		"id" : 4542,
+		"chwyt" : "D fis"
+	},
+	{
+		"id" : 4543,
+		"chwyt" : "E cis"
+	},
+	{
+		"id" : 4544,
+		"chwyt" : "D fis"
+	},
+	{
+		"id" : 4545,
+		"chwyt" : "E cis"
+	},
+	{
+		"id" : 4546,
+		"chwyt" : "D fis"
+	},
+	{
+		"id" : 4547,
+		"chwyt" : "D E"
+	},
+	{
+		"id" : 4558,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 4559,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 4560,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 4561,
+		"chwyt" : "e H7"
+	},
+	{
+		"id" : 4568,
+		"chwyt" : "C D e e"
+	},
+	{
+		"id" : 4569,
+		"chwyt" : "H7 C D"
+	},
+	{
+		"id" : 4570,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 4571,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 4572,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 4573,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 4574,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 4576,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 4577,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 4578,
+		"chwyt" : "C D G H7"
+	},
+	{
+		"id" : 4581,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 4582,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 4583,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 4584,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 4586,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 4587,
+		"chwyt" : "cis A"
+	},
+	{
+		"id" : 4589,
+		"chwyt" : "H cis"
+	},
+	{
+		"id" : 4590,
+		"chwyt" : "H cis"
+	},
+	{
+		"id" : 4591,
+		"chwyt" : "H cis"
+	},
+	{
+		"id" : 4592,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 4593,
+		"chwyt" : "H H"
+	},
+	{
+		"id" : 4597,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 4598,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 4599,
+		"chwyt" : "e A D A"
+	},
+	{
+		"id" : 4600,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 4601,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 4602,
+		"chwyt" : "e A"
+	},
+	{
+		"id" : 4603,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 4605,
+		"chwyt" : "G C D CD"
+	},
+	{
+		"id" : 4606,
+		"chwyt" : "G C D CD"
+	},
+	{
+		"id" : 4607,
+		"chwyt" : "C D h e"
+	},
+	{
+		"id" : 4608,
+		"chwyt" : "a D"
+	},
+	{
+		"id" : 4609,
+		"chwyt" : "G C D CD"
+	},
+	{
+		"id" : 4610,
+		"chwyt" : "G C D CD"
+	},
+	{
+		"id" : 4611,
+		"chwyt" : "C D h e"
+	},
+	{
+		"id" : 4612,
+		"chwyt" : "a D"
+	},
+	{
+		"id" : 4613,
+		"chwyt" : "C D G G"
+	},
+	{
+		"id" : 4615,
+		"chwyt" : "G C D C"
+	},
+	{
+		"id" : 4616,
+		"chwyt" : "G C D D"
+	},
+	{
+		"id" : 4627,
+		"chwyt" : "A H cis cis"
+	},
+	{
+		"id" : 4628,
+		"chwyt" : "A H cis cis"
+	},
+	{
+		"id" : 4629,
+		"chwyt" : "A H cis gis"
+	},
+	{
+		"id" : 4630,
+		"chwyt" : "A H E E"
+	},
+	{
+		"id" : 4636,
+		"chwyt" : "A A H cis"
+	},
+	{
+		"id" : 4637,
+		"chwyt" : "A H cis cis"
+	},
+	{
+		"id" : 4638,
+		"chwyt" : "A A H cis"
+	},
+	{
+		"id" : 4639,
+		"chwyt" : "A H cis gis"
+	},
+	{
+		"id" : 4640,
+		"chwyt" : "A H E E"
+	},
+	{
+		"id" : 4650,
+		"chwyt" : "fis fis"
+	},
+	{
+		"id" : 4651,
+		"chwyt" : "cis fis"
+	},
+	{
+		"id" : 4652,
+		"chwyt" : "fis fis"
+	},
+	{
+		"id" : 4653,
+		"chwyt" : "cis fis"
+	},
+	{
+		"id" : 4654,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 4655,
+		"chwyt" : "fis fis"
+	},
+	{
+		"id" : 4656,
+		"chwyt" : "A E"
+	},
+	{
+		"id" : 4657,
+		"chwyt" : "fis fis"
+	},
+	{
+		"id" : 4665,
+		"chwyt" : "C e"
+	},
+	{
+		"id" : 4666,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 4667,
+		"chwyt" : "C e"
+	},
+	{
+		"id" : 4668,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 4669,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 4670,
+		"chwyt" : "e e D"
+	},
+	{
+		"id" : 4671,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 4672,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 4673,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 4674,
+		"chwyt" : "e D"
+	},
+	{
+		"id" : 4678,
+		"chwyt" : "h A D D"
+	},
+	{
+		"id" : 4679,
+		"chwyt" : "h A D D"
+	},
+	{
+		"id" : 4680,
+		"chwyt" : "G A hA Gfis"
+	},
+	{
+		"id" : 4681,
+		"chwyt" : "e C"
+	},
+	{
+		"id" : 4682,
+		"chwyt" : "h A D D"
+	},
+	{
+		"id" : 4683,
+		"chwyt" : "h A D D"
+	},
+	{
+		"id" : 4684,
+		"chwyt" : "G A hA Gfis"
+	},
+	{
+		"id" : 4685,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 4687,
+		"chwyt" : "D e"
+	},
+	{
+		"id" : 4688,
+		"chwyt" : "G G D e"
+	},
+	{
+		"id" : 4689,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 4690,
+		"chwyt" : "D e"
+	},
+	{
+		"id" : 4691,
+		"chwyt" : "G G e D"
+	},
+	{
+		"id" : 4692,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 4704,
+		"chwyt" : "C G C C"
+	},
+	{
+		"id" : 4705,
+		"chwyt" : "1. a G C C 2. a G a a"
+	},
+	{
+		"id" : 4706,
+		"chwyt" : "d G C F"
+	},
+	{
+		"id" : 4707,
+		"chwyt" : "d G C F"
+	},
+	{
+		"id" : 4708,
+		"chwyt" : "d G C F"
+	},
+	{
+		"id" : 4709,
+		"chwyt" : "d G C C"
+	},
+	{
+		"id" : 4714,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 4715,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 4716,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 4717,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 4718,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 4719,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 4720,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 4721,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 4724,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 4725,
+		"chwyt" : "C F"
+	},
+	{
+		"id" : 4726,
+		"chwyt" : "C d"
+	},
+	{
+		"id" : 4727,
+		"chwyt" : "B C F F"
+	},
+	{
+		"id" : 4729,
+		"chwyt" : "F B F"
+	},
+	{
+		"id" : 4730,
+		"chwyt" : "F C"
+	},
+	{
+		"id" : 4731,
+		"chwyt" : "F B F"
+	},
+	{
+		"id" : 4732,
+		"chwyt" : "B C F F"
+	},
+	{
+		"id" : 4734,
+		"chwyt" : "C B F"
+	},
+	{
+		"id" : 4735,
+		"chwyt" : "C B F"
+	},
+	{
+		"id" : 4736,
+		"chwyt" : "d C F"
+	},
+	{
+		"id" : 4737,
+		"chwyt" : "B C F F"
+	},
+	{
+		"id" : 4741,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 4742,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 4743,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 4744,
+		"chwyt" : "cis A H"
+	},
+	{
+		"id" : 4746,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 4747,
+		"chwyt" : "A H"
+	},
+	{
+		"id" : 4748,
+		"chwyt" : "E H"
+	},
+	{
+		"id" : 4749,
+		"chwyt" : "A H E AH"
+	},
+	{
+		"id" : 4751,
+		"chwyt" : "E A H H"
+	},
+	{
+		"id" : 4752,
+		"chwyt" : "E A H H"
+	},
+	{
+		"id" : 4753,
+		"chwyt" : "E A H H"
+	},
+	{
+		"id" : 4754,
+		"chwyt" : "cis A H E E"
+	},
+	{
+		"id" : 4758,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 4759,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 4760,
+		"chwyt" : "a a"
+	},
+	{
+		"id" : 4761,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 4763,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 4764,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 4770,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 4771,
+		"chwyt" : "a a"
+	},
+	{
+		"id" : 4772,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 4773,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 4775,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 4776,
+		"chwyt" : "G e"
+	},
+	{
+		"id" : 4777,
+		"chwyt" : "a D"
+	},
+	{
+		"id" : 4778,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 4786,
+		"chwyt" : "G C a"
+	},
+	{
+		"id" : 4787,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 4788,
+		"chwyt" : "G C a"
+	},
+	{
+		"id" : 4789,
+		"chwyt" : "D G Ga7"
+	},
+	{
+		"id" : 4791,
+		"chwyt" : "h7 eD C a7"
+	},
+	{
+		"id" : 4792,
+		"chwyt" : "D D7 h7 a7"
+	},
+	{
+		"id" : 4793,
+		"chwyt" : "G eDC a7"
+	},
+	{
+		"id" : 4794,
+		"chwyt" : "D D7 G G"
+	},
+	{
+		"id" : 4795,
+		"chwyt" : "G C a"
+	},
+	{
+		"id" : 4796,
+		"chwyt" : "D G"
+	},
+	{
+		"id" : 4797,
+		"chwyt" : "G C a"
+	},
+	{
+		"id" : 4798,
+		"chwyt" : "D G Ga7"
+	},
+	{
+		"id" : 4801,
+		"chwyt" : "D fis h A"
+	},
+	{
+		"id" : 4802,
+		"chwyt" : "e D G A"
+	},
+	{
+		"id" : 4803,
+		"chwyt" : "D fis h A"
+	},
+	{
+		"id" : 4804,
+		"chwyt" : "e A D A"
+	},
+	{
+		"id" : 4806,
+		"chwyt" : "D G D G"
+	},
+	{
+		"id" : 4807,
+		"chwyt" : "D G D G"
+	},
+	{
+		"id" : 4808,
+		"chwyt" : "D G D G"
+	},
+	{
+		"id" : 4809,
+		"chwyt" : "D G D G"
+	},
+	{
+		"id" : 4810,
+		"chwyt" : "C G D D"
+	},
+	{
+		"id" : 4811,
+		"chwyt" : "C h7 B A"
+	},
+	{
+		"id" : 4813,
+		"chwyt" : "C h7"
+	},
+	{
+		"id" : 4814,
+		"chwyt" : "d h7"
+	},
+	{
+		"id" : 4815,
+		"chwyt" : "E7 E7"
+	},
+	{
+		"id" : 4816,
+		"chwyt" : "C C A"
+	},
+	{
+		"id" : 4820,
+		"chwyt" : "d CF g g"
+	},
+	{
+		"id" : 4821,
+		"chwyt" : "B aF d d"
+	},
+	{
+		"id" : 4827,
+		"chwyt" : "C F F F"
+	},
+	{
+		"id" : 4828,
+		"chwyt" : "g F F F"
+	},
+	{
+		"id" : 4829,
+		"chwyt" : "C d7 d7 d7"
+	},
+	{
+		"id" : 4830,
+		"chwyt" : "B C"
+	},
+	{
+		"id" : 4841,
+		"chwyt" : "h h AD D"
+	},
+	{
+		"id" : 4842,
+		"chwyt" : "A A G G"
+	},
+	{
+		"id" : 4843,
+		"chwyt" : "h h AD D"
+	},
+	{
+		"id" : 4844,
+		"chwyt" : "A A G G"
+	},
+	{
+		"id" : 4846,
+		"chwyt" : "G D A A"
+	},
+	{
+		"id" : 4849,
+		"chwyt" : "G G Ah A"
+	},
+	{
+		"id" : 4850,
+		"chwyt" : "D D A A"
+	},
+	{
+		"id" : 4851,
+		"chwyt" : "G G G G"
+	},
+	{
+		"id" : 4857,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 4858,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 4859,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 4860,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 4865,
+		"chwyt" : "h h h A"
+	},
+	{
+		"id" : 4866,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 4867,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 4868,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 4878,
+		"chwyt" : "E cis D AH"
+	},
+	{
+		"id" : 4879,
+		"chwyt" : "E A cis H"
+	},
+	{
+		"id" : 4880,
+		"chwyt" : "E cis D AH"
+	},
+	{
+		"id" : 4881,
+		"chwyt" : "E A cis H"
+	},
+	{
+		"id" : 4883,
+		"chwyt" : "E E cis cis"
+	},
+	{
+		"id" : 4884,
+		"chwyt" : "D D H H"
+	},
+	{
+		"id" : 4888,
+		"chwyt" : "D A H H"
+	},
+	{
+		"id" : 4894,
+		"chwyt" : "e h D a"
+	},
+	{
+		"id" : 4898,
+		"chwyt" : "C  D"
+	},
+	{
+		"id" : 4899,
+		"chwyt" : "1. e  D  2. e  e D"
+	},
+	{
+		"id" : 4905,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 4907,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 4908,
+		"chwyt" : "a H"
+	},
+	{
+		"id" : 4909,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 4910,
+		"chwyt" : "a H"
+	},
+	{
+		"id" : 4913,
+		"chwyt" : "C  C"
+	},
+	{
+		"id" : 4914,
+		"chwyt" : "a  F"
+	},
+	{
+		"id" : 4915,
+		"chwyt" : "C  C"
+	},
+	{
+		"id" : 4916,
+		"chwyt" : "a  F"
+	},
+	{
+		"id" : 4918,
+		"chwyt" : "d7  e7"
+	},
+	{
+		"id" : 4919,
+		"chwyt" : "F  G"
+	},
+	{
+		"id" : 4926,
+		"chwyt" : "d7  e7"
+	},
+	{
+		"id" : 4927,
+		"chwyt" : "F  G"
+	},
+	{
+		"id" : 4932,
+		"chwyt" : "D  G"
+	},
+	{
+		"id" : 4933,
+		"chwyt" : "h  A"
+	},
+	{
+		"id" : 4935,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 4936,
+		"chwyt" : "h  A"
+	},
+	{
+		"id" : 4937,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 4938,
+		"chwyt" : "h  A"
+	},
+	{
+		"id" : 4940,
+		"chwyt" : "D  G"
+	},
+	{
+		"id" : 4941,
+		"chwyt" : "h  A"
+	},
+	{
+		"id" : 4944,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 4945,
+		"chwyt" : "E  E"
+	},
+	{
+		"id" : 4946,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 4947,
+		"chwyt" : "E  E"
+	},
+	{
+		"id" : 4952,
+		"chwyt" : "E  A"
+	},
+	{
+		"id" : 4953,
+		"chwyt" : "H  cis"
+	},
+	{
+		"id" : 4960,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 4961,
+		"chwyt" : "E  cis"
+	},
+	{
+		"id" : 4962,
+		"chwyt" : "fis  gis"
+	},
+	{
+		"id" : 4963,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 4965,
+		"chwyt" : "E  A"
+	},
+	{
+		"id" : 4966,
+		"chwyt" : "H  cis"
+	},
+	{
+		"id" : 4974,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 4975,
+		"chwyt" : "E  E"
+	},
+	{
+		"id" : 4976,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 4977,
+		"chwyt" : "E  E"
+	},
+	{
+		"id" : 4981,
+		"chwyt" : "E  A"
+	},
+	{
+		"id" : 4982,
+		"chwyt" : "H  cis"
+	},
+	{
+		"id" : 4999,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 5000,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 5001,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 5002,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 5017,
+		"chwyt" : "F  C"
+	},
+	{
+		"id" : 5018,
+		"chwyt" : "F  C"
+	},
+	{
+		"id" : 5025,
+		"chwyt" : "a  G"
+	},
+	{
+		"id" : 5026,
+		"chwyt" : "C  C"
+	},
+	{
+		"id" : 5027,
+		"chwyt" : "a  G"
+	},
+	{
+		"id" : 5028,
+		"chwyt" : "d  F"
+	},
+	{
+		"id" : 5032,
+		"chwyt" : "a  G"
+	},
+	{
+		"id" : 5033,
+		"chwyt" : "C  C"
+	},
+	{
+		"id" : 5034,
+		"chwyt" : "a  G"
+	},
+	{
+		"id" : 5035,
+		"chwyt" : "C  C"
+	},
+	{
+		"id" : 5042,
+		"chwyt" : "F  F G"
+	},
+	{
+		"id" : 5043,
+		"chwyt" : "a   d C"
+	},
+	{
+		"id" : 5044,
+		"chwyt" : "F   F G"
+	},
+	{
+		"id" : 5045,
+		"chwyt" : "a  d C"
+	},
+	{
+		"id" : 5048,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 5049,
+		"chwyt" : "d F"
+	},
+	{
+		"id" : 5050,
+		"chwyt" : "C G"
+	},
+	{
+		"id" : 5051,
+		"chwyt" : "d F"
+	},
+	{
+		"id" : 5053,
+		"chwyt" : "a F"
+	},
+	{
+		"id" : 5054,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 5055,
+		"chwyt" : "a F"
+	},
+	{
+		"id" : 5056,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 5057,
+		"chwyt" : "a a"
+	},
+	{
+		"id" : 5058,
+		"chwyt" : "F F"
+	},
+	{
+		"id" : 5059,
+		"chwyt" : "C C"
+	},
+	{
+		"id" : 5060,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 5069,
+		"chwyt" : "a  a"
+	},
+	{
+		"id" : 5070,
+		"chwyt" : "F  F"
+	},
+	{
+		"id" : 5071,
+		"chwyt" : "C  C"
+	},
+	{
+		"id" : 5072,
+		"chwyt" : "G  G"
+	},
+	{
+		"id" : 5087,
+		"chwyt" : "a G C C"
+	},
+	{
+		"id" : 5088,
+		"chwyt" : "F  F"
+	},
+	{
+		"id" : 5089,
+		"chwyt" : "a G C C"
+	},
+	{
+		"id" : 5090,
+		"chwyt" : "G  G"
+	},
+	{
+		"id" : 5093,
+		"chwyt" : "E A H cis7"
+	},
+	{
+		"id" : 5094,
+		"chwyt" : "A  cis7"
+	},
+	{
+		"id" : 5095,
+		"chwyt" : "E A H cis7"
+	},
+	{
+		"id" : 5096,
+		"chwyt" : "A H cis7"
+	},
+	{
+		"id" : 5097,
+		"chwyt" : "\/cis  E  fis7 gis7\/x2"
+	},
+	{
+		"id" : 5098,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 5099,
+		"chwyt" : "cis7"
+	},
+	{
+		"id" : 5100,
+		"chwyt" : "fis7 gis7"
+	},
+	{
+		"id" : 5101,
+		"chwyt" : "cis7 cis7"
+	},
+	{
+		"id" : 5102,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 5103,
+		"chwyt" : "cis7"
+	},
+	{
+		"id" : 5104,
+		"chwyt" : "fis  H"
+	},
+	{
+		"id" : 5116,
+		"chwyt" : "E  cis7"
+	},
+	{
+		"id" : 5117,
+		"chwyt" : "A  H"
+	},
+	{
+		"id" : 5118,
+		"chwyt" : "cis7 cis7"
+	},
+	{
+		"id" : 5119,
+		"chwyt" : "A  H"
+	},
+	{
+		"id" : 5120,
+		"chwyt" : "E  cis7"
+	},
+	{
+		"id" : 5121,
+		"chwyt" : "A  H"
+	},
+	{
+		"id" : 5122,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 5125,
+		"chwyt" : "cis  cis  H  H"
+	},
+	{
+		"id" : 5126,
+		"chwyt" : "fis7 fis7 fis7 gis7"
+	},
+	{
+		"id" : 5136,
+		"chwyt" : "D  E"
+	},
+	{
+		"id" : 5137,
+		"chwyt" : "fis  cis"
+	},
+	{
+		"id" : 5138,
+		"chwyt" : "D  E"
+	},
+	{
+		"id" : 5139,
+		"chwyt" : "fis  cis"
+	},
+	{
+		"id" : 5143,
+		"chwyt" : "fis  D"
+	},
+	{
+		"id" : 5144,
+		"chwyt" : "A  E"
+	},
+	{
+		"id" : 5145,
+		"chwyt" : "fis  D"
+	},
+	{
+		"id" : 5146,
+		"chwyt" : "A  E"
+	},
+	{
+		"id" : 5164,
+		"chwyt" : "cis  H"
+	},
+	{
+		"id" : 5165,
+		"chwyt" : "cis  H cis"
+	},
+	{
+		"id" : 5167,
+		"chwyt" : "H  cis"
+	},
+	{
+		"id" : 5174,
+		"chwyt" : "(G) C  G"
+	},
+	{
+		"id" : 5175,
+		"chwyt" : "a G F F"
+	},
+	{
+		"id" : 5176,
+		"chwyt" : "C  G"
+	},
+	{
+		"id" : 5177,
+		"chwyt" : "a G F F"
+	},
+	{
+		"id" : 5179,
+		"chwyt" : "C  C"
+	},
+	{
+		"id" : 5180,
+		"chwyt" : "F a G G"
+	},
+	{
+		"id" : 5181,
+		"chwyt" : "a aG C C"
+	},
+	{
+		"id" : 5182,
+		"chwyt" : "F a G G"
+	},
+	{
+		"id" : 5190,
+		"chwyt" : "F  G"
+	},
+	{
+		"id" : 5191,
+		"chwyt" : "a  C"
+	},
+	{
+		"id" : 5192,
+		"chwyt" : "F  G"
+	},
+	{
+		"id" : 5193,
+		"chwyt" : "a  G"
+	},
+	{
+		"id" : 5204,
+		"chwyt" : "a g"
+	},
+	{
+		"id" : 5205,
+		"chwyt" : "d F"
+	},
+	{
+		"id" : 5221,
+		"chwyt" : "A  E"
+	},
+	{
+		"id" : 5222,
+		"chwyt" : "H  cis"
+	},
+	{
+		"id" : 5249,
+		"chwyt" : "cis  A"
+	},
+	{
+		"id" : 5250,
+		"chwyt" : "E  H"
+	},
+	{
+		"id" : 5251,
+		"chwyt" : "cis  A"
+	},
+	{
+		"id" : 5252,
+		"chwyt" : "E  H"
+	},
+	{
+		"id" : 5254,
+		"chwyt" : "E  H"
+	},
+	{
+		"id" : 5255,
+		"chwyt" : "cis  A"
+	},
+	{
+		"id" : 5257,
+		"chwyt" : "cis  A"
+	},
+	{
+		"id" : 5258,
+		"chwyt" : "cis  A"
+	},
+	{
+		"id" : 5264,
+		"chwyt" : "e  h"
+	},
+	{
+		"id" : 5265,
+		"chwyt" : "C  D"
+	},
+	{
+		"id" : 5267,
+		"chwyt" : "C D G G"
+	},
+	{
+		"id" : 5268,
+		"chwyt" : "C D G G"
+	},
+	{
+		"id" : 5269,
+		"chwyt" : "e  h"
+	},
+	{
+		"id" : 5270,
+		"chwyt" : "C  D"
+	},
+	{
+		"id" : 5276,
+		"chwyt" : "C D e e"
+	},
+	{
+		"id" : 5283,
+		"chwyt" : "C d C C"
+	},
+	{
+		"id" : 5284,
+		"chwyt" : "F C G G"
+	},
+	{
+		"id" : 5285,
+		"chwyt" : "F C G aG"
+	},
+	{
+		"id" : 5286,
+		"chwyt" : "F  G C"
+	},
+	{
+		"id" : 5288,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 5289,
+		"chwyt" : "d   C"
+	},
+	{
+		"id" : 5290,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 5291,
+		"chwyt" : "d  a"
+	},
+	{
+		"id" : 5292,
+		"chwyt" : "G  G"
+	},
+	{
+		"id" : 5294,
+		"chwyt" : "G  a C"
+	},
+	{
+		"id" : 5295,
+		"chwyt" : "F  G"
+	},
+	{
+		"id" : 5300,
+		"chwyt" : "cis  A"
+	},
+	{
+		"id" : 5301,
+		"chwyt" : "E  E H"
+	},
+	{
+		"id" : 5306,
+		"chwyt" : "A  E"
+	},
+	{
+		"id" : 5307,
+		"chwyt" : "H  fis"
+	},
+	{
+		"id" : 5318,
+		"chwyt" : "D  A   D E  A A"
+	},
+	{
+		"id" : 5319,
+		"chwyt" : "D  fis  E  E"
+	},
+	{
+		"id" : 5326,
+		"chwyt" : "D A  E fis"
+	},
+	{
+		"id" : 5327,
+		"chwyt" : "D A  E E"
+	},
+	{
+		"id" : 5328,
+		"chwyt" : "D A  E fis"
+	},
+	{
+		"id" : 5329,
+		"chwyt" : "D A E E"
+	},
+	{
+		"id" : 5330,
+		"chwyt" : "D  A"
+	},
+	{
+		"id" : 5331,
+		"chwyt" : "D  A"
+	},
+	{
+		"id" : 5332,
+		"chwyt" : "D  fis"
+	},
+	{
+		"id" : 5333,
+		"chwyt" : "E  E"
+	},
+	{
+		"id" : 5336,
+		"chwyt" : "C  C"
+	},
+	{
+		"id" : 5337,
+		"chwyt" : "a G F F"
+	},
+	{
+		"id" : 5346,
+		"chwyt" : "a G F F"
+	},
+	{
+		"id" : 5349,
+		"chwyt" : "F  G"
+	},
+	{
+		"id" : 5350,
+		"chwyt" : "a  C"
+	},
+	{
+		"id" : 5353,
+		"chwyt" : "F  G"
+	},
+	{
+		"id" : 5355,
+		"chwyt" : "a  C"
+	},
+	{
+		"id" : 5356,
+		"chwyt" : "a G F F"
+	},
+	{
+		"id" : 5360,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 5361,
+		"chwyt" : "e D G G"
+	},
+	{
+		"id" : 5362,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 5363,
+		"chwyt" : "e D C C"
+	},
+	{
+		"id" : 5364,
+		"chwyt" : "e D C C"
+	},
+	{
+		"id" : 5366,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 5367,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 5368,
+		"chwyt" : "e D C C"
+	},
+	{
+		"id" : 5369,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 5386,
+		"chwyt" : "e e D D"
+	},
+	{
+		"id" : 5387,
+		"chwyt" : "G G C C"
+	},
+	{
+		"id" : 5388,
+		"chwyt" : "e e D D"
+	},
+	{
+		"id" : 5389,
+		"chwyt" : "G G C C"
+	},
+	{
+		"id" : 5391,
+		"chwyt" : "e D G G"
+	},
+	{
+		"id" : 5397,
+		"chwyt" : "c7  F7"
+	},
+	{
+		"id" : 5398,
+		"chwyt" : "c7  F7"
+	},
+	{
+		"id" : 5407,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 5408,
+		"chwyt" : "h GA"
+	},
+	{
+		"id" : 5409,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 5410,
+		"chwyt" : "e GA"
+	},
+	{
+		"id" : 5412,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 5413,
+		"chwyt" : "e GA"
+	},
+	{
+		"id" : 5422,
+		"chwyt" : "D A"
+	},
+	{
+		"id" : 5423,
+		"chwyt" : "h A"
+	},
+	{
+		"id" : 5427,
+		"chwyt" : "D  A"
+	},
+	{
+		"id" : 5428,
+		"chwyt" : "h  G"
+	},
+	{
+		"id" : 5430,
+		"chwyt" : "D  A"
+	},
+	{
+		"id" : 5431,
+		"chwyt" : "h  G"
+	},
+	{
+		"id" : 5433,
+		"chwyt" : "D  A"
+	},
+	{
+		"id" : 5434,
+		"chwyt" : "h  G"
+	},
+	{
+		"id" : 5443,
+		"chwyt" : "E  cis"
+	},
+	{
+		"id" : 5444,
+		"chwyt" : "A  E H"
+	},
+	{
+		"id" : 5445,
+		"chwyt" : "E  cis"
+	},
+	{
+		"id" : 5446,
+		"chwyt" : "A  E H"
+	},
+	{
+		"id" : 5448,
+		"chwyt" : "E  cis"
+	},
+	{
+		"id" : 5449,
+		"chwyt" : "A  E H"
+	},
+	{
+		"id" : 5450,
+		"chwyt" : "E  cis"
+	},
+	{
+		"id" : 5451,
+		"chwyt" : "A  E H"
+	},
+	{
+		"id" : 5453,
+		"chwyt" : "G  G"
+	},
+	{
+		"id" : 5454,
+		"chwyt" : "D  D"
+	},
+	{
+		"id" : 5455,
+		"chwyt" : "G  e"
+	},
+	{
+		"id" : 5456,
+		"chwyt" : "h  A"
+	},
+	{
+		"id" : 5462,
+		"chwyt" : "D  D"
+	},
+	{
+		"id" : 5463,
+		"chwyt" : "h  h"
+	},
+	{
+		"id" : 5464,
+		"chwyt" : "G  e"
+	},
+	{
+		"id" : 5465,
+		"chwyt" : "h  A"
+	},
+	{
+		"id" : 5467,
+		"chwyt" : "D  D"
+	},
+	{
+		"id" : 5468,
+		"chwyt" : "h  h"
+	},
+	{
+		"id" : 5469,
+		"chwyt" : "G  e"
+	},
+	{
+		"id" : 5470,
+		"chwyt" : "h  A"
+	},
+	{
+		"id" : 5482,
+		"chwyt" : "G  e"
+	},
+	{
+		"id" : 5483,
+		"chwyt" : "h7  a7 D"
+	},
+	{
+		"id" : 5484,
+		"chwyt" : "G  e"
+	},
+	{
+		"id" : 5485,
+		"chwyt" : "h7 B7+ a7"
+	},
+	{
+		"id" : 5489,
+		"chwyt" : "G  G h A  A D"
+	},
+	{
+		"id" : 5490,
+		"chwyt" : "G  G h A  A D"
+	},
+	{
+		"id" : 5491,
+		"chwyt" : "G  G h A  A D"
+	},
+	{
+		"id" : 5492,
+		"chwyt" : "G  G h A  A"
+	},
+	{
+		"id" : 5494,
+		"chwyt" : "D  D h G  G fis"
+	},
+	{
+		"id" : 5495,
+		"chwyt" : "h  h D G  A"
+	},
+	{
+		"id" : 5496,
+		"chwyt" : "D  D h G  G fis"
+	},
+	{
+		"id" : 5497,
+		"chwyt" : "h  A  G  A"
+	},
+	{
+		"id" : 5503,
+		"chwyt" : "D  D"
+	},
+	{
+		"id" : 5505,
+		"chwyt" : "G h A fis"
+	},
+	{
+		"id" : 5506,
+		"chwyt" : "G h A fis"
+	},
+	{
+		"id" : 5507,
+		"chwyt" : "G h A A"
+	},
+	{
+		"id" : 5508,
+		"chwyt" : "D  D"
+	},
+	{
+		"id" : 5509,
+		"chwyt" : "D  G"
+	},
+	{
+		"id" : 5510,
+		"chwyt" : "h7  G eA"
+	},
+	{
+		"id" : 5511,
+		"chwyt" : "D  e7"
+	},
+	{
+		"id" : 5512,
+		"chwyt" : "D  G A"
+	},
+	{
+		"id" : 5517,
+		"chwyt" : "e C"
+	},
+	{
+		"id" : 5518,
+		"chwyt" : "a H"
+	},
+	{
+		"id" : 5520,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 5521,
+		"chwyt" : "e H"
+	},
+	{
+		"id" : 5522,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 5523,
+		"chwyt" : "e H"
+	},
+	{
+		"id" : 5524,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 5525,
+		"chwyt" : "e D"
+	},
+	{
+		"id" : 5526,
+		"chwyt" : "a D"
+	},
+	{
+		"id" : 5527,
+		"chwyt" : "e D                e e"
+	},
+	{
+		"id" : 5529,
+		"chwyt" : "C a"
+	},
+	{
+		"id" : 5530,
+		"chwyt" : "e H"
+	},
+	{
+		"id" : 5533,
+		"chwyt" : "cis  gis"
+	},
+	{
+		"id" : 5534,
+		"chwyt" : "A  H"
+	},
+	{
+		"id" : 5536,
+		"chwyt" : "A  H"
+	},
+	{
+		"id" : 5538,
+		"chwyt" : "E     fis"
+	},
+	{
+		"id" : 5539,
+		"chwyt" : "A     H"
+	},
+	{
+		"id" : 5548,
+		"chwyt" : "A  H"
+	},
+	{
+		"id" : 5554,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 5555,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 5556,
+		"chwyt" : "1. h  2. C"
+	},
+	{
+		"id" : 5557,
+		"chwyt" : "1. A 2. a"
+	},
+	{
+		"id" : 5558,
+		"chwyt" : "2. D"
+	},
+	{
+		"id" : 5559,
+		"chwyt" : "G  G"
+	},
+	{
+		"id" : 5560,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 5561,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 5562,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 5563,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 5574,
+		"chwyt" : "E H  E  H"
+	},
+	{
+		"id" : 5575,
+		"chwyt" : "E H  E  H"
+	},
+	{
+		"id" : 5576,
+		"chwyt" : "A gis  cis  H"
+	},
+	{
+		"id" : 5577,
+		"chwyt" : "A gis  cis  H"
+	},
+	{
+		"id" : 5579,
+		"chwyt" : "fis   gis"
+	},
+	{
+		"id" : 5580,
+		"chwyt" : "fis   gis"
+	},
+	{
+		"id" : 5581,
+		"chwyt" : "fis   cis"
+	},
+	{
+		"id" : 5582,
+		"chwyt" : "fis (gis) A H"
+	},
+	{
+		"id" : 5583,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 5587,
+		"chwyt" : "e G"
+	},
+	{
+		"id" : 5588,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 5589,
+		"chwyt" : "e G"
+	},
+	{
+		"id" : 5590,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 5591,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 5592,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 5593,
+		"chwyt" : "a a"
+	},
+	{
+		"id" : 5594,
+		"chwyt" : "e H"
+	},
+	{
+		"id" : 5597,
+		"chwyt" : "cis  H Fis  E"
+	},
+	{
+		"id" : 5598,
+		"chwyt" : "cis  H Fis  E"
+	},
+	{
+		"id" : 5599,
+		"chwyt" : "cis  H Fis  E"
+	},
+	{
+		"id" : 5600,
+		"chwyt" : "cis  H Fis  Fis"
+	},
+	{
+		"id" : 5602,
+		"chwyt" : "cis H Fis"
+	},
+	{
+		"id" : 5611,
+		"chwyt" : "E  E Fis  Fis"
+	},
+	{
+		"id" : 5617,
+		"chwyt" : "E  E"
+	},
+	{
+		"id" : 5618,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 5626,
+		"chwyt" : "H  cis"
+	},
+	{
+		"id" : 5629,
+		"chwyt" : "H  H"
+	},
+	{
+		"id" : 5631,
+		"chwyt" : "A  cis"
+	},
+	{
+		"id" : 5632,
+		"chwyt" : "H  fis"
+	},
+	{
+		"id" : 5633,
+		"chwyt" : "A  cis"
+	},
+	{
+		"id" : 5634,
+		"chwyt" : "H  A"
+	},
+	{
+		"id" : 5635,
+		"chwyt" : "A  cis"
+	},
+	{
+		"id" : 5636,
+		"chwyt" : "H  fis"
+	},
+	{
+		"id" : 5637,
+		"chwyt" : "A  cis"
+	},
+	{
+		"id" : 5638,
+		"chwyt" : "H  A"
+	},
+	{
+		"id" : 5645,
+		"chwyt" : "A  cis"
+	},
+	{
+		"id" : 5646,
+		"chwyt" : "H  A"
+	},
+	{
+		"id" : 5647,
+		"chwyt" : "A  cis"
+	},
+	{
+		"id" : 5648,
+		"chwyt" : "H  fis"
+	},
+	{
+		"id" : 5651,
+		"chwyt" : "E  E"
+	},
+	{
+		"id" : 5652,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 5653,
+		"chwyt" : "cis  cis"
+	},
+	{
+		"id" : 5654,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 5659,
+		"chwyt" : "H  cis"
+	},
+	{
+		"id" : 5660,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 5661,
+		"chwyt" : "H  cis"
+	},
+	{
+		"id" : 5662,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 5671,
+		"chwyt" : "A  E"
+	},
+	{
+		"id" : 5672,
+		"chwyt" : "fis  H E"
+	},
+	{
+		"id" : 5675,
+		"chwyt" : "F G a a"
+	},
+	{
+		"id" : 5694,
+		"chwyt" : "G C D e"
+	},
+	{
+		"id" : 5695,
+		"chwyt" : "G C D D"
+	},
+	{
+		"id" : 5696,
+		"chwyt" : "G C D e"
+	},
+	{
+		"id" : 5697,
+		"chwyt" : "G C D D"
+	},
+	{
+		"id" : 5699,
+		"chwyt" : "e  D"
+	},
+	{
+		"id" : 5700,
+		"chwyt" : "C  D"
+	},
+	{
+		"id" : 5701,
+		"chwyt" : "G  C"
+	},
+	{
+		"id" : 5702,
+		"chwyt" : "e  D"
+	},
+	{
+		"id" : 5703,
+		"chwyt" : "G  C"
+	},
+	{
+		"id" : 5705,
+		"chwyt" : "1.   e D C C     2.   e D C e"
+	},
+	{
+		"id" : 5706,
+		"chwyt" : "D D C e"
+	},
+	{
+		"id" : 5713,
+		"chwyt" : "D  e"
+	},
+	{
+		"id" : 5714,
+		"chwyt" : "C  D"
+	},
+	{
+		"id" : 5724,
+		"chwyt" : "e D C C"
+	},
+	{
+		"id" : 5731,
+		"chwyt" : "e D C C"
+	},
+	{
+		"id" : 5732,
+		"chwyt" : "e D A A"
+	},
+	{
+		"id" : 5733,
+		"chwyt" : "e G C C"
+	},
+	{
+		"id" : 5736,
+		"chwyt" : "e G A A"
+	},
+	{
+		"id" : 5743,
+		"chwyt" : "C D e G"
+	},
+	{
+		"id" : 5744,
+		"chwyt" : "C D e e"
+	},
+	{
+		"id" : 5749,
+		"chwyt" : "h h D D"
+	},
+	{
+		"id" : 5750,
+		"chwyt" : "A A e e"
+	},
+	{
+		"id" : 5759,
+		"chwyt" : "e fis G G"
+	},
+	{
+		"id" : 5762,
+		"chwyt" : "e G A A"
+	},
+	{
+		"id" : 5765,
+		"chwyt" : "E  E"
+	},
+	{
+		"id" : 5766,
+		"chwyt" : "cis  cis"
+	},
+	{
+		"id" : 5767,
+		"chwyt" : "H  H fis"
+	},
+	{
+		"id" : 5768,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 5769,
+		"chwyt" : "cis  A"
+	},
+	{
+		"id" : 5770,
+		"chwyt" : "E  H"
+	},
+	{
+		"id" : 5771,
+		"chwyt" : "cis  A"
+	},
+	{
+		"id" : 5772,
+		"chwyt" : "1. H  fis   2. H  fis              E  E"
+	},
+	{
+		"id" : 5775,
+		"chwyt" : "e  C"
+	},
+	{
+		"id" : 5776,
+		"chwyt" : "G    D"
+	},
+	{
+		"id" : 5784,
+		"chwyt" : "C D e e"
+	},
+	{
+		"id" : 5785,
+		"chwyt" : "a h C C"
+	},
+	{
+		"id" : 5790,
+		"chwyt" : "a h C C"
+	},
+	{
+		"id" : 5792,
+		"chwyt" : "e D C CD"
+	},
+	{
+		"id" : 5795,
+		"chwyt" : "e D C C D D"
+	},
+	{
+		"id" : 5798,
+		"chwyt" : "E  A"
+	},
+	{
+		"id" : 5799,
+		"chwyt" : "cis  H"
+	},
+	{
+		"id" : 5801,
+		"chwyt" : "A  E"
+	},
+	{
+		"id" : 5802,
+		"chwyt" : "A  E"
+	},
+	{
+		"id" : 5803,
+		"chwyt" : "A  cis"
+	},
+	{
+		"id" : 5804,
+		"chwyt" : "H  H"
+	},
+	{
+		"id" : 5806,
+		"chwyt" : "A  E"
+	},
+	{
+		"id" : 5807,
+		"chwyt" : "cis  H"
+	},
+	{
+		"id" : 5808,
+		"chwyt" : "A  E"
+	},
+	{
+		"id" : 5809,
+		"chwyt" : "cis  H"
+	},
+	{
+		"id" : 5811,
+		"chwyt" : "G  G"
+	},
+	{
+		"id" : 5812,
+		"chwyt" : "C  G"
+	},
+	{
+		"id" : 5813,
+		"chwyt" : "e  C"
+	},
+	{
+		"id" : 5814,
+		"chwyt" : "D  D"
+	},
+	{
+		"id" : 5815,
+		"chwyt" : "G  G"
+	},
+	{
+		"id" : 5816,
+		"chwyt" : "C  G"
+	},
+	{
+		"id" : 5817,
+		"chwyt" : "e  C"
+	},
+	{
+		"id" : 5818,
+		"chwyt" : "D  D"
+	},
+	{
+		"id" : 5820,
+		"chwyt" : "G  G"
+	},
+	{
+		"id" : 5821,
+		"chwyt" : "e  e"
+	},
+	{
+		"id" : 5822,
+		"chwyt" : "C  a"
+	},
+	{
+		"id" : 5823,
+		"chwyt" : "D  D"
+	},
+	{
+		"id" : 5824,
+		"chwyt" : "G  G"
+	},
+	{
+		"id" : 5825,
+		"chwyt" : "e  e"
+	},
+	{
+		"id" : 5826,
+		"chwyt" : "a  C"
+	},
+	{
+		"id" : 5836,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 5837,
+		"chwyt" : "C D"
+	},
+	{
+		"id" : 5841,
+		"chwyt" : "D fis  E cis"
+	},
+	{
+		"id" : 5842,
+		"chwyt" : "D cis  A"
+	},
+	{
+		"id" : 5846,
+		"chwyt" : "E\/gis  fis"
+	},
+	{
+		"id" : 5847,
+		"chwyt" : "E   E"
+	},
+	{
+		"id" : 5855,
+		"chwyt" : "D E  fis fis"
+	},
+	{
+		"id" : 5856,
+		"chwyt" : "D E  fis fis"
+	},
+	{
+		"id" : 5874,
+		"chwyt" : "A  H"
+	},
+	{
+		"id" : 5875,
+		"chwyt" : "cis7 gis7"
+	},
+	{
+		"id" : 5876,
+		"chwyt" : "A  H"
+	},
+	{
+		"id" : 5877,
+		"chwyt" : "cis7 gis7"
+	},
+	{
+		"id" : 5879,
+		"chwyt" : "A   gis7"
+	},
+	{
+		"id" : 5880,
+		"chwyt" : "fis7 H"
+	},
+	{
+		"id" : 5882,
+		"chwyt" : "A gis7"
+	},
+	{
+		"id" : 5883,
+		"chwyt" : "cis7 gis7"
+	},
+	{
+		"id" : 5886,
+		"chwyt" : "e  e"
+	},
+	{
+		"id" : 5887,
+		"chwyt" : "D  D"
+	},
+	{
+		"id" : 5888,
+		"chwyt" : "C  C"
+	},
+	{
+		"id" : 5889,
+		"chwyt" : "H7  H7"
+	},
+	{
+		"id" : 5891,
+		"chwyt" : "C  D"
+	},
+	{
+		"id" : 5892,
+		"chwyt" : "a  H7"
+	},
+	{
+		"id" : 5893,
+		"chwyt" : "C  D"
+	},
+	{
+		"id" : 5894,
+		"chwyt" : "a  H7"
+	},
+	{
+		"id" : 5895,
+		"chwyt" : "e  e"
+	},
+	{
+		"id" : 5896,
+		"chwyt" : "D  D"
+	},
+	{
+		"id" : 5897,
+		"chwyt" : "C  C"
+	},
+	{
+		"id" : 5898,
+		"chwyt" : "H7  H7"
+	},
+	{
+		"id" : 5903,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 5904,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 5905,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 5906,
+		"chwyt" : "G   (A)"
+	},
+	{
+		"id" : 5907,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 5908,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 5909,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 5910,
+		"chwyt" : "G  (A)"
+	},
+	{
+		"id" : 5912,
+		"chwyt" : "e7  h"
+	},
+	{
+		"id" : 5913,
+		"chwyt" : "D  A"
+	},
+	{
+		"id" : 5914,
+		"chwyt" : "e7  h"
+	},
+	{
+		"id" : 5915,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 5916,
+		"chwyt" : "e7  h"
+	},
+	{
+		"id" : 5917,
+		"chwyt" : "D  A"
+	},
+	{
+		"id" : 5918,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 5919,
+		"chwyt" : "G  G D"
+	},
+	{
+		"id" : 5929,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 5930,
+		"chwyt" : "e7"
+	},
+	{
+		"id" : 5931,
+		"chwyt" : "h7"
+	},
+	{
+		"id" : 5932,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 5933,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 5934,
+		"chwyt" : "e7"
+	},
+	{
+		"id" : 5935,
+		"chwyt" : "h7"
+	},
+	{
+		"id" : 5936,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 5941,
+		"chwyt" : "fis A"
+	},
+	{
+		"id" : 5942,
+		"chwyt" : "E fis"
+	},
+	{
+		"id" : 5951,
+		"chwyt" : "F F C G"
+	},
+	{
+		"id" : 5956,
+		"chwyt" : "F  F"
+	},
+	{
+		"id" : 5957,
+		"chwyt" : "G  G"
+	},
+	{
+		"id" : 5959,
+		"chwyt" : "C  C"
+	},
+	{
+		"id" : 5960,
+		"chwyt" : "C  C"
+	},
+	{
+		"id" : 5961,
+		"chwyt" : "C F C F"
+	},
+	{
+		"id" : 5962,
+		"chwyt" : "1. C F C F   2. C F C C"
+	},
+	{
+		"id" : 5964,
+		"chwyt" : "F C G G"
+	},
+	{
+		"id" : 5967,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 5968,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 5969,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 5970,
+		"chwyt" : "G  A"
+	},
+	{
+		"id" : 5972,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 5973,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 5974,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 5975,
+		"chwyt" : "G  A"
+	},
+	{
+		"id" : 5980,
+		"chwyt" : "G  G h"
+	},
+	{
+		"id" : 5981,
+		"chwyt" : "A  A D"
+	},
+	{
+		"id" : 5982,
+		"chwyt" : "G  G h"
+	},
+	{
+		"id" : 5986,
+		"chwyt" : "E"
+	},
+	{
+		"id" : 5987,
+		"chwyt" : "cis"
+	},
+	{
+		"id" : 5988,
+		"chwyt" : "H"
+	},
+	{
+		"id" : 5989,
+		"chwyt" : "A"
+	},
+	{
+		"id" : 5996,
+		"chwyt" : "cis  E"
+	},
+	{
+		"id" : 5997,
+		"chwyt" : "H  A"
+	},
+	{
+		"id" : 5998,
+		"chwyt" : "cis  E"
+	},
+	{
+		"id" : 5999,
+		"chwyt" : "H  A"
+	},
+	{
+		"id" : 6011,
+		"chwyt" : "cis  E"
+	},
+	{
+		"id" : 6012,
+		"chwyt" : "H  A"
+	},
+	{
+		"id" : 6013,
+		"chwyt" : "cis  E"
+	},
+	{
+		"id" : 6014,
+		"chwyt" : "H  A"
+	},
+	{
+		"id" : 6017,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 6018,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 6020,
+		"chwyt" : "h A"
+	},
+	{
+		"id" : 6021,
+		"chwyt" : "e G"
+	},
+	{
+		"id" : 6022,
+		"chwyt" : "h A"
+	},
+	{
+		"id" : 6023,
+		"chwyt" : "e G"
+	},
+	{
+		"id" : 6030,
+		"chwyt" : "h A"
+	},
+	{
+		"id" : 6031,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 6033,
+		"chwyt" : "D h"
+	},
+	{
+		"id" : 6034,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 6037,
+		"chwyt" : "C  d"
+	},
+	{
+		"id" : 6038,
+		"chwyt" : "C  F"
+	},
+	{
+		"id" : 6039,
+		"chwyt" : "d  C"
+	},
+	{
+		"id" : 6040,
+		"chwyt" : "a  F C"
+	},
+	{
+		"id" : 6055,
+		"chwyt" : "F G C C"
+	},
+	{
+		"id" : 6056,
+		"chwyt" : "DGG CC F"
+	},
+	{
+		"id" : 6057,
+		"chwyt" : "d eG a a"
+	},
+	{
+		"id" : 6064,
+		"chwyt" : "F G a C"
+	},
+	{
+		"id" : 6065,
+		"chwyt" : "F G D D"
+	},
+	{
+		"id" : 6066,
+		"chwyt" : "F G a C"
+	},
+	{
+		"id" : 6067,
+		"chwyt" : "F G a a"
+	},
+	{
+		"id" : 6070,
+		"chwyt" : "h fis"
+	},
+	{
+		"id" : 6071,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 6072,
+		"chwyt" : "h fis               G G"
+	},
+	{
+		"id" : 6073,
+		"chwyt" : "h fis"
+	},
+	{
+		"id" : 6074,
+		"chwyt" : "e G"
+	},
+	{
+		"id" : 6075,
+		"chwyt" : "e fis"
+	},
+	{
+		"id" : 6076,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 6078,
+		"chwyt" : "D fis"
+	},
+	{
+		"id" : 6079,
+		"chwyt" : "h GA"
+	},
+	{
+		"id" : 6080,
+		"chwyt" : "D fis"
+	},
+	{
+		"id" : 6081,
+		"chwyt" : "G A"
+	},
+	{
+		"id" : 6083,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 6084,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 6085,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 6086,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 6090,
+		"chwyt" : "E  A E"
+	},
+	{
+		"id" : 6091,
+		"chwyt" : "cis A E"
+	},
+	{
+		"id" : 6092,
+		"chwyt" : "E  A E"
+	},
+	{
+		"id" : 6093,
+		"chwyt" : "cis A E"
+	},
+	{
+		"id" : 6095,
+		"chwyt" : "E  A E"
+	},
+	{
+		"id" : 6096,
+		"chwyt" : "cis A E"
+	},
+	{
+		"id" : 6097,
+		"chwyt" : "E  A E"
+	},
+	{
+		"id" : 6098,
+		"chwyt" : "cis A E"
+	},
+	{
+		"id" : 6105,
+		"chwyt" : "E  cis"
+	},
+	{
+		"id" : 6106,
+		"chwyt" : "gis  A"
+	},
+	{
+		"id" : 6109,
+		"chwyt" : "cis  E"
+	},
+	{
+		"id" : 6110,
+		"chwyt" : "gis  A"
+	},
+	{
+		"id" : 6118,
+		"chwyt" : "A  H"
+	},
+	{
+		"id" : 6119,
+		"chwyt" : "cis7 DE"
+	},
+	{
+		"id" : 6120,
+		"chwyt" : "A  H"
+	},
+	{
+		"id" : 6121,
+		"chwyt" : "H  H"
+	},
+	{
+		"id" : 6124,
+		"chwyt" : "cis  H"
+	},
+	{
+		"id" : 6125,
+		"chwyt" : "gis  A"
+	},
+	{
+		"id" : 6126,
+		"chwyt" : "cis  H"
+	},
+	{
+		"id" : 6127,
+		"chwyt" : "gis  A"
+	},
+	{
+		"id" : 6140,
+		"chwyt" : "G A D h"
+	},
+	{
+		"id" : 6141,
+		"chwyt" : "G A D A"
+	},
+	{
+		"id" : 6142,
+		"chwyt" : "G A fis h"
+	},
+	{
+		"id" : 6143,
+		"chwyt" : "G A D AD"
+	},
+	{
+		"id" : 6145,
+		"chwyt" : "G A D h"
+	},
+	{
+		"id" : 6146,
+		"chwyt" : "G A D A"
+	},
+	{
+		"id" : 6147,
+		"chwyt" : "G A D h"
+	},
+	{
+		"id" : 6148,
+		"chwyt" : "G A D D"
+	},
+	{
+		"id" : 6153,
+		"chwyt" : "G  a"
+	},
+	{
+		"id" : 6154,
+		"chwyt" : "e   e"
+	},
+	{
+		"id" : 6155,
+		"chwyt" : "a  D"
+	},
+	{
+		"id" : 6156,
+		"chwyt" : "a  e"
+	},
+	{
+		"id" : 6157,
+		"chwyt" : "a  D"
+	},
+	{
+		"id" : 6158,
+		"chwyt" : "h  e"
+	},
+	{
+		"id" : 6174,
+		"chwyt" : "C  G"
+	},
+	{
+		"id" : 6175,
+		"chwyt" : "a   e"
+	},
+	{
+		"id" : 6176,
+		"chwyt" : "G  a"
+	},
+	{
+		"id" : 6177,
+		"chwyt" : "e   e"
+	},
+	{
+		"id" : 6178,
+		"chwyt" : "a  D"
+	},
+	{
+		"id" : 6179,
+		"chwyt" : "a  e"
+	},
+	{
+		"id" : 6180,
+		"chwyt" : "a  D"
+	},
+	{
+		"id" : 6181,
+		"chwyt" : "h  e"
+	},
+	{
+		"id" : 6193,
+		"chwyt" : "C  G"
+	},
+	{
+		"id" : 6194,
+		"chwyt" : "a   e"
+	},
+	{
+		"id" : 6196,
+		"chwyt" : "G  a"
+	},
+	{
+		"id" : 6197,
+		"chwyt" : "e   e"
+	},
+	{
+		"id" : 6198,
+		"chwyt" : "a  D"
+	},
+	{
+		"id" : 6199,
+		"chwyt" : "a  e"
+	},
+	{
+		"id" : 6200,
+		"chwyt" : "a  D"
+	},
+	{
+		"id" : 6201,
+		"chwyt" : "h  e"
+	},
+	{
+		"id" : 6213,
+		"chwyt" : "C  G"
+	},
+	{
+		"id" : 6214,
+		"chwyt" : "a   e"
+	},
+	{
+		"id" : 6217,
+		"chwyt" : "E  E"
+	},
+	{
+		"id" : 6218,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 6219,
+		"chwyt" : "cis  cis"
+	},
+	{
+		"id" : 6220,
+		"chwyt" : "H  H"
+	},
+	{
+		"id" : 6222,
+		"chwyt" : "E  E"
+	},
+	{
+		"id" : 6223,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 6224,
+		"chwyt" : "cis  cis"
+	},
+	{
+		"id" : 6225,
+		"chwyt" : "H  H"
+	},
+	{
+		"id" : 6227,
+		"chwyt" : "E  fis"
+	},
+	{
+		"id" : 6228,
+		"chwyt" : "A  H"
+	},
+	{
+		"id" : 6229,
+		"chwyt" : "E  fis"
+	},
+	{
+		"id" : 6230,
+		"chwyt" : "A  H"
+	},
+	{
+		"id" : 6232,
+		"chwyt" : "A  A"
+	},
+	{
+		"id" : 6233,
+		"chwyt" : "H  H"
+	},
+	{
+		"id" : 6234,
+		"chwyt" : "cis  cis"
+	},
+	{
+		"id" : 6235,
+		"chwyt" : "H  H"
+	},
+	{
+		"id" : 6239,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 6240,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 6241,
+		"chwyt" : "d"
+	},
+	{
+		"id" : 6242,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 6266,
+		"chwyt" : "fis A D D"
+	},
+	{
+		"id" : 6268,
+		"chwyt" : "A h   E A"
+	},
+	{
+		"id" : 6269,
+		"chwyt" : "A h E fisE"
+	},
+	{
+		"id" : 6270,
+		"chwyt" : "A h E A"
+	},
+	{
+		"id" : 6271,
+		"chwyt" : "A h E"
+	},
+	{
+		"id" : 6272,
+		"chwyt" : "fis fisEA A"
+	},
+	{
+		"id" : 6274,
+		"chwyt" : "D  E"
+	},
+	{
+		"id" : 6275,
+		"chwyt" : "D  E"
+	},
+	{
+		"id" : 6276,
+		"chwyt" : "cis7   E"
+	},
+	{
+		"id" : 6277,
+		"chwyt" : "fis A D D"
+	},
+	{
+		"id" : 6279,
+		"chwyt" : "A h   E A"
+	},
+	{
+		"id" : 6280,
+		"chwyt" : "A h E fisE"
+	},
+	{
+		"id" : 6282,
+		"chwyt" : "D  E"
+	},
+	{
+		"id" : 6283,
+		"chwyt" : "cis7 fis E"
+	},
+	{
+		"id" : 6284,
+		"chwyt" : "D  E"
+	},
+	{
+		"id" : 6285,
+		"chwyt" : "cis7 E"
+	},
+	{
+		"id" : 6286,
+		"chwyt" : "D A D D"
+	},
+	{
+		"id" : 6287,
+		"chwyt" : "fis A D D"
+	},
+	{
+		"id" : 6292,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 6293,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 6294,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 6295,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 6301,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 6302,
+		"chwyt" : "h A"
+	},
+	{
+		"id" : 6303,
+		"chwyt" : "G D"
+	},
+	{
+		"id" : 6304,
+		"chwyt" : "h A"
+	},
+	{
+		"id" : 6305,
+		"chwyt" : "A D D"
+	},
+	{
+		"id" : 6311,
+		"chwyt" : "D D"
+	},
+	{
+		"id" : 6312,
+		"chwyt" : "A A"
+	},
+	{
+		"id" : 6313,
+		"chwyt" : "h h"
+	},
+	{
+		"id" : 6314,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 6324,
+		"chwyt" : "G G"
+	},
+	{
+		"id" : 6332,
+		"chwyt" : "C  a"
+	},
+	{
+		"id" : 6333,
+		"chwyt" : "F  G"
+	},
+	{
+		"id" : 6334,
+		"chwyt" : "C  a"
+	},
+	{
+		"id" : 6335,
+		"chwyt" : "F  G"
+	},
+	{
+		"id" : 6337,
+		"chwyt" : "C F G a"
+	},
+	{
+		"id" : 6338,
+		"chwyt" : "C F  G G"
+	},
+	{
+		"id" : 6339,
+		"chwyt" : "C F G a"
+	},
+	{
+		"id" : 6340,
+		"chwyt" : "F   G"
+	},
+	{
+		"id" : 6342,
+		"chwyt" : "C F G a"
+	},
+	{
+		"id" : 6343,
+		"chwyt" : "C F  G G"
+	},
+	{
+		"id" : 6344,
+		"chwyt" : "C F G a"
+	},
+	{
+		"id" : 6345,
+		"chwyt" : "F  G"
+	},
+	{
+		"id" : 6346,
+		"chwyt" : "F  G"
+	},
+	{
+		"id" : 6359,
+		"chwyt" : "d  a"
+	},
+	{
+		"id" : 6360,
+		"chwyt" : "F  G"
+	},
+	{
+		"id" : 6364,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 6365,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 6366,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 6367,
+		"chwyt" : "d   F"
+	},
+	{
+		"id" : 6369,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 6370,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 6371,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 6372,
+		"chwyt" : "d F"
+	},
+	{
+		"id" : 6374,
+		"chwyt" : "C"
+	},
+	{
+		"id" : 6375,
+		"chwyt" : "F"
+	},
+	{
+		"id" : 6376,
+		"chwyt" : "a"
+	},
+	{
+		"id" : 6377,
+		"chwyt" : "d F"
+	},
+	{
+		"id" : 6379,
+		"chwyt" : "d e"
+	},
+	{
+		"id" : 6380,
+		"chwyt" : "F G"
+	},
+	{
+		"id" : 6383,
+		"chwyt" : "h  A"
+	},
+	{
+		"id" : 6384,
+		"chwyt" : "G  A"
+	},
+	{
+		"id" : 6385,
+		"chwyt" : "h  A"
+	},
+	{
+		"id" : 6386,
+		"chwyt" : "G  A"
+	},
+	{
+		"id" : 6388,
+		"chwyt" : "G  A"
+	},
+	{
+		"id" : 6389,
+		"chwyt" : "h  A"
+	},
+	{
+		"id" : 6390,
+		"chwyt" : "G  A"
+	},
+	{
+		"id" : 6391,
+		"chwyt" : "h  A"
+	},
+	{
+		"id" : 6393,
+		"chwyt" : "G D A h"
+	},
+	{
+		"id" : 6398,
+		"chwyt" : "e D A A"
+	},
+	{
+		"id" : 6399,
+		"chwyt" : "e D A A"
+	},
+	{
+		"id" : 6403,
+		"chwyt" : "D A h h"
+	},
+	{
+		"id" : 6404,
+		"chwyt" : "h A D D"
+	},
+	{
+		"id" : 6413,
+		"chwyt" : "e  h"
+	},
+	{
+		"id" : 6414,
+		"chwyt" : "D  A"
+	},
+	{
+		"id" : 6415,
+		"chwyt" : "e  h"
+	},
+	{
+		"id" : 6416,
+		"chwyt" : "D  A"
+	},
+	{
+		"id" : 6418,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 6419,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 6420,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 6421,
+		"chwyt" : "h"
+	},
+	{
+		"id" : 6422,
+		"chwyt" : "G"
+	},
+	{
+		"id" : 6423,
+		"chwyt" : "D"
+	},
+	{
+		"id" : 6424,
+		"chwyt" : "e"
+	},
+	{
+		"id" : 6425,
+		"chwyt" : "Fis7"
+	},
+	{
+		"id" : 6427,
+		"chwyt" : "D A h h"
+	},
+	{
+		"id" : 6428,
+		"chwyt" : "h A D D"
+	},
+	{
+		"id" : 6433,
+		"chwyt" : "A E fis D"
+	},
+	{
+		"id" : 6438,
+		"chwyt" : "E fis D E"
+	},
+	{
+		"id" : 6442,
+		"chwyt" : "E fis D E"
+	},
+	{
+		"id" : 10001,
+		"chwyt" : "G  G"
+	},
+	{
+		"id" : 10002,
+		"chwyt" : "C  G"
+	},
+	{
+		"id" : 10003,
+		"chwyt" : "e  C"
+	},
+	{
+		"id" : 10004,
+		"chwyt" : "D  D"
+	},
+	{
+		"id" : 10005,
+		"chwyt" : "G  G"
+	},
+	{
+		"id" : 10006,
+		"chwyt" : "C  G"
+	},
+	{
+		"id" : 10007,
+		"chwyt" : "E  C"
+	},
+	{
+		"id" : 10008,
+		"chwyt" : "D  D"
+	},
+	{
+		"id" : 10010,
+		"chwyt" : "G  G"
+	},
+	{
+		"id" : 10011,
+		"chwyt" : "e  e"
+	},
+	{
+		"id" : 10012,
+		"chwyt" : "C  a"
+	},
+	{
+		"id" : 10013,
+		"chwyt" : "D  D"
+	},
+	{
+		"id" : 10014,
+		"chwyt" : "G  G"
+	},
+	{
+		"id" : 10015,
+		"chwyt" : "e  e,"
+	},
+	{
+		"id" : 10016,
+		"chwyt" : "a  C"
+	},
+	{
+		"id" : 10017,
+		"chwyt" : "D  D"
+	},
+	{
+		"id" : 10027,
+		"chwyt" : "e e"
+	},
+	{
+		"id" : 10028,
+		"chwyt" : "C D"
+	}
+]}

@@ -1,0 +1,1913 @@
+{
+"spis": [
+	{
+		"numer" : 1,
+		"tytul" : "Abba, Ojcze, należę do Ciebie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 2,
+		"tytul" : "Alleluja, alleluja, alleluja, alleluja.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 3,
+		"tytul" : "Alleluja, alleluja",
+		"doDucha" : false
+	},
+	{
+		"numer" : 4,
+		"tytul" : "Allelu, o alle, allelu, allelu, alleluja!",
+		"doDucha" : true
+	},
+	{
+		"numer" : 5,
+		"tytul" : "Aż sponad mórz i szczytów gór",
+		"doDucha" : false
+	},
+	{
+		"numer" : 6,
+		"tytul" : "Będę chwalił Pana na wieki",
+		"doDucha" : false
+	},
+	{
+		"numer" : 7,
+		"tytul" : "Będę śpiewał Tobie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 8,
+		"tytul" : "Będziemy tańczyć, będziemy śpiewać",
+		"doDucha" : false
+	},
+	{
+		"numer" : 9,
+		"tytul" : "Błogosław, duszo moja, Pana,",
+		"doDucha" : false
+	},
+	{
+		"numer" : 10,
+		"tytul" : "Błogosławię Cię",
+		"doDucha" : false
+	},
+	{
+		"numer" : 11,
+		"tytul" : "Błogosławione jest Imię Twe",
+		"doDucha" : false
+	},
+	{
+		"numer" : 12,
+		"tytul" : "Bo góry mogą ustąpić",
+		"doDucha" : false
+	},
+	{
+		"numer" : 13,
+		"tytul" : "Bogu Jedynemu, Królowi nad królami",
+		"doDucha" : false
+	},
+	{
+		"numer" : 14,
+		"tytul" : "Boże miłości",
+		"doDucha" : false
+	},
+	{
+		"numer" : 15,
+		"tytul" : "Boże, Twa łaska nad nami jest",
+		"doDucha" : false
+	},
+	{
+		"numer" : 16,
+		"tytul" : "Bóg dobry jest, Bóg dobry jest",
+		"doDucha" : false
+	},
+	{
+		"numer" : 17,
+		"tytul" : "Bóg dobry jest, Jego łaska trwać będzie na wieki",
+		"doDucha" : false
+	},
+	{
+		"numer" : 18,
+		"tytul" : "Bóg jest naszą ucieczką i mocą",
+		"doDucha" : false
+	},
+	{
+		"numer" : 19,
+		"tytul" : "Bóg kocha mnie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 20,
+		"tytul" : "Bóg, mój Pan, On daje mi moc",
+		"doDucha" : false
+	},
+	{
+		"numer" : 21,
+		"tytul" : "Bóg nie umarł – Jezus żyje!",
+		"doDucha" : false
+	},
+	{
+		"numer" : 22,
+		"tytul" : "Bóg tak umiłował świat",
+		"doDucha" : false
+	},
+	{
+		"numer" : 23,
+		"tytul" : "Cały świat niech pozna Cię",
+		"doDucha" : false
+	},
+	{
+		"numer" : 24,
+		"tytul" : "Chcemy razem głosić Ciebie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 25,
+		"tytul" : "Chcę głośno wołać, że",
+		"doDucha" : false
+	},
+	{
+		"numer" : 26,
+		"tytul" : "Chcę przestąpić Jego próg",
+		"doDucha" : false
+	},
+	{
+		"numer" : 27,
+		"tytul" : "Chcę wywyższać Imię Twe",
+		"doDucha" : false
+	},
+	{
+		"numer" : 28,
+		"tytul" : "Chcę, żebyś wiedział, jak bardzo dziękuję Ci",
+		"doDucha" : false
+	},
+	{
+		"numer" : 29,
+		"tytul" : "Choćby u boku mego padły tysiące",
+		"doDucha" : false
+	},
+	{
+		"numer" : 30,
+		"tytul" : "Chodźcie, uwielbiajmy razem Pana",
+		"doDucha" : false
+	},
+	{
+		"numer" : 31,
+		"tytul" : "Chwal, duszo moja, Pana",
+		"doDucha" : false
+	},
+	{
+		"numer" : 32,
+		"tytul" : "Chwalcie Pana niebios",
+		"doDucha" : false
+	},
+	{
+		"numer" : 33,
+		"tytul" : "Chwalcie Pana, wszystkie narody",
+		"doDucha" : false
+	},
+	{
+		"numer" : 34,
+		"tytul" : "Chwalę Ciebie, Panie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 35,
+		"tytul" : "Chwała Panu i cześć",
+		"doDucha" : false
+	},
+	{
+		"numer" : 36,
+		"tytul" : "Chwała, uwielbienie, siła i moc",
+		"doDucha" : false
+	},
+	{
+		"numer" : 37,
+		"tytul" : "Ci, co zaufali Panu",
+		"doDucha" : false
+	},
+	{
+		"numer" : 38,
+		"tytul" : "Ci, którzy Jahwe ufają",
+		"doDucha" : false
+	},
+	{
+		"numer" : 39,
+		"tytul" : "Ciebie pragnie dusza moja",
+		"doDucha" : true
+	},
+	{
+		"numer" : 40,
+		"tytul" : "Ciebie wielbić życiem swym chcę",
+		"doDucha" : false
+	},
+	{
+		"numer" : 41,
+		"tytul" : "Cieszę się – Jezus zbawił mnie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 42,
+		"tytul" : "Czcijmy Jezusa, czcijmy Go!",
+		"doDucha" : false
+	},
+	{
+		"numer" : 43,
+		"tytul" : "Dla Ciebie tańczyć chcę",
+		"doDucha" : false
+	},
+	{
+		"numer" : 44,
+		"tytul" : "Do Ciebie, Panie, woła dusza moja",
+		"doDucha" : false
+	},
+	{
+		"numer" : 45,
+		"tytul" : "Dobry Bóg",
+		"doDucha" : false
+	},
+	{
+		"numer" : 46,
+		"tytul" : "Dobry jest Pan i godzien wszelkiej chwały",
+		"doDucha" : false
+	},
+	{
+		"numer" : 47,
+		"tytul" : "Dotknął mnie dziś Pan i radość ogromną",
+		"doDucha" : false
+	},
+	{
+		"numer" : 48,
+		"tytul" : "Dotknij, Panie, moich oczu",
+		"doDucha" : true
+	},
+	{
+		"numer" : 49,
+		"tytul" : "Duchu Boży, we mnie tchnij",
+		"doDucha" : true
+	},
+	{
+		"numer" : 50,
+		"tytul" : "Duchu Pański, na mnie zstąp",
+		"doDucha" : true
+	},
+	{
+		"numer" : 51,
+		"tytul" : "Duchu prawdy przyjdź, prowadź nas do Ojca",
+		"doDucha" : true
+	},
+	{
+		"numer" : 52,
+		"tytul" : "Duchu Święty, przyjdź, Duchu Święty, do nas przyjdź.",
+		"doDucha" : true
+	},
+	{
+		"numer" : 53,
+		"tytul" : "Duchu Święty, przyjdź",
+		"doDucha" : true
+	},
+	{
+		"numer" : 54,
+		"tytul" : "Duchu Święty, Duchu Święty",
+		"doDucha" : true
+	},
+	{
+		"numer" : 55,
+		"tytul" : "Duchu Święty, Boże, przyjdź",
+		"doDucha" : true
+	},
+	{
+		"numer" : 56,
+		"tytul" : "Duchu Święty! Duchy Święty!",
+		"doDucha" : true
+	},
+	{
+		"numer" : 57,
+		"tytul" : "Duchu Święty, przyjdź",
+		"doDucha" : true
+	},
+	{
+		"numer" : 58,
+		"tytul" : "Duchu Święty, przyjdź",
+		"doDucha" : true
+	},
+	{
+		"numer" : 59,
+		"tytul" : "Duchu Święty Stworzycielu",
+		"doDucha" : true
+	},
+	{
+		"numer" : 60,
+		"tytul" : "Duchu Święty, Tchnienie Ojca, Dawco życia",
+		"doDucha" : true
+	},
+	{
+		"numer" : 61,
+		"tytul" : "Duchu Święty, Tchnienie Życia",
+		"doDucha" : true
+	},
+	{
+		"numer" : 62,
+		"tytul" : "Duchu Święty, wołam, przyjdź",
+		"doDucha" : true
+	},
+	{
+		"numer" : 63,
+		"tytul" : "Duchu, przyjdź",
+		"doDucha" : true
+	},
+	{
+		"numer" : 64,
+		"tytul" : "Duszo ma, Pana chwal",
+		"doDucha" : false
+	},
+	{
+		"numer" : 65,
+		"tytul" : "Dzięki Ci, o Panie nasz!",
+		"doDucha" : false
+	},
+	{
+		"numer" : 66,
+		"tytul" : "Dzięki za Twój krzyż",
+		"doDucha" : false
+	},
+	{
+		"numer" : 67,
+		"tytul" : "Dzięki, Jezu, dzięki, Jezu",
+		"doDucha" : false
+	},
+	{
+		"numer" : 68,
+		"tytul" : "Dziś jest czas, by oddać Bogu chwałę",
+		"doDucha" : false
+	},
+	{
+		"numer" : 69,
+		"tytul" : "Festa",
+		"doDucha" : false
+	},
+	{
+		"numer" : 70,
+		"tytul" : "Gdy śpiewamy Ci pieśń",
+		"doDucha" : true
+	},
+	{
+		"numer" : 71,
+		"tytul" : "Gdy oblicza Twego szukam",
+		"doDucha" : false
+	},
+	{
+		"numer" : 72,
+		"tytul" : "Gdzie Duch Pana jest obecny, tam jest wolność.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 73,
+		"tytul" : "Godzien, o godzien jest Bóg",
+		"doDucha" : false
+	},
+	{
+		"numer" : 74,
+		"tytul" : "Godzien, o godzien jest nasz Pan",
+		"doDucha" : false
+	},
+	{
+		"numer" : 75,
+		"tytul" : "Gotowe jest serce moje",
+		"doDucha" : false
+	},
+	{
+		"numer" : 76,
+		"tytul" : "Hej, Jezu, Królem Tyś",
+		"doDucha" : false
+	},
+	{
+		"numer" : 77,
+		"tytul" : "Hosanna, hosanna",
+		"doDucha" : false
+	},
+	{
+		"numer" : 78,
+		"tytul" : "Ja kocham Cię",
+		"doDucha" : false
+	},
+	{
+		"numer" : 79,
+		"tytul" : "Ja wiem, On ocalił mnie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 80,
+		"tytul" : "Ja wierzę, że to Jezus",
+		"doDucha" : false
+	},
+	{
+		"numer" : 81,
+		"tytul" : "Ja, Pan, jestem świadom",
+		"doDucha" : false
+	},
+	{
+		"numer" : 82,
+		"tytul" : "Jak Dawid, kiedy przed Bogiem był",
+		"doDucha" : false
+	},
+	{
+		"numer" : 83,
+		"tytul" : "Jak dobrze jest dziękować Ci, Panie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 84,
+		"tytul" : "Jak łania pragnie wody ze strumieni",
+		"doDucha" : false
+	},
+	{
+		"numer" : 85,
+		"tytul" : "Jak łania pragnie wody ze strumieni",
+		"doDucha" : false
+	},
+	{
+		"numer" : 86,
+		"tytul" : "Jak ożywczy deszcz",
+		"doDucha" : true
+	},
+	{
+		"numer" : 87,
+		"tytul" : "Jak przedziwna, Panie, Twoja miłość jest",
+		"doDucha" : false
+	},
+	{
+		"numer" : 88,
+		"tytul" : "Jak Ziemia pragnie deszczu, gdy sucha jest",
+		"doDucha" : false
+	},
+	{
+		"numer" : 89,
+		"tytul" : "Jeden jest Pan, jedna wiara",
+		"doDucha" : false
+	},
+	{
+		"numer" : 90,
+		"tytul" : "Jedyną Osobą, którą wielbić chcę",
+		"doDucha" : false
+	},
+	{
+		"numer" : 91,
+		"tytul" : "Jedyny Pan, prawdziwy Bóg",
+		"doDucha" : false
+	},
+	{
+		"numer" : 92,
+		"tytul" : "Jest jedno Ciało",
+		"doDucha" : false
+	},
+	{
+		"numer" : 93,
+		"tytul" : "Jestem tego pewien",
+		"doDucha" : false
+	},
+	{
+		"numer" : 94,
+		"tytul" : "Jesteś blisko mnie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 95,
+		"tytul" : "Jesteś Królem",
+		"doDucha" : false
+	},
+	{
+		"numer" : 96,
+		"tytul" : "Jesteś Panem wszechświata",
+		"doDucha" : false
+	},
+	{
+		"numer" : 97,
+		"tytul" : "Jesteś radością mojego życia",
+		"doDucha" : false
+	},
+	{
+		"numer" : 98,
+		"tytul" : "Jesteś Święty, jesteś Panem",
+		"doDucha" : false
+	},
+	{
+		"numer" : 99,
+		"tytul" : "Jesteś tu, gdy wielbimy Cię",
+		"doDucha" : false
+	},
+	{
+		"numer" : 100,
+		"tytul" : "Jesteś życiem mym, więc każdy ruch robię w Tobie, Jezu",
+		"doDucha" : false
+	},
+	{
+		"numer" : 101,
+		"tytul" : "Jesteśmy jednym",
+		"doDucha" : false
+	},
+	{
+		"numer" : 102,
+		"tytul" : "Jesteśmy Twymi dziećmi",
+		"doDucha" : false
+	},
+	{
+		"numer" : 103,
+		"tytul" : "Jezu, jesteś godzien chwały!",
+		"doDucha" : false
+	},
+	{
+		"numer" : 104,
+		"tytul" : "Jezu,",
+		"doDucha" : false
+	},
+	{
+		"numer" : 105,
+		"tytul" : "Jezu, Tyś jest",
+		"doDucha" : false
+	},
+	{
+		"numer" : 106,
+		"tytul" : "Jezu, Tyś wszystkim dla mnie jest",
+		"doDucha" : false
+	},
+	{
+		"numer" : 107,
+		"tytul" : "Jezus Chrystus jest Panem",
+		"doDucha" : false
+	},
+	{
+		"numer" : 108,
+		"tytul" : "Jezus Chrystus moim Panem jest",
+		"doDucha" : false
+	},
+	{
+		"numer" : 109,
+		"tytul" : "Jezus Chrystus to panów Pan",
+		"doDucha" : false
+	},
+	{
+		"numer" : 110,
+		"tytul" : "Jezus daje nam zbawienie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 111,
+		"tytul" : "Jezus drogą",
+		"doDucha" : false
+	},
+	{
+		"numer" : 112,
+		"tytul" : "Jezus drogą, prawdą, życiem moim",
+		"doDucha" : false
+	},
+	{
+		"numer" : 113,
+		"tytul" : "Jezus jest Panem, o tak, o tak!",
+		"doDucha" : false
+	},
+	{
+		"numer" : 114,
+		"tytul" : "Jezus jest z nami tu",
+		"doDucha" : false
+	},
+	{
+		"numer" : 115,
+		"tytul" : "Jezus Król, łaskawy Pan",
+		"doDucha" : false
+	},
+	{
+		"numer" : 116,
+		"tytul" : "Jezus Królem naszym jest",
+		"doDucha" : false
+	},
+	{
+		"numer" : 117,
+		"tytul" : "Jezus moim Królem, moim Panem jest",
+		"doDucha" : false
+	},
+	{
+		"numer" : 118,
+		"tytul" : "Jezus prawdziwym Bogiem jest",
+		"doDucha" : false
+	},
+	{
+		"numer" : 119,
+		"tytul" : "Jezus przechodzi dzisiaj pośród nas",
+		"doDucha" : false
+	},
+	{
+		"numer" : 120,
+		"tytul" : "Jezus to Król, dziś Go wywyższamy",
+		"doDucha" : false
+	},
+	{
+		"numer" : 121,
+		"tytul" : "Jezus to mój Pan",
+		"doDucha" : false
+	},
+	{
+		"numer" : 122,
+		"tytul" : "Jezus zwyciężył",
+		"doDucha" : false
+	},
+	{
+		"numer" : 123,
+		"tytul" : "Jezus żyje",
+		"doDucha" : false
+	},
+	{
+		"numer" : 124,
+		"tytul" : "Jezus",
+		"doDucha" : false
+	},
+	{
+		"numer" : 125,
+		"tytul" : "Jezus, Jezus",
+		"doDucha" : false
+	},
+	{
+		"numer" : 126,
+		"tytul" : "Jezus",
+		"doDucha" : false
+	},
+	{
+		"numer" : 127,
+		"tytul" : "Już teraz we mnie kwitną Twe ogrody",
+		"doDucha" : false
+	},
+	{
+		"numer" : 128,
+		"tytul" : "Każdy dzień upewnia mnie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 129,
+		"tytul" : "Kocham, więc nie muszę się bać",
+		"doDucha" : false
+	},
+	{
+		"numer" : 130,
+		"tytul" : "Kol rina vishoua",
+		"doDucha" : false
+	},
+	{
+		"numer" : 131,
+		"tytul" : "Król królów, Pan panów",
+		"doDucha" : false
+	},
+	{
+		"numer" : 132,
+		"tytul" : "Kto zaufał Ci, ten uwierzył, że nie zawstydzi go nic",
+		"doDucha" : false
+	},
+	{
+		"numer" : 133,
+		"tytul" : "Któż jest jak On",
+		"doDucha" : false
+	},
+	{
+		"numer" : 134,
+		"tytul" : "Łaskawość Twoja, Panie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 135,
+		"tytul" : "Łaską jesteśmy zbawieni",
+		"doDucha" : false
+	},
+	{
+		"numer" : 136,
+		"tytul" : "Mam w życiu jeden cel",
+		"doDucha" : false
+	},
+	{
+		"numer" : 137,
+		"tytul" : "Memu Bogu, Królowi",
+		"doDucha" : false
+	},
+	{
+		"numer" : 138,
+		"tytul" : "Miłosierdzie pada i pada, i pada",
+		"doDucha" : false
+	},
+	{
+		"numer" : 139,
+		"tytul" : "Miłość Twa",
+		"doDucha" : false
+	},
+	{
+		"numer" : 140,
+		"tytul" : "Miłość Twa",
+		"doDucha" : false
+	},
+	{
+		"numer" : 141,
+		"tytul" : "Miłość, pokój",
+		"doDucha" : false
+	},
+	{
+		"numer" : 142,
+		"tytul" : "Moja droga jest prosta",
+		"doDucha" : false
+	},
+	{
+		"numer" : 143,
+		"tytul" : "Moją prawą ręką będę Cię uwielbiał",
+		"doDucha" : false
+	},
+	{
+		"numer" : 144,
+		"tytul" : "Mój Bóg jest źródłem",
+		"doDucha" : false
+	},
+	{
+		"numer" : 145,
+		"tytul" : "Mój Jezu, mój Zbawco",
+		"doDucha" : false
+	},
+	{
+		"numer" : 146,
+		"tytul" : "Mój Jezus Królem królów jest",
+		"doDucha" : false
+	},
+	{
+		"numer" : 147,
+		"tytul" : "Mój Odkupicielu, przebaczyłeś mi",
+		"doDucha" : false
+	},
+	{
+		"numer" : 148,
+		"tytul" : "Mój Pan dobry jest, Wybawcą moim jest",
+		"doDucha" : false
+	},
+	{
+		"numer" : 149,
+		"tytul" : "Mów do mnie, Panie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 150,
+		"tytul" : "My, którzy wszystko liczymy",
+		"doDucha" : false
+	},
+	{
+		"numer" : 151,
+		"tytul" : "Namaszczeni przyjaźnią",
+		"doDucha" : false
+	},
+	{
+		"numer" : 152,
+		"tytul" : "Nasz Bóg jest wielki, nasz Bóg jest silny",
+		"doDucha" : false
+	},
+	{
+		"numer" : 153,
+		"tytul" : "Nasz Pan to wspaniały, wielki Bóg",
+		"doDucha" : false
+	},
+	{
+		"numer" : 154,
+		"tytul" : "Nie dorówna Tobie nikt",
+		"doDucha" : false
+	},
+	{
+		"numer" : 155,
+		"tytul" : "Nie lękaj się",
+		"doDucha" : false
+	},
+	{
+		"numer" : 156,
+		"tytul" : "Nie ma innego, innego nie ma",
+		"doDucha" : false
+	},
+	{
+		"numer" : 157,
+		"tytul" : "Nie ma nikogo jak Jezus",
+		"doDucha" : false
+	},
+	{
+		"numer" : 158,
+		"tytul" : "Nie ma za trudnych spraw",
+		"doDucha" : false
+	},
+	{
+		"numer" : 159,
+		"tytul" : "Nie, nie nam, nie, nie dla nas chwała",
+		"doDucha" : false
+	},
+	{
+		"numer" : 160,
+		"tytul" : "Niech będzie chwała i cześć",
+		"doDucha" : false
+	},
+	{
+		"numer" : 161,
+		"tytul" : "Niech przyjmie chwałę i cześć",
+		"doDucha" : false
+	},
+	{
+		"numer" : 162,
+		"tytul" : "Niech strumienie żywej wody",
+		"doDucha" : true
+	},
+	{
+		"numer" : 163,
+		"tytul" : "Niech Twój Święty Duch",
+		"doDucha" : true
+	},
+	{
+		"numer" : 164,
+		"tytul" : "Niechaj zstąpi Duch Twój",
+		"doDucha" : true
+	},
+	{
+		"numer" : 165,
+		"tytul" : "Niepojęty, niezmierzony, gwiazdy stworzyłeś na niebie i każdą z nich znasz",
+		"doDucha" : false
+	},
+	{
+		"numer" : 166,
+		"tytul" : "Niewidomi widzą",
+		"doDucha" : false
+	},
+	{
+		"numer" : 167,
+		"tytul" : "Niewyczerpane są",
+		"doDucha" : false
+	},
+	{
+		"numer" : 168,
+		"tytul" : "O o o, niebo jest w sercu mym!",
+		"doDucha" : false
+	},
+	{
+		"numer" : 169,
+		"tytul" : "O wychwalajcie Go wszystkie narody",
+		"doDucha" : false
+	},
+	{
+		"numer" : 170,
+		"tytul" : "O, najpiękniejszy z synów ludzkich",
+		"doDucha" : false
+	},
+	{
+		"numer" : 171,
+		"tytul" : "Oczyść serce me",
+		"doDucha" : true
+	},
+	{
+		"numer" : 172,
+		"tytul" : "Oddaj chwałę Panu dziś",
+		"doDucha" : false
+	},
+	{
+		"numer" : 173,
+		"tytul" : "Oddajemy Ci chwałę, naszemu Bogu",
+		"doDucha" : false
+	},
+	{
+		"numer" : 174,
+		"tytul" : "Oddaję Ci moje serce",
+		"doDucha" : false
+	},
+	{
+		"numer" : 175,
+		"tytul" : "Oddałeś swe życie, bo umiłowałeś",
+		"doDucha" : false
+	},
+	{
+		"numer" : 176,
+		"tytul" : "Ofiaruję Tobie, Panie mój, całe życie me",
+		"doDucha" : false
+	},
+	{
+		"numer" : 177,
+		"tytul" : "Ogień Twój rozpala mnie!",
+		"doDucha" : true
+	},
+	{
+		"numer" : 178,
+		"tytul" : "Ogłaszam dziś Królestwo Twoje",
+		"doDucha" : false
+	},
+	{
+		"numer" : 179,
+		"tytul" : "Ogłaszamy Królestwo Boże w nas",
+		"doDucha" : false
+	},
+	{
+		"numer" : 180,
+		"tytul" : "Ojciec w miłości swej",
+		"doDucha" : false
+	},
+	{
+		"numer" : 181,
+		"tytul" : "On jest tu, Jezus, Król",
+		"doDucha" : false
+	},
+	{
+		"numer" : 182,
+		"tytul" : "On otwiera drzwi",
+		"doDucha" : false
+	},
+	{
+		"numer" : 183,
+		"tytul" : "On żyje, jest między nami",
+		"doDucha" : false
+	},
+	{
+		"numer" : 184,
+		"tytul" : "Oto jest dzień",
+		"doDucha" : false
+	},
+	{
+		"numer" : 185,
+		"tytul" : "Oto mój Sługa",
+		"doDucha" : false
+	},
+	{
+		"numer" : 186,
+		"tytul" : "Oto są czasy Eliasza",
+		"doDucha" : false
+	},
+	{
+		"numer" : 187,
+		"tytul" : "Oto stoję u drzwi i kołaczę",
+		"doDucha" : false
+	},
+	{
+		"numer" : 188,
+		"tytul" : "Otwórz me oczy",
+		"doDucha" : false
+	},
+	{
+		"numer" : 189,
+		"tytul" : "Otwórz me oczy, o Panie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 190,
+		"tytul" : "Pan jest mocą mą, pieśnią moją w każdy dzień",
+		"doDucha" : false
+	},
+	{
+		"numer" : 191,
+		"tytul" : "Pan jest pasterzem moim",
+		"doDucha" : false
+	},
+	{
+		"numer" : 192,
+		"tytul" : "Pan jest pasterzem moim",
+		"doDucha" : false
+	},
+	{
+		"numer" : 193,
+		"tytul" : "Pan jest pasterzem moim",
+		"doDucha" : false
+	},
+	{
+		"numer" : 194,
+		"tytul" : "Pan mnie strzeże",
+		"doDucha" : false
+	},
+	{
+		"numer" : 195,
+		"tytul" : "Pan moim światłem i zbawieniem moim",
+		"doDucha" : false
+	},
+	{
+		"numer" : 196,
+		"tytul" : "Pan wywyższony, nasz Król wywyższony",
+		"doDucha" : false
+	},
+	{
+		"numer" : 197,
+		"tytul" : "Pan zmartwychwstał!",
+		"doDucha" : false
+	},
+	{
+		"numer" : 198,
+		"tytul" : "Panie mój, ja pragnę",
+		"doDucha" : false
+	},
+	{
+		"numer" : 199,
+		"tytul" : "Panie mój, przychodzę dziś",
+		"doDucha" : false
+	},
+	{
+		"numer" : 200,
+		"tytul" : "Panie nasz, o Panie nasz, jak przedziwne Twe Imię.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 201,
+		"tytul" : "Panie nasz, potrzebujemy Cię",
+		"doDucha" : false
+	},
+	{
+		"numer" : 202,
+		"tytul" : "Panie, któż jak Ty",
+		"doDucha" : false
+	},
+	{
+		"numer" : 203,
+		"tytul" : "Panie, przyjdź do mego serca",
+		"doDucha" : true
+	},
+	{
+		"numer" : 204,
+		"tytul" : "Panie, Twój tron wznosi się",
+		"doDucha" : false
+	},
+	{
+		"numer" : 205,
+		"tytul" : "Panie, Ty jesteś radością mą",
+		"doDucha" : false
+	},
+	{
+		"numer" : 206,
+		"tytul" : "Panie, wielbię Cię",
+		"doDucha" : false
+	},
+	{
+		"numer" : 207,
+		"tytul" : "Panu chwała i cześć",
+		"doDucha" : false
+	},
+	{
+		"numer" : 208,
+		"tytul" : "Poruszaj się, Duchu Święty, w nas",
+		"doDucha" : true
+	},
+	{
+		"numer" : 209,
+		"tytul" : "Potężny Pan, Jego łaska na wieki trwa.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 210,
+		"tytul" : "Powiedz światu, że On żyje",
+		"doDucha" : false
+	},
+	{
+		"numer" : 211,
+		"tytul" : "Powietrzem moim jest",
+		"doDucha" : false
+	},
+	{
+		"numer" : 212,
+		"tytul" : "Pragnę radości",
+		"doDucha" : true
+	},
+	{
+		"numer" : 213,
+		"tytul" : "Pragniemy Tobie oddać cześć",
+		"doDucha" : false
+	},
+	{
+		"numer" : 214,
+		"tytul" : "Prawda jedyna",
+		"doDucha" : false
+	},
+	{
+		"numer" : 215,
+		"tytul" : "Przed tronem Twym stoimy",
+		"doDucha" : false
+	},
+	{
+		"numer" : 216,
+		"tytul" : "Przemieniłeś moją rozpacz w taniec",
+		"doDucha" : false
+	},
+	{
+		"numer" : 217,
+		"tytul" : "Przybliżam się do tronu łaski",
+		"doDucha" : false
+	},
+	{
+		"numer" : 218,
+		"tytul" : "Przychodzimy, by wielbić",
+		"doDucha" : false
+	},
+	{
+		"numer" : 219,
+		"tytul" : "Przychodzimy dziś do Ciebie, by doświadczyć mocy Twej",
+		"doDucha" : false
+	},
+	{
+		"numer" : 220,
+		"tytul" : "Przychodzisz jak blask słonecznego dnia",
+		"doDucha" : false
+	},
+	{
+		"numer" : 221,
+		"tytul" : "Przyjaciela mam",
+		"doDucha" : false
+	},
+	{
+		"numer" : 222,
+		"tytul" : "Przyjdź jak deszcz, ożyw dziś",
+		"doDucha" : true
+	},
+	{
+		"numer" : 223,
+		"tytul" : "Przyjdź, dotknij mnie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 224,
+		"tytul" : "Przyjdź, Duchu Święty, przyjdź!",
+		"doDucha" : true
+	},
+	{
+		"numer" : 225,
+		"tytul" : "Przyjdź, przyjdź, przyjdź",
+		"doDucha" : true
+	},
+	{
+		"numer" : 226,
+		"tytul" : "Przyjdźcie, śpiewajmy Panu!",
+		"doDucha" : false
+	},
+	{
+		"numer" : 227,
+		"tytul" : "Przyjmij chwałę",
+		"doDucha" : false
+	},
+	{
+		"numer" : 228,
+		"tytul" : "Przyodziej mnie w moc",
+		"doDucha" : true
+	},
+	{
+		"numer" : 229,
+		"tytul" : "Przyzywam Twej obecności",
+		"doDucha" : true
+	},
+	{
+		"numer" : 230,
+		"tytul" : "Radość tchnij w serce me, bym Cię chwalił.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 231,
+		"tytul" : "Rzuć ogień swój, ożyw go w nas",
+		"doDucha" : true
+	},
+	{
+		"numer" : 232,
+		"tytul" : "Schowaj mnie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 233,
+		"tytul" : "Słowo Twoje lampą dla moich stóp",
+		"doDucha" : false
+	},
+	{
+		"numer" : 234,
+		"tytul" : "Słuchaj Izraelu",
+		"doDucha" : false
+	},
+	{
+		"numer" : 235,
+		"tytul" : "Spocznij na nas, Duchu Pana",
+		"doDucha" : true
+	},
+	{
+		"numer" : 236,
+		"tytul" : "Spojrzałeś",
+		"doDucha" : false
+	},
+	{
+		"numer" : 237,
+		"tytul" : "Stańmy radośnie i mówmy każdemu",
+		"doDucha" : false
+	},
+	{
+		"numer" : 238,
+		"tytul" : "Swojego Ducha, Panie, wylej na nas dziś",
+		"doDucha" : true
+	},
+	{
+		"numer" : 239,
+		"tytul" : "Swój ogień niech zapali dzisiaj Pan.",
+		"doDucha" : true
+	},
+	{
+		"numer" : 240,
+		"tytul" : "Szema Izrael Adonaj Elohenu",
+		"doDucha" : false
+	},
+	{
+		"numer" : 241,
+		"tytul" : "Śpiewajmy razem Panu",
+		"doDucha" : false
+	},
+	{
+		"numer" : 242,
+		"tytul" : "Święte Imię Jezus",
+		"doDucha" : false
+	},
+	{
+		"numer" : 243,
+		"tytul" : "Święty jest nasz Bóg",
+		"doDucha" : false
+	},
+	{
+		"numer" : 244,
+		"tytul" : "Święty, święty",
+		"doDucha" : false
+	},
+	{
+		"numer" : 245,
+		"tytul" : "Święty, święty",
+		"doDucha" : false
+	},
+	{
+		"numer" : 246,
+		"tytul" : "Święty, święty, święty",
+		"doDucha" : false
+	},
+	{
+		"numer" : 247,
+		"tytul" : "Święty, święty, święty",
+		"doDucha" : false
+	},
+	{
+		"numer" : 248,
+		"tytul" : "Tak bardzo Cię kocham",
+		"doDucha" : false
+	},
+	{
+		"numer" : 249,
+		"tytul" : "Tak dobry jesteś, Panie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 250,
+		"tytul" : "Tak, pragniemy Ciebie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 251,
+		"tytul" : "Tańczyć chcę, skakać chcę",
+		"doDucha" : false
+	},
+	{
+		"numer" : 252,
+		"tytul" : "Tchnij moc, tchnij miłość",
+		"doDucha" : true
+	},
+	{
+		"numer" : 253,
+		"tytul" : "To Król – hosanna!",
+		"doDucha" : false
+	},
+	{
+		"numer" : 254,
+		"tytul" : "To nasz Bóg, to nasz Pan",
+		"doDucha" : false
+	},
+	{
+		"numer" : 255,
+		"tytul" : "To On, nasz Pan i Król",
+		"doDucha" : false
+	},
+	{
+		"numer" : 256,
+		"tytul" : "Tobie chór aniołów śpiewa nową pieśń",
+		"doDucha" : false
+	},
+	{
+		"numer" : 257,
+		"tytul" : "Twoja miłość, Panie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 258,
+		"tytul" : "Twoją wolność mam",
+		"doDucha" : false
+	},
+	{
+		"numer" : 259,
+		"tytul" : "Twoje słowo jest lampą dla moich stóp!",
+		"doDucha" : false
+	},
+	{
+		"numer" : 260,
+		"tytul" : "Ty jesteś mocą ludu swego,",
+		"doDucha" : false
+	},
+	{
+		"numer" : 261,
+		"tytul" : "Ty jesteś skałą zbawienia mego",
+		"doDucha" : false
+	},
+	{
+		"numer" : 262,
+		"tytul" : "Ty, Jezu, jesteś przyjacielem, który kocha",
+		"doDucha" : false
+	},
+	{
+		"numer" : 263,
+		"tytul" : "Ty nas wybrałeś",
+		"doDucha" : false
+	},
+	{
+		"numer" : 264,
+		"tytul" : "Ty znałeś moje pragnienia",
+		"doDucha" : false
+	},
+	{
+		"numer" : 265,
+		"tytul" : "Tylko Ciebie pragnę, Panie mój.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 266,
+		"tytul" : "Tylko On godzien jest",
+		"doDucha" : false
+	},
+	{
+		"numer" : 267,
+		"tytul" : "Tyś jak skała, Tyś jak wzgórze",
+		"doDucha" : false
+	},
+	{
+		"numer" : 268,
+		"tytul" : "Tyś jest moim życiem",
+		"doDucha" : false
+	},
+	{
+		"numer" : 269,
+		"tytul" : "Tyś mą miłością",
+		"doDucha" : false
+	},
+	{
+		"numer" : 270,
+		"tytul" : "Tyś naszą radością i naszym życiem",
+		"doDucha" : false
+	},
+	{
+		"numer" : 271,
+		"tytul" : "Uwielbiam Cię",
+		"doDucha" : false
+	},
+	{
+		"numer" : 272,
+		"tytul" : "Uwielbiam Imię Twe, uwielbiam Imię Twe",
+		"doDucha" : false
+	},
+	{
+		"numer" : 273,
+		"tytul" : "Uwielbiam Imię Twoje Panie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 274,
+		"tytul" : "Uwielbiamy Cię",
+		"doDucha" : false
+	},
+	{
+		"numer" : 275,
+		"tytul" : "W Chrystusie zawsze mam zwycięstwo",
+		"doDucha" : false
+	},
+	{
+		"numer" : 276,
+		"tytul" : "W Tobie wszystko mam",
+		"doDucha" : false
+	},
+	{
+		"numer" : 277,
+		"tytul" : "We wszystkim odnosimy pełne zwycięstwo!",
+		"doDucha" : false
+	},
+	{
+		"numer" : 278,
+		"tytul" : "Wejdźmy do Jego bram z dziękczynieniem",
+		"doDucha" : false
+	},
+	{
+		"numer" : 279,
+		"tytul" : "Wielbi dusza moja Pana",
+		"doDucha" : false
+	},
+	{
+		"numer" : 280,
+		"tytul" : "Wielbić Imię Pana dziś chcę",
+		"doDucha" : false
+	},
+	{
+		"numer" : 281,
+		"tytul" : "Wielbić mego Pana chcę",
+		"doDucha" : false
+	},
+	{
+		"numer" : 282,
+		"tytul" : "Wielbij Pana, śpiewaj hymn",
+		"doDucha" : false
+	},
+	{
+		"numer" : 283,
+		"tytul" : "Wielki jest nasz Bóg",
+		"doDucha" : false
+	},
+	{
+		"numer" : 284,
+		"tytul" : "Wielki jest nasz Pan",
+		"doDucha" : false
+	},
+	{
+		"numer" : 285,
+		"tytul" : "Wielki jest nasz Pan",
+		"doDucha" : false
+	},
+	{
+		"numer" : 286,
+		"tytul" : "Wstań, ludu, wstań",
+		"doDucha" : false
+	},
+	{
+		"numer" : 287,
+		"tytul" : "Wietrze Ducha wiej",
+		"doDucha" : true
+	},
+	{
+		"numer" : 288,
+		"tytul" : "Wstępuję dziś w Święte Świętych",
+		"doDucha" : false
+	},
+	{
+		"numer" : 289,
+		"tytul" : "Wszystkie narody klaskajcie w dłonie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 290,
+		"tytul" : "Wszystko mogę w Tym",
+		"doDucha" : false
+	},
+	{
+		"numer" : 291,
+		"tytul" : "Wykrzykujcie Bogu",
+		"doDucha" : false
+	},
+	{
+		"numer" : 292,
+		"tytul" : "Wysławiamy Cię",
+		"doDucha" : false
+	},
+	{
+		"numer" : 293,
+		"tytul" : "Wywyższać Jezusa chcemy dziś",
+		"doDucha" : false
+	},
+	{
+		"numer" : 294,
+		"tytul" : "Wywyższony",
+		"doDucha" : false
+	},
+	{
+		"numer" : 295,
+		"tytul" : "Wznieś głos, Pan blisko jest",
+		"doDucha" : false
+	},
+	{
+		"numer" : 296,
+		"tytul" : "Wzywam Cię",
+		"doDucha" : true
+	},
+	{
+		"numer" : 297,
+		"tytul" : "Z całego serca chcę chwalić Pana",
+		"doDucha" : false
+	},
+	{
+		"numer" : 298,
+		"tytul" : "Z całego serca, Jezu, wielbię Cię.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 299,
+		"tytul" : "Zawsze wierny byłeś mi",
+		"doDucha" : false
+	},
+	{
+		"numer" : 300,
+		"tytul" : "Zbuduj, Ojcze nasz",
+		"doDucha" : false
+	},
+	{
+		"numer" : 301,
+		"tytul" : "Ześlij deszcz",
+		"doDucha" : true
+	},
+	{
+		"numer" : 302,
+		"tytul" : "Ześlij ogień",
+		"doDucha" : true
+	},
+	{
+		"numer" : 303,
+		"tytul" : "Ziemio, raduj się",
+		"doDucha" : false
+	},
+	{
+		"numer" : 304,
+		"tytul" : "Złożyłem w Panu całą nadzieję",
+		"doDucha" : false
+	},
+	{
+		"numer" : 305,
+		"tytul" : "Zmartwychwstał Jezus",
+		"doDucha" : false
+	},
+	{
+		"numer" : 306,
+		"tytul" : "Zmartwychwstał Pan",
+		"doDucha" : false
+	},
+	{
+		"numer" : 307,
+		"tytul" : "Zmieniłeś w taniec moją skargę i płacz",
+		"doDucha" : false
+	},
+	{
+		"numer" : 308,
+		"tytul" : "Zmiłuj się, Panie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 309,
+		"tytul" : "Znad oceanów do mnie wołasz",
+		"doDucha" : true
+	},
+	{
+		"numer" : 310,
+		"tytul" : "Alleluja, alleluja",
+		"doDucha" : false
+	},
+	{
+		"numer" : 311,
+		"tytul" : "Baranek na tronie ogłasza zwycięstwo.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 312,
+		"tytul" : "Będę Cię chwalił, o Panie, ze wszystkich sił,",
+		"doDucha" : false
+	},
+	{
+		"numer" : 313,
+		"tytul" : "Chcę tańczyć i śpiewać przed Twym tronem",
+		"doDucha" : false
+	},
+	{
+		"numer" : 314,
+		"tytul" : "Chwała Ojcu i Synowi",
+		"doDucha" : false
+	},
+	{
+		"numer" : 315,
+		"tytul" : "Dajesz wszystko w swoim czasie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 316,
+		"tytul" : "Duchu Pana, przyjdź",
+		"doDucha" : true
+	},
+	{
+		"numer" : 317,
+		"tytul" : "Duchu, przyjdź, prowadź nas",
+		"doDucha" : true
+	},
+	{
+		"numer" : 318,
+		"tytul" : "Duchu Święty, Duchu Święty",
+		"doDucha" : true
+	},
+	{
+		"numer" : 319,
+		"tytul" : "Duchu Święty, przyjdź",
+		"doDucha" : true
+	},
+	{
+		"numer" : 320,
+		"tytul" : "Dzisiaj mogę wolny tańczyć",
+		"doDucha" : false
+	},
+	{
+		"numer" : 321,
+		"tytul" : "Hosanna, hosanna",
+		"doDucha" : false
+	},
+	{
+		"numer" : 322,
+		"tytul" : "Idę za Tobą, Ty me imię znasz.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 323,
+		"tytul" : "Ja tylko śpiewać chcę",
+		"doDucha" : false
+	},
+	{
+		"numer" : 324,
+		"tytul" : "Jak woda żywa, jak woda żywa",
+		"doDucha" : true
+	},
+	{
+		"numer" : 325,
+		"tytul" : "Jakie piękne jest Imię Twe.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 326,
+		"tytul" : "Jesteś Pasterzem mym.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 327,
+		"tytul" : "Jesteś tu, poruszasz się wśród nas",
+		"doDucha" : false
+	},
+	{
+		"numer" : 328,
+		"tytul" : "Jezu Chryste, królujesz pośród nas",
+		"doDucha" : false
+	},
+	{
+		"numer" : 329,
+		"tytul" : "Jezu, mam w Tobie zwycięstwo",
+		"doDucha" : false
+	},
+	{
+		"numer" : 330,
+		"tytul" : "Jezu, panuj zawsze w świecie tym",
+		"doDucha" : false
+	},
+	{
+		"numer" : 331,
+		"tytul" : "Jezu, Ty mnie wybawiłeś",
+		"doDucha" : false
+	},
+	{
+		"numer" : 332,
+		"tytul" : "Jezus, w pełni człowiek, w pełni Bóg",
+		"doDucha" : false
+	},
+	{
+		"numer" : 333,
+		"tytul" : "Jezusie, przychodzę by trwać u Twych stóp.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 334,
+		"tytul" : "Kimże jestem, by nieba Król",
+		"doDucha" : false
+	},
+	{
+		"numer" : 335,
+		"tytul" : "Któż bowiem zwycięża świat",
+		"doDucha" : false
+	},
+	{
+		"numer" : 336,
+		"tytul" : "Marana tha! Panie, przyjdź!",
+		"doDucha" : false
+	},
+	{
+		"numer" : 337,
+		"tytul" : "Mój Bóg jest wielki!",
+		"doDucha" : false
+	},
+	{
+		"numer" : 338,
+		"tytul" : "Na Imię Jezusa",
+		"doDucha" : false
+	},
+	{
+		"numer" : 339,
+		"tytul" : "Na Twojej dłoni gwoździa ślad",
+		"doDucha" : false
+	},
+	{
+		"numer" : 340,
+		"tytul" : "Nasz Ojcze nieskończony",
+		"doDucha" : false
+	},
+	{
+		"numer" : 341,
+		"tytul" : "Nie dał nam Bóg ducha bojaźni",
+		"doDucha" : false
+	},
+	{
+		"numer" : 342,
+		"tytul" : "Nie lękaj się, nie lękaj się",
+		"doDucha" : false
+	},
+	{
+		"numer" : 343,
+		"tytul" : "Nie umrę, a będę żył.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 344,
+		"tytul" : "Niech przylgnie serce moje do Twego serca, Panie.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 345,
+		"tytul" : "Nikt i nic nie odłączy mnie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 346,
+		"tytul" : "Obietnicą daną nam przez Ojca jesteś.",
+		"doDucha" : true
+	},
+	{
+		"numer" : 347,
+		"tytul" : "On odpuszcza każdy mój grzech",
+		"doDucha" : false
+	},
+	{
+		"numer" : 348,
+		"tytul" : "Pan mym pasterzem",
+		"doDucha" : false
+	},
+	{
+		"numer" : 349,
+		"tytul" : "Pokolenie kontrastu",
+		"doDucha" : false
+	},
+	{
+		"numer" : 350,
+		"tytul" : "Prawdziwa, czysta woda życia.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 351,
+		"tytul" : "Przychodzę przed Twój tron.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 352,
+		"tytul" : "Przyjdź, Duchu Święty, potrzebuję Ciebie",
+		"doDucha" : true
+	},
+	{
+		"numer" : 353,
+		"tytul" : "Przyjdź, Duchu Święty!",
+		"doDucha" : true
+	},
+	{
+		"numer" : 354,
+		"tytul" : "Przyjdź, Duchu, wzywam Cię,",
+		"doDucha" : true
+	},
+	{
+		"numer" : 355,
+		"tytul" : "Przyjdź, Jezu, przyjdź, czekamy dziś",
+		"doDucha" : false
+	},
+	{
+		"numer" : 357,
+		"tytul" : "Słudzy Pańscy, chwalcie Pana",
+		"doDucha" : false
+	},
+	{
+		"numer" : 358,
+		"tytul" : "Stajemy w zachwycie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 359,
+		"tytul" : "Stoimy tu",
+		"doDucha" : true
+	},
+	{
+		"numer" : 360,
+		"tytul" : "Stojąc w Twej obecności",
+		"doDucha" : false
+	},
+	{
+		"numer" : 361,
+		"tytul" : "Tato, moje serce się nie pyszni",
+		"doDucha" : false
+	},
+	{
+		"numer" : 362,
+		"tytul" : "To jest czas, by przestać już narzekać",
+		"doDucha" : false
+	},
+	{
+		"numer" : 363,
+		"tytul" : "Twoja miłość jest pierwsza",
+		"doDucha" : false
+	},
+	{
+		"numer" : 364,
+		"tytul" : "Twą miłością ożywieni",
+		"doDucha" : false
+	},
+	{
+		"numer" : 365,
+		"tytul" : "Ty jesteś dobry!",
+		"doDucha" : false
+	},
+	{
+		"numer" : 366,
+		"tytul" : "Ty jesteś, Panie, tak dla mnie dobry",
+		"doDucha" : false
+	},
+	{
+		"numer" : 367,
+		"tytul" : "Tylko w Bogu moje jest zbawienie.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 368,
+		"tytul" : "Uwielbiamy Ciebie, Panie nasz",
+		"doDucha" : false
+	},
+	{
+		"numer" : 369,
+		"tytul" : "W Nim nie będę niczego się bać",
+		"doDucha" : false
+	},
+	{
+		"numer" : 370,
+		"tytul" : "W Twojej mocy kroczę, Panie",
+		"doDucha" : false
+	},
+	{
+		"numer" : 371,
+		"tytul" : "Widziałam w Twych oczach ogień",
+		"doDucha" : false
+	},
+	{
+		"numer" : 372,
+		"tytul" : "Wielbij, wielbij Go",
+		"doDucha" : false
+	},
+	{
+		"numer" : 373,
+		"tytul" : "Wielki jest nasz Pan",
+		"doDucha" : false
+	},
+	{
+		"numer" : 374,
+		"tytul" : "Wierzymy, że Chrystus z grobu wstał.",
+		"doDucha" : false
+	},
+	{
+		"numer" : 375,
+		"tytul" : "Więcej Ciebie chcę",
+		"doDucha" : false
+	},
+	{
+		"numer" : 376,
+		"tytul" : "Wołam Cię, Jezu",
+		"doDucha" : false
+	},
+	{
+		"numer" : 377,
+		"tytul" : "Wznoszę alleluja",
+		"doDucha" : false
+	},
+	{
+		"numer" : 378,
+		"tytul" : "Za Twój krzyż dziękować chcę",
+		"doDucha" : false
+	},
+	{
+		"numer" : 379,
+		"tytul" : "Zdobywasz mnie Twoją miłością",
+		"doDucha" : false
+	},
+	{
+		"numer" : 380,
+		"tytul" : "Ze wszystkich sił Ci śpiewam",
+		"doDucha" : false
+	},
+	{
+		"numer" : 381,
+		"tytul" : "Zmartwychwstał Pan",
+		"doDucha" : false
+	},
+	{
+		"numer" : 382,
+		"tytul" : "Żyję nie ja, lecz Chrystus we mnie żyje",
+		"doDucha" : false
+	},
+	{
+		"numer" : 356,
+		"tytul" : "Serce moje mocne jest",
+		"doDucha" : false
+	}
+]}
