@@ -1,7 +1,7 @@
 {
     "name": "Śpiewnik Koinonii Jan Chrzciciel",
     "short_name": "Śpiewnik",
-    "start_url": ".",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#ED6A0C",
     "theme_color": "#ED6A0C",
