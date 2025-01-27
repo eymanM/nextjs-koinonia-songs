@@ -45,6 +45,13 @@ export default function SongsList() {
     setShowMobileList(!selectedSong);
   }, [selectedSong]);
 
+  // Add this new effect to handle scrolling
+  useEffect(() => {
+    if (selectedSong && window.innerWidth < 1024) {
+      window.scrollTo({ top: 0, behavior: 'instant' });
+    }
+  }, [selectedSong]);
+
   const handleToggleFavorite = (songId: number, e?: React.MouseEvent) => {
     if (e) {
       e.stopPropagation();
@@ -55,28 +62,28 @@ export default function SongsList() {
 
   const filteredSongs = songs.filter(song => {
     const normalizedSearch = normalizeText(searchTerm);
-    
+
     if (activeTab === 'favorites' && !favorites.includes(song.numer)) {
       return false;
     }
-    
+
     // If search term is a number, match exactly with song number
     if (/^\d+$/.test(searchTerm)) {
       return song.numer.toString() === searchTerm;
     }
-    
+
     // Match song number
     if (song.numer.toString().includes(normalizedSearch)) {
       return true;
     }
-    
+
     // Match title without commas
     if (normalizeText(song.tytul).includes(normalizedSearch)) {
       return true;
     }
-    
+
     // Match text content without commas
-    return song.texts.some(text => 
+    return song.texts.some(text =>
       normalizeText(text.tekst).includes(normalizedSearch)
     );
   });
@@ -85,9 +92,8 @@ export default function SongsList() {
     <div
       key={song.numer}
       onClick={onClick}
-      className={`w-full p-4 hover:bg-accent flex items-center gap-3 cursor-pointer ${
-        selectedSong === song.numer ? 'bg-accent' : ''
-      }`}
+      className={`w-full p-4 hover:bg-accent flex items-center gap-3 cursor-pointer ${selectedSong === song.numer ? 'bg-accent' : ''
+        }`}
     >
       {song.doDucha ? (
         <Wind className="w-5 h-5 text-primary" />
@@ -103,11 +109,10 @@ export default function SongsList() {
         className="p-2 rounded-full hover:bg-background"
       >
         <Heart
-          className={`w-5 h-5 ${
-            favorites.includes(song.numer)
+          className={`w-5 h-5 ${favorites.includes(song.numer)
               ? 'fill-primary text-primary'
               : 'text-muted-foreground'
-          }`}
+            }`}
         />
       </div>
     </div>
@@ -154,32 +159,29 @@ export default function SongsList() {
 
       {/* Sidebar - Hidden on mobile and in presentation mode */}
       {!isPresentation && (
-        <div 
-          className={`hidden lg:flex lg:w-80 border-r bg-card flex-shrink-0 flex-col transition-all duration-300 fixed top-0 bottom-0 ${
-            showSidebar ? 'translate-x-0' : '-translate-x-full'
-          }`}
+        <div
+          className={`hidden lg:flex lg:w-80 border-r bg-card flex-shrink-0 flex-col transition-all duration-300 fixed top-0 bottom-0 ${showSidebar ? 'translate-x-0' : '-translate-x-full'
+            }`}
         >
           <div className="flex flex-col h-full">
             <div className="p-4 border-b pt-16 flex-shrink-0">
               <div className="flex gap-2 mb-4">
                 <button
                   onClick={() => setActiveTab('all')}
-                  className={`flex-1 py-2 px-4 rounded-md transition-colors ${
-                    activeTab === 'all'
+                  className={`flex-1 py-2 px-4 rounded-md transition-colors ${activeTab === 'all'
                       ? 'bg-primary text-primary-foreground'
                       : 'bg-secondary hover:bg-accent'
-                  }`}
+                    }`}
                 >
                   <Library className="w-4 h-4 inline-block mr-2" />
                   Wszystkie
                 </button>
                 <button
                   onClick={() => setActiveTab('favorites')}
-                  className={`flex-1 py-2 px-4 rounded-md transition-colors ${
-                    activeTab === 'favorites'
+                  className={`flex-1 py-2 px-4 rounded-md transition-colors ${activeTab === 'favorites'
                       ? 'bg-primary text-primary-foreground'
                       : 'bg-secondary hover:bg-accent'
-                  }`}
+                    }`}
                 >
                   <Heart className="w-4 h-4 inline-block mr-2" />
                   Ulubione
@@ -203,22 +205,20 @@ export default function SongsList() {
                 <div className="flex gap-2 mb-4">
                   <button
                     onClick={() => setActiveTab('all')}
-                    className={`flex-1 py-2 px-4 rounded-md transition-colors ${
-                      activeTab === 'all'
+                    className={`flex-1 py-2 px-4 rounded-md transition-colors ${activeTab === 'all'
                         ? 'bg-primary text-primary-foreground'
                         : 'bg-secondary hover:bg-accent'
-                    }`}
+                      }`}
                   >
                     <Library className="w-4 h-4 inline-block mr-2" />
                     Wszystkie
                   </button>
                   <button
                     onClick={() => setActiveTab('favorites')}
-                    className={`flex-1 py-2 px-4 rounded-md transition-colors ${
-                      activeTab === 'favorites'
+                    className={`flex-1 py-2 px-4 rounded-md transition-colors ${activeTab === 'favorites'
                         ? 'bg-primary text-primary-foreground'
                         : 'bg-secondary hover:bg-accent'
-                    }`}
+                      }`}
                   >
                     <Heart className="w-4 h-4 inline-block mr-2" />
                     Ulubione
@@ -241,8 +241,8 @@ export default function SongsList() {
       {/* Main content */}
       <div className={`flex-1 ${showMobileList ? 'hidden lg:block' : 'block'} ${!isPresentation && showSidebar ? 'lg:ml-80' : ''}`}>
         {selectedSong ? (
-          <SongView 
-            songId={selectedSong} 
+          <SongView
+            songId={selectedSong}
             onBack={() => {
               setShowMobileList(true);
               setSelectedSong(null);
@@ -257,7 +257,7 @@ export default function SongsList() {
             <div>
               <Music4 className="w-16 h-16 mx-auto mb-4" />
               <h2 className="text-xl font-medium">Wybierz pieśń</h2>
-              <p>Wybierz pieśń z listy aby zobaczyć jej tekst i chwyty</p>
+              <p>Wybierz pieśń z listy aby zobaczyć jej tekst</p>
             </div>
           </div>
         )}
