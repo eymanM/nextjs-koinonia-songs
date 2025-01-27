@@ -45,13 +45,6 @@ export default function SongsList() {
     setShowMobileList(!selectedSong);
   }, [selectedSong]);
 
-  // Add this new effect to handle scrolling
-  useEffect(() => {
-    if (selectedSong && window.innerWidth < 1024) {
-      window.scrollTo({ top: 0, behavior: 'instant' });
-    }
-  }, [selectedSong]);
-
   const handleToggleFavorite = (songId: number, e?: React.MouseEvent) => {
     if (e) {
       e.stopPropagation();
@@ -124,6 +117,7 @@ export default function SongsList() {
       <input
         type="text"
         placeholder="Szukaj po numerze, tytule lub tekście..."
+        placeholderTextSize="text-sm"
         className="w-full pl-10 pr-10 py-2 border rounded-md bg-background"
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
@@ -144,20 +138,7 @@ export default function SongsList() {
 
   return (
     <div className="flex flex-col lg:flex-row min-h-screen relative">
-      {/* Sidebar Toggle and Theme Toggle - Desktop Only */}
-      {!isPresentation && (
-        <div className="hidden lg:flex fixed top-4 left-4 z-20 gap-2">
-          <button
-            onClick={() => setShowSidebar(!showSidebar)}
-            className="p-2 bg-background border rounded-md hover:bg-accent transition-colors"
-          >
-            {showSidebar ? <PanelLeftClose className="w-5 h-5" /> : <PanelLeft className="w-5 h-5" />}
-          </button>
-          <ThemeToggle />
-        </div>
-      )}
 
-      {/* Sidebar - Hidden on mobile and in presentation mode */}
       {!isPresentation && (
         <div
           className={`hidden lg:flex lg:w-80 border-r bg-card flex-shrink-0 flex-col transition-all duration-300 fixed top-0 bottom-0 ${showSidebar ? 'translate-x-0' : '-translate-x-full'

@@ -51,6 +51,10 @@ export default function SongView({
 
     setSongTexts(texts);
     setChordMap(chords);
+
+    if (songId && window.innerWidth < 1024) {
+      window.scrollTo({ top: 0, behavior: 'instant' });
+    }
   }, [songId]);
 
   const togglePresentation = () => {
@@ -60,7 +64,7 @@ export default function SongView({
     } else {
       // Restore the previous non-presentation size from cache
       const savedSize = localStorage.getItem(TEXT_SIZE_KEY);
-      setTextSize(savedSize ? parseInt(savedSize, 10) : DEFAULT_TEXT_SIZE);
+      setTextSize(savedSize ? parseInt(savedSize, 22) : DEFAULT_TEXT_SIZE);
     }
     onPresentationChange(newPresentationState);
   };
@@ -162,7 +166,7 @@ export default function SongView({
         <div className={`${isPresentation ? 'w-full max-w-4xl mx-auto' : ''}`}>
           {songTexts
             .filter(text => !isPresentation || text.copyr !== 1)
-            .map((text, index) => (
+            .map((text) => (
               <div
                 key={text.id}
                 className={`
