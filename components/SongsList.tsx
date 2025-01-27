@@ -117,7 +117,6 @@ export default function SongsList() {
       <input
         type="text"
         placeholder="Szukaj po numerze, tytule lub tekście..."
-        placeholderTextSize="text-sm"
         className="w-full pl-10 pr-10 py-2 border rounded-md bg-background"
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
