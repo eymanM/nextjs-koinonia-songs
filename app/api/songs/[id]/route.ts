@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { supabase } from '@/lib/db';
+import { getSongTexts, getSongChords } from '@/lib/songs';
 
 export async function GET(
   request: Request,
@@ -7,27 +7,11 @@ export async function GET(
 ) {
   const songId = parseInt(params.id);
 
-  const [textResponse, chordsResponse] = await Promise.all([
-    supabase
-      .from('tekst')
-      .select('*')
-      .eq('numer', songId)
-      .order('id'),
-    supabase
-      .from('chwyty')
-      .select('*')
-      .eq('id', songId)
-  ]);
-
-  if (textResponse.error || chordsResponse.error) {
-    return NextResponse.json(
-      { error: textResponse.error || chordsResponse.error },
-      { status: 500 }
-    );
-  }
+  const texts = getSongTexts(songId);
+  const chords = texts.map(text => getSongChords(text.id));
 
   return NextResponse.json({
-    texts: textResponse.data,
-    chords: chordsResponse.data
+    texts,
+    chords
   });
 }

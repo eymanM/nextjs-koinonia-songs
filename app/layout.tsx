@@ -6,25 +6,21 @@ import { ThemeProvider } from "@/components/ThemeProvider";
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Koinonia piosenki',
-  description: 'Śpiewnik Koinonia',
+  title: 'Koinonia Śpiewnik',
+  description: 'Śpiewnik Wspólnoty Koinonia Jan Chrzciciel',
   manifest: '/manifest.json',
   icons: [
     { rel: 'apple-touch-icon', url: '/icons/icon-192x192.png' },
     { rel: 'icon', url: '/favicon.ico' }
   ],
+};
+
+export const viewport = {
   themeColor: '#000000',
-  appleWebApp: {
-    capable: true,
-    statusBarStyle: 'default',
-    title: 'Koinonia piosenki'
-  },
-  viewport: {
-    width: 'device-width',
-    initialScale: 1,
-    maximumScale: 1,
-    userScalable: false,
-  },
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
 };
 
 export default function RootLayout({
@@ -34,7 +30,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="pl" suppressHydrationWarning>
-      <head />
+      <head>
+          <link rel="icon" href="/favicon.ico" sizes="any" />
+      </head>
       <body className={inter.className}>
         <ThemeProvider
           attribute="class"
