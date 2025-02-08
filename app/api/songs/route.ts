@@ -1,15 +1,7 @@
 import { NextResponse } from 'next/server';
-import { supabase } from '@/lib/db';
+import { getSongs } from '@/lib/songs';
 
 export async function GET() {
-  const { data: songs, error } = await supabase
-    .from('spis')
-    .select('*')
-    .order('numer');
-
-  if (error) {
-    return NextResponse.json({ error: error.message }, { status: 500 });
-  }
-
+  const songs = getSongs();
   return NextResponse.json(songs);
 }

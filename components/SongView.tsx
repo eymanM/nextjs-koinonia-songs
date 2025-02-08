@@ -5,6 +5,10 @@ import { Heart, ArrowLeft, ZoomIn, ZoomOut, Maximize2, Minimize2 } from 'lucide-
 import { getSongTexts, getSongChords } from '@/lib/songs';
 import { SongText, SongChord } from '@/lib/types';
 
+const TEXT_SIZE_KEY = 'songbook-text-size';
+const DEFAULT_TEXT_SIZE = 24;
+const PRESENTATION_TEXT_SIZE = 44;
+
 interface SongViewProps {
   songId: number;
   onBack: () => void;
@@ -14,10 +18,10 @@ interface SongViewProps {
   onPresentationChange: (isPresentation: boolean) => void;
 }
 
-export default function SongView({ 
-  songId, 
-  onBack, 
-  isFavorite, 
+export default function SongView({
+  songId,
+  onBack,
+  isFavorite,
   onToggleFavorite,
   isPresentation,
   onPresentationChange
@@ -25,8 +29,18 @@ export default function SongView({
   const [songTexts, setSongTexts] = useState<SongText[]>([]);
   const [chordMap, setChordMap] = useState<Record<number, SongChord | undefined>>({});
   const [showChords, setShowChords] = useState(false);
-  const [textSize, setTextSize] = useState(24);
+  const [textSize, setTextSize] = useState(DEFAULT_TEXT_SIZE);
   const [showControls, setShowControls] = useState(true);
+
+  // Load saved text size on mount
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const savedSize = localStorage.getItem(TEXT_SIZE_KEY);
+      if (savedSize) {
+        setTextSize(parseInt(savedSize, 10));
+      }
+    }
+  }, []);
 
   useEffect(() => {
     const texts = getSongTexts(songId);
@@ -37,33 +51,47 @@ export default function SongView({
 
     setSongTexts(texts);
     setChordMap(chords);
+
+    if (songId && window.innerWidth < 1024) {
+      window.scrollTo({ top: 0, behavior: 'instant' });
+    }
   }, [songId]);
 
   const togglePresentation = () => {
     const newPresentationState = !isPresentation;
     if (newPresentationState) {
-      setTextSize(44);
+      setTextSize(PRESENTATION_TEXT_SIZE);
     } else {
-      setTextSize(24);
+      // Restore the previous non-presentation size from cache
+      const savedSize = localStorage.getItem(TEXT_SIZE_KEY);
+      setTextSize(savedSize ? parseInt(savedSize, 22) : DEFAULT_TEXT_SIZE);
     }
     onPresentationChange(newPresentationState);
   };
 
   const increaseSize = () => {
-    setTextSize(prev => Math.min(prev + 2, 50));
+    const newSize = Math.min(textSize + 2, 50);
+    setTextSize(newSize);
+    if (!isPresentation) {
+      localStorage.setItem(TEXT_SIZE_KEY, newSize.toString());
+    }
   };
 
   const decreaseSize = () => {
-    setTextSize(prev => Math.max(prev - 2, 24));
+    const newSize = Math.max(textSize - 2, 24);
+    setTextSize(newSize);
+    if (!isPresentation) {
+      localStorage.setItem(TEXT_SIZE_KEY, newSize.toString());
+    }
   };
 
   return (
     <div className="min-h-screen flex flex-col">
       {/* Controls */}
-      <div 
+      <div
         className={`
-          ${isPresentation 
-            ? 'fixed top-4 right-4 opacity-0 transition-opacity duration-200 bg-background/80 backdrop-blur-sm rounded-lg p-2' 
+          ${isPresentation
+            ? 'fixed top-4 right-4 opacity-0 transition-opacity duration-200 bg-background/80 backdrop-blur-sm rounded-lg p-2'
             : 'sticky top-0 z-50 bg-background border-b px-4 py-2'
           } 
           ${(showControls || !isPresentation) ? 'opacity-100' : 'opacity-0'} 
@@ -122,56 +150,55 @@ export default function SongView({
               className="p-2 rounded-full hover:bg-accent transition-colors ml-auto"
             >
               <Heart
-                className={`w-6 h-6 ${
-                  isFavorite ? 'fill-primary text-primary' : 'text-muted-foreground'
-                }`}
+                className={`w-6 h-6 ${isFavorite ? 'fill-primary text-primary' : 'text-muted-foreground'
+                  }`}
               />
             </button>
           </>
         )}
       </div>
-      
+
       {/* Content */}
       <div className={`
         flex-1 
-        ${isPresentation ? 'px-16 py-16' : 'px-4 py-2 lg:px-6 lg:py-4'}
+        ${isPresentation ? 'px-16 py-16' : 'px-4 pb-1 pt-3 lg:px-6 lg:py-4'}
       `}>
         <div className={`${isPresentation ? 'w-full max-w-4xl mx-auto' : ''}`}>
           {songTexts
             .filter(text => !isPresentation || text.copyr !== 1)
-            .map((text, index) => (
-            <div 
-              key={text.id} 
-              className={`
+            .map((text) => (
+              <div
+                key={text.id}
+                className={`
                 ${text.tekst ? 'mb-4' : 'mb-6'}
               `}
-            >
-              {showChords && chordMap[text.id] && (
-                <div 
-                  className="font-mono mb-1 text-muted-foreground"
-                  style={{ fontSize: Math.max(textSize * 0.75, 16) + 'px' }}
-                >
-                  {chordMap[text.id]?.chwyt}
-                </div>
-              )}
-              {text.tekst && (
-                <p 
-                  className={`
+              >
+                {showChords && chordMap[text.id] && (
+                  <div
+                    className="font-mono mb-1 text-muted-foreground"
+                    style={{ fontSize: Math.max(textSize * 0.75, 16) + 'px' }}
+                  >
+                    {chordMap[text.id]?.chwyt}
+                  </div>
+                )}
+                {text.tekst && (
+                  <p
+                    className={`
                     ${text.copyr === 1 && !isPresentation ? 'text-muted-foreground italic' : ''}
                     leading-relaxed
                   `}
-                  style={{ 
-                    fontSize: text.copyr === 1 && !isPresentation ? Math.max(textSize*0.75, 16) + 'px' : textSize + 'px'
-                  }}
-                >
-                  {text.tekst}
-                </p>
-              )}
-              {!text.tekst && (
-                <div className={`${isPresentation ? 'h-8' : 'h-4'}`} />
-              )}
-            </div>
-          ))}
+                    style={{
+                      fontSize: text.copyr === 1 && !isPresentation ? Math.max(textSize * 0.75, 16) + 'px' : textSize + 'px'
+                    }}
+                  >
+                    {text.tekst}
+                  </p>
+                )}
+                {!text.tekst && (
+                  <div className={`${isPresentation ? 'h-8' : 'h-4'}`} />
+                )}
+              </div>
+            ))}
         </div>
       </div>
     </div>

@@ -32593,6 +32593,102 @@
 		"copyr" : 1
 	},
 	{
+		"id": 10019,
+		"numer": 356,
+		"tekst": "2. Wielkość swą objawiasz mi",
+		"copyr": null
+	},
+	{
+		"id": 10014,
+		"numer": 356,
+		"tekst": "Bogiem potężnym,",
+		"copyr": null
+	},
+	{
+		"id": 10013,
+		"numer": 356,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 10015,
+		"numer": 356,
+		"tekst": "niepokonanym,",
+		"copyr": null
+	},
+	{
+		"id": 10016,
+		"numer": 356,
+		"tekst": "Skałą Zbawienia, mój Panie jesteś Ty.",
+		"copyr": null
+	},
+	{
+		"id": 10017,
+		"numer": 356,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 10020,
+		"numer": 356,
+		"tekst": "w wierności wobec mnie,",
+		"copyr": null
+	},
+	{
+		"id": 10021,
+		"numer": 356,
+		"tekst": "Twoje imie sławić chcę.",
+		"copyr": null
+	},
+	{
+		"id": 10022,
+		"numer": 356,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 10023,
+		"numer": 356,
+		"tekst": "Ty odwagę dajesz mi,",
+		"copyr": null
+	},
+	{
+		"id": 10024,
+		"numer": 356,
+		"tekst": "prowadzisz kroki me,",
+		"copyr": null
+	},
+	{
+		"id": 10025,
+		"numer": 356,
+		"tekst": "tylko z tobą spokojnie mogę żyć.",
+		"copyr": null
+	},
+	{
+		"id": 10026,
+		"numer": 356,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 10027,
+		"numer": 356,
+		"tekst": "\/Zbawco mój,",
+		"copyr": null
+	},
+	{
+		"id": 10028,
+		"numer": 356,
+		"tekst": "ja ufam Ci.\/x2",
+		"copyr": null
+	},
+	{
+		"id": 10029,
+		"numer": 356,
+		"tekst": "Luca Arzenton - Re glorioso tłum. Mateusz Nowaczyk",
+		"copyr": 1
+	},
+	{
 		"id" : 5841,
 		"numer" : 357,
 		"tekst" : "357. Słudzy Pańscy, chwalcie Pana,",
@@ -36103,99 +36199,735 @@
 		"copyr" : 1
 	},
 	{
-		"id" : 10019,
-		"numer" : 356,
-		"tekst" : "2. Wielkość swą objawiasz mi",
-		"copyr" : null
+		"id": 6451,
+		"numer": 383,
+		"tekst": "383. Chwała na wysokościach,",
+		"copyr": null
 	},
 	{
-		"id" : 10014,
-		"numer" : 356,
-		"tekst" : "Bogiem potężnym,",
-		"copyr" : null
+		"id": 6452,
+		"numer": 383,
+		"tekst": "chwała na wysokościach Bogu,",
+		"copyr": null
 	},
 	{
-		"id" : 10013,
-		"numer" : 356,
-		"tekst" : "",
-		"copyr" : null
+		"id": 6453,
+		"numer": 383,
+		"tekst": "a na ziemi pokój,",
+		"copyr": null
 	},
 	{
-		"id" : 10015,
-		"numer" : 356,
-		"tekst" : "niepokonanym,",
-		"copyr" : null
+		"id": 6454,
+		"numer": 383,
+		"tekst": "pokój ludziom, w których upodobał sobie Bóg!",
+		"copyr": null
 	},
 	{
-		"id" : 10016,
-		"numer" : 356,
-		"tekst" : "Skałą Zbawienia, mój Panie jesteś Ty.",
-		"copyr" : null
+		"id": 6455,
+		"numer": 383,
+		"tekst": "",
+		"copyr": null
 	},
 	{
-		"id" : 10017,
-		"numer" : 356,
-		"tekst" : "",
-		"copyr" : null
+		"id": 6456,
+		"numer": 383,
+		"tekst": "1. Chwalimy Cię, błogosławimy Cię,",
+		"copyr": null
 	},
 	{
-		"id" : 10020,
-		"numer" : 356,
-		"tekst" : "w wierności wobec mnie,",
-		"copyr" : null
+		"id": 6457,
+		"numer": 383,
+		"tekst": "wielbimy Cię, wysławiamy Cię.",
+		"copyr": null
 	},
 	{
-		"id" : 10021,
-		"numer" : 356,
-		"tekst" : "Twoje imie sławić chcę.",
-		"copyr" : null
+		"id": 6458,
+		"numer": 383,
+		"tekst": "Dzięki Ci składamy,",
+		"copyr": null
 	},
 	{
-		"id" : 10022,
-		"numer" : 356,
-		"tekst" : "",
-		"copyr" : null
+		"id": 6459,
+		"numer": 383,
+		"tekst": "bo wielka jest chwała Twoja.",
+		"copyr": null
 	},
 	{
-		"id" : 10023,
-		"numer" : 356,
-		"tekst" : "Ty odwagę dajesz mi,",
-		"copyr" : null
+		"id": 6460,
+		"numer": 383,
+		"tekst": "",
+		"copyr": null
 	},
 	{
-		"id" : 10024,
-		"numer" : 356,
-		"tekst" : "prowadzisz kroki me,",
-		"copyr" : null
+		"id": 6461,
+		"numer": 383,
+		"tekst": "Panie Boże, Królu Nieba,",
+		"copyr": null
 	},
 	{
-		"id" : 10025,
-		"numer" : 356,
-		"tekst" : "tylko z tobą spokojnie mogę żyć.",
-		"copyr" : null
+		"id": 6462,
+		"numer": 383,
+		"tekst": "Boże Ojcze wszechmogący,",
+		"copyr": null
 	},
 	{
-		"id" : 10026,
-		"numer" : 356,
-		"tekst" : "",
-		"copyr" : null
+		"id": 6463,
+		"numer": 383,
+		"tekst": "Panie, Synu Jednorodzony,",
+		"copyr": null
 	},
 	{
-		"id" : 10027,
-		"numer" : 356,
-		"tekst" : "\/Zbawco mój,",
-		"copyr" : null
+		"id": 6464,
+		"numer": 383,
+		"tekst": "Jezu Chryste.",
+		"copyr": null
 	},
 	{
-		"id" : 10028,
-		"numer" : 356,
-		"tekst" : "ja ufam Ci.\/x2",
-		"copyr" : null
+		"id": 6465,
+		"numer": 383,
+		"tekst": "",
+		"copyr": null
 	},
 	{
-		"id" : 10029,
-		"numer" : 356,
-		"tekst" : "Luca Arzenton - Re glorioso tłum. Mateusz Nowaczyk",
-		"copyr" : 1
+		"id": 6466,
+		"numer": 383,
+		"tekst": "Chwała na wysokościach,",
+		"copyr": null
+	},
+	{
+		"id": 6467,
+		"numer": 383,
+		"tekst": "chwała na wysokościach Bogu,",
+		"copyr": null
+	},
+	{
+		"id": 6468,
+		"numer": 383,
+		"tekst": "a na ziemi pokój,",
+		"copyr": null
+	},
+	{
+		"id": 6469,
+		"numer": 383,
+		"tekst": "pokój ludziom, w których upodobał sobie Bóg!",
+		"copyr": null
+	},
+	{
+		"id": 6470,
+		"numer": 383,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6471,
+		"numer": 383,
+		"tekst": "2. Panie Boże, Baranku Boży,",
+		"copyr": null
+	},
+	{
+		"id": 6472,
+		"numer": 383,
+		"tekst": "Synu Ojca,",
+		"copyr": null
+	},
+	{
+		"id": 6473,
+		"numer": 383,
+		"tekst": "który gładzisz grzechy świata,",
+		"copyr": null
+	},
+	{
+		"id": 6474,
+		"numer": 383,
+		"tekst": "zmiłuj się nad nami.",
+		"copyr": null
+	},
+	{
+		"id": 6475,
+		"numer": 383,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6476,
+		"numer": 383,
+		"tekst": "Który gładzisz grzechy świata,",
+		"copyr": null
+	},
+	{
+		"id": 6477,
+		"numer": 383,
+		"tekst": "przyjm błaganie nasze,",
+		"copyr": null
+	},
+	{
+		"id": 6478,
+		"numer": 383,
+		"tekst": "który siedzisz po prawicy Ojca,",
+		"copyr": null
+	},
+	{
+		"id": 6479,
+		"numer": 383,
+		"tekst": "nad nami zmiłuj się.",
+		"copyr": null
+	},
+	{
+		"id": 6480,
+		"numer": 383,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6481,
+		"numer": 383,
+		"tekst": "Chwała na wysokościach,",
+		"copyr": null
+	},
+	{
+		"id": 6482,
+		"numer": 383,
+		"tekst": "chwała na wysokościach Bogu,",
+		"copyr": null
+	},
+	{
+		"id": 6483,
+		"numer": 383,
+		"tekst": "a na ziemi pokój,",
+		"copyr": null
+	},
+	{
+		"id": 6484,
+		"numer": 383,
+		"tekst": "pokój ludziom, w których upodobał sobie Bóg!",
+		"copyr": null
+	},
+	{
+		"id": 6485,
+		"numer": 383,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6486,
+		"numer": 383,
+		"tekst": "Albowiem tylko Ty",
+		"copyr": null
+	},
+	{
+		"id": 6487,
+		"numer": 383,
+		"tekst": "jesteś święty, Ty jesteś Panem,",
+		"copyr": null
+	},
+	{
+		"id": 6488,
+		"numer": 383,
+		"tekst": "tylko Ty",
+		"copyr": null
+	},
+	{
+		"id": 6489,
+		"numer": 383,
+		"tekst": "jesteś najwyższy,",
+		"copyr": null
+	},
+	{
+		"id": 6490,
+		"numer": 383,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6491,
+		"numer": 383,
+		"tekst": "Jezu Chryste,",
+		"copyr": null
+	},
+	{
+		"id": 6492,
+		"numer": 383,
+		"tekst": "z Duchem Świętym w chwale Boga Ojca.",
+		"copyr": null
+	},
+	{
+		"id": 6493,
+		"numer": 383,
+		"tekst": "Amen",
+		"copyr": null
+	},
+	{
+		"id": 6494,
+		"numer": 384,
+		"tekst": "384. Duchu, wiej,  Duchu, wiej.",
+		"copyr": null
+	},
+	{
+		"id": 6495,
+		"numer": 384,
+		"tekst": "My pragniemy Cię.",
+		"copyr": null
+	},
+	{
+		"id": 6496,
+		"numer": 384,
+		"tekst": "Duchu, wiej, Duchu, wiej.",
+		"copyr": null
+	},
+	{
+		"id": 6497,
+		"numer": 384,
+		"tekst": "Pośród nas objaw się!",
+		"copyr": null
+	},
+	{
+		"id": 6498,
+		"numer": 384,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6499,
+		"numer": 384,
+		"tekst": "Działaj tak, jak chcesz.",
+		"copyr": null
+	},
+	{
+		"id": 6500,
+		"numer": 384,
+		"tekst": "Niech Twój ogień płonie",
+		"copyr": null
+	},
+	{
+		"id": 6501,
+		"numer": 384,
+		"tekst": "w naszych sercach!",
+		"copyr": null
+	},
+	{
+		"id": 6502,
+		"numer": 384,
+		"tekst": "Działaj tak, jak chcesz.",
+		"copyr": null
+	},
+	{
+		"id": 6503,
+		"numer": 384,
+		"tekst": "Tobie poddajemy się!",
+		"copyr": null
+	},
+	{
+		"id": 6504,
+		"numer": 384,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6505,
+		"numer": 384,
+		"tekst": "Ooo ooo – Tobie poddajemy się!",
+		"copyr": null
+	},
+	{
+		"id": 6506,
+		"numer": 384,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6507,
+		"numer": 384,
+		"tekst": "Mocą Twą, mocą Twą,",
+		"copyr": null
+	},
+	{
+		"id": 6508,
+		"numer": 384,
+		"tekst": "teraz jednocz nas.",
+		"copyr": null
+	},
+	{
+		"id": 6509,
+		"numer": 384,
+		"tekst": "Mocą Twą, mocą Twą,",
+		"copyr": null
+	},
+	{
+		"id": 6510,
+		"numer": 384,
+		"tekst": "teraz uzdrawiaj nas.",
+		"copyr": null
+	},
+	{
+		"id": 6511,
+		"numer": 385,
+		"tekst": "385. Należymy do Ciebie,",
+		"copyr": null
+	},
+	{
+		"id": 6512,
+		"numer": 385,
+		"tekst": "to Ty powołałeś nas",
+		"copyr": null
+	},
+	{
+		"id": 6513,
+		"numer": 385,
+		"tekst": "Ocaliłeś nas i zbawiłeś,",
+		"copyr": null
+	},
+	{
+		"id": 6514,
+		"numer": 385,
+		"tekst": "Ty nadałeś imię nam.",
+		"copyr": null
+	},
+	{
+		"id": 6515,
+		"numer": 385,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6516,
+		"numer": 385,
+		"tekst": "To za Tobą chcemy iść,",
+		"copyr": null
+	},
+	{
+		"id": 6517,
+		"numer": 385,
+		"tekst": "razem biec na cały świat.",
+		"copyr": null
+	},
+	{
+		"id": 6518,
+		"numer": 385,
+		"tekst": "Opowiadać o Twych wielkich dziełach,",
+		"copyr": null
+	},
+	{
+		"id": 6519,
+		"numer": 385,
+		"tekst": "Niech jaśnieje w nas Twój blask,/x2",
+		"copyr": null
+	},
+	{
+		"id": 6520,
+		"numer": 385,
+		"tekst": "Niech jaśnieje w nas Twój blask.",
+		"copyr": null
+	},
+	{
+		"id": 6521,
+		"numer": 385,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6522,
+		"numer": 385,
+		"tekst": "Chcemy iść i wołać na cały świat,",
+		"copyr": null
+	},
+	{
+		"id": 6523,
+		"numer": 385,
+		"tekst": "Głosić z mocą, że Zbawca nasz,",
+		"copyr": null
+	},
+	{
+		"id": 6524,
+		"numer": 385,
+		"tekst": "Powstał z martwych, jest pośród nas.",
+		"copyr": null
+	},
+	{
+		"id": 6525,
+		"numer": 385,
+		"tekst": "Jezus, Jezus, jedyny Pan./x2",
+		"copyr": null
+	},
+	{
+		"id": 6526,
+		"numer": 385,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6527,
+		"numer": 385,
+		"tekst": "Jedyny Pan, jedyny Pan",
+		"copyr": null
+	},
+	{
+		"id": 6528,
+		"numer": 385,
+		"tekst": "Jedyny Pan, jedyny Pan.",
+		"copyr": null
+	},
+	{
+		"id": 6529,
+		"numer": 385,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6530,
+		"numer": 385,
+		"tekst": "W Tobie nasza moc!",
+		"copyr": null
+	},
+	{
+		"id": 6531,
+		"numer": 385,
+		"tekst": "W tobie życie jest!",
+		"copyr": null
+	},
+	{
+		"id": 6532,
+		"numer": 385,
+		"tekst": "Ocaliłeś nas!",
+		"copyr": null
+	},
+	{
+		"id": 6533,
+		"numer": 385,
+		"tekst": "Pokonałeś śmierć!",
+		"copyr": null
+	},
+	{
+		"id": 6534,
+		"numer": 386,
+		"tekst": "386. Tak jak Duch się poruszał ponad wodami",
+		"copyr": null
+	},
+	{
+		"id": 6535,
+		"numer": 386,
+		"tekst": "Panie, poruszaj się tu",
+		"copyr": null
+	},
+	{
+		"id": 6536,
+		"numer": 386,
+		"tekst": "Spocznij na nas,",
+		"copyr": null
+	},
+	{
+		"id": 6537,
+		"numer": 386,
+		"tekst": "spocznij na nas.",
+		"copyr": null
+	},
+	{
+		"id": 6538,
+		"numer": 386,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6539,
+		"numer": 386,
+		"tekst": "Zstąp dziś",
+		"copyr": null
+	},
+	{
+		"id": 6540,
+		"numer": 386,
+		"tekst": "Duchu Święty kiedy Ty przychodzisz moje serce drży",
+		"copyr": null
+	},
+	{
+		"id": 6541,
+		"numer": 386,
+		"tekst": "Ty, Panie, wypełniasz to miejsce",
+		"copyr": null
+	},
+	{
+		"id": 6542,
+		"numer": 386,
+		"tekst": "Wypełnij na nowo me serce",
+		"copyr": null
+	},
+	{
+		"id": 6543,
+		"numer": 386,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6544,
+		"numer": 386,
+		"tekst": "Ogień i wiatr niech pojawią się znów",
+		"copyr": null
+	},
+	{
+		"id": 6545,
+		"numer": 386,
+		"tekst": "Otwórz bramy nieba objaw się tu",
+		"copyr": null
+	},
+	{
+		"id": 6546,
+		"numer": 386,
+		"tekst": "Spocznij na nas,",
+		"copyr": null
+	},
+	{
+		"id": 6547,
+		"numer": 386,
+		"tekst": "spocznij na nas.",
+		"copyr": null
+	},
+	{
+		"id": 6548,
+		"numer": 386,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6549,
+		"numer": 386,
+		"tekst": "Duchu Święty,",
+		"copyr": null
+	},
+	{
+		"id": 6550,
+		"numer": 386,
+		"tekst": "spocznij na nas",
+		"copyr": null
+	},
+	{
+		"id": 6551,
+		"numer": 386,
+		"tekst": "Pragniemy Cię",
+		"copyr": null
+	},
+	{
+		"id": 6552,
+		"numer": 386,
+		"tekst": "Pragniemy Cię",
+		"copyr": null
+	},
+	{
+		"id": 6553,
+		"numer": 387,
+		"tekst": "387. Cała chwała wszelka cześć",
+		"copyr": null
+	},
+	{
+		"id": 6554,
+		"numer": 387,
+		"tekst": "Przez Ciebie z Tobą w Tobie",
+		"copyr": null
+	},
+	{
+		"id": 6555,
+		"numer": 387,
+		"tekst": "Chryste nasz Bracie",
+		"copyr": null
+	},
+	{
+		"id": 6556,
+		"numer": 387,
+		"tekst": "Bogu Ojcu wszechmocnemu, razem z Duchem",
+		"copyr": null
+	},
+	{
+		"id": 6557,
+		"numer": 387,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6558,
+		"numer": 387,
+		"tekst": "Na wszystkie wieki",
+		"copyr": null
+	},
+	{
+		"id": 6559,
+		"numer": 387,
+		"tekst": "Amen amen!",
+		"copyr": null
+	},
+	{
+		"id": 6560,
+		"numer": 387,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6561,
+		"numer": 387,
+		"tekst": "Bogu w Trójcy jedynemu chwała, cała chwała",
+		"copyr": null
+	},
+	{
+		"id": 6562,
+		"numer": 387,
+		"tekst": "Bogu w Trójcy jedynemu chwała!",
+		"copyr": null
+	},
+	{
+		"id": 6563,
+		"numer": 387,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6564,
+		"numer": 387,
+		"tekst": "Alleluja szabalaba la bam bam.",
+		"copyr": null
+	},
+	{
+		"id": 6565,
+		"numer": 387,
+		"tekst": "Alleluja szabalaba la bam bam.",
+		"copyr": null
+	},
+	{
+		"id": 6566,
+		"numer": 387,
+		"tekst": "Alleluja szabalaba la bam bam.",
+		"copyr": null
+	},
+	{
+		"id": 6567,
+		"numer": 387,
+		"tekst": "Amen, amen.",
+		"copyr": null
+	},
+	{
+		"id": 6568,
+		"numer": 387,
+		"tekst": "",
+		"copyr": null
+	},
+	{
+		"id": 6569,
+		"numer": 387,
+		"tekst": "Jezus siłę daje mi.",
+		"copyr": null
+	},
+	{
+		"id": 6570,
+		"numer": 387,
+		"tekst": "Jezus siłę daje mi.",
+		"copyr": null
+	},
+	{
+		"id": 6571,
+		"numer": 387,
+		"tekst": "Jezus siłę daje mi.",
+		"copyr": null
+	},
+	{
+		"id": 6572,
+		"numer": 387,
+		"tekst": "Amen, amen.",
+		"copyr": null
 	}
 ]}

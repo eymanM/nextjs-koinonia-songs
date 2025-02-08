@@ -1776,6 +1776,11 @@
 		"doDucha" : false
 	},
 	{
+		"numer": 356,
+		"tytul": "Serce moje mocne jest",
+		"doDucha": false
+	},
+	{
 		"numer" : 357,
 		"tytul" : "Słudzy Pańscy, chwalcie Pana",
 		"doDucha" : false
@@ -1906,8 +1911,28 @@
 		"doDucha" : false
 	},
 	{
-		"numer" : 356,
-		"tytul" : "Serce moje mocne jest",
-		"doDucha" : false
+		"numer": 383,
+		"tytul": "Chwała na wysokościach",
+		"doDucha": false
+	},
+	{
+		"numer": 384,
+		"tytul": "Duchu, wiej,  Duchu, wiej",
+		"doDucha": true
+	},
+	{
+		"numer": 385,
+		"tytul": "Należymy do Ciebie",
+		"doDucha": false
+	},
+	{
+		"numer": 386,
+		"tytul": "Tak jak Duch się poruszał ponad wodami",
+		"doDucha": true
+	},
+	{
+		"numer": 387,
+		"tytul": "Cała chwała wszelka cześć",
+		"doDucha": false
 	}
 ]}
