@@ -1,66 +1,6 @@
 {
 "tekst": [
 	{
-		"id" : 10012,
-		"numer" : 356,
-		"tekst" : "Królem lwów, mój Panie jesteś Ty.",
-		"copyr" : null
-	},
-	{
-		"id" : 10001,
-		"numer" : 356,
-		"tekst" : "356. Serce moje mocne jest,",
-		"copyr" : null
-	},
-	{
-		"id" : 10002,
-		"numer" : 356,
-		"tekst" : "bo w tobie ufność ma,",
-		"copyr" : null
-	},
-	{
-		"id" : 10003,
-		"numer" : 356,
-		"tekst" : "pragnę śpiewać na twoją cześć.",
-		"copyr" : null
-	},
-	{
-		"id" : 10004,
-		"numer" : 356,
-		"tekst" : "",
-		"copyr" : null
-	},
-	{
-		"id" : 10005,
-		"numer" : 356,
-		"tekst" : "W tobie ma obrona jest",
-		"copyr" : null
-	},
-	{
-		"id" : 10006,
-		"numer" : 356,
-		"tekst" : "Ty ochraniasz mnie,",
-		"copyr" : null
-	},
-	{
-		"id" : 10007,
-		"numer" : 356,
-		"tekst" : "z każdej próby wyprowadzisz mnie.",
-		"copyr" : null
-	},
-	{
-		"id" : 10008,
-		"numer" : 356,
-		"tekst" : "",
-		"copyr" : null
-	},
-	{
-		"id" : 10010,
-		"numer" : 356,
-		"tekst" : "Królu chwały,",
-		"copyr" : null
-	},
-	{
 		"id" : 1,
 		"numer" : 1,
 		"tekst" : "1. Abba, Ojcze, należę do Ciebie\/x2",
@@ -32420,273 +32360,177 @@
 	},
 	{
 		"id" : 5811,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "356. Serce moje mocne jest,",
 		"copyr" : null
 	},
 	{
 		"id" : 5812,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "bo w Tobie ufność ma,",
 		"copyr" : null
 	},
 	{
 		"id" : 5813,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "pragnę śpiewać na Twoją cześć.",
 		"copyr" : null
 	},
 	{
 		"id" : 5814,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "",
 		"copyr" : null
 	},
 	{
 		"id" : 5815,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "W Tobie ma obrona jest,",
 		"copyr" : null
 	},
 	{
 		"id" : 5816,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "Ty ochraniasz mnie,",
 		"copyr" : null
 	},
 	{
 		"id" : 5817,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "z każdej próby wyprowadzisz mnie.",
 		"copyr" : null
 	},
 	{
 		"id" : 5818,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "",
 		"copyr" : null
 	},
 	{
 		"id" : 5819,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "",
 		"copyr" : null
 	},
 	{
 		"id" : 5820,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "Królu chwały,",
 		"copyr" : null
 	},
 	{
 		"id" : 5821,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "wywyższony,",
 		"copyr" : null
 	},
 	{
 		"id" : 5822,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "Królem królów, mój Panie jesteś Ty.",
 		"copyr" : null
 	},
 	{
 		"id" : 5823,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "",
 		"copyr" : null
 	},
 	{
 		"id" : 5824,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "Bogiem potężnym,",
 		"copyr" : null
 	},
 	{
 		"id" : 5825,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "niepokonanym,",
 		"copyr" : null
 	},
 	{
 		"id" : 5826,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "Skałą Zbawienia, mój Panie jesteś Ty.",
 		"copyr" : null
 	},
 	{
 		"id" : 5827,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "",
 		"copyr" : null
 	},
 	{
 		"id" : 5828,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "2. Wielkość swą objawiasz mi",
 		"copyr" : null
 	},
 	{
 		"id" : 5829,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "w wierności wobec mnie,",
 		"copyr" : null
 	},
 	{
 		"id" : 5830,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "Twoje Imię sławić chcę.",
 		"copyr" : null
 	},
 	{
 		"id" : 5831,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "",
 		"copyr" : null
 	},
 	{
 		"id" : 5832,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "Ty odwagę dajesz mi,",
 		"copyr" : null
 	},
 	{
 		"id" : 5833,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "prowadzisz kroki me,",
 		"copyr" : null
 	},
 	{
 		"id" : 5834,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "tylko z Tobą spokojnie mogę żyć.",
 		"copyr" : null
 	},
 	{
 		"id" : 5835,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "",
 		"copyr" : null
 	},
 	{
 		"id" : 5836,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "\/Zbawco mój,",
 		"copyr" : null
 	},
 	{
 		"id" : 5837,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "ja ufam Ci.\/x2",
 		"copyr" : null
 	},
 	{
 		"id" : 5838,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "©  Luca Arzenton – Re glorioso",
 		"copyr" : 1
 	},
 	{
 		"id" : 5839,
-		"numer" : 355,
+		"numer" : 356,
 		"tekst" : "tłum. Mateusz Nowaczyk",
 		"copyr" : 1
-	},
-	{
-		"id": 10019,
-		"numer": 356,
-		"tekst": "2. Wielkość swą objawiasz mi",
-		"copyr": null
-	},
-	{
-		"id": 10014,
-		"numer": 356,
-		"tekst": "Bogiem potężnym,",
-		"copyr": null
-	},
-	{
-		"id": 10013,
-		"numer": 356,
-		"tekst": "",
-		"copyr": null
-	},
-	{
-		"id": 10015,
-		"numer": 356,
-		"tekst": "niepokonanym,",
-		"copyr": null
-	},
-	{
-		"id": 10016,
-		"numer": 356,
-		"tekst": "Skałą Zbawienia, mój Panie jesteś Ty.",
-		"copyr": null
-	},
-	{
-		"id": 10017,
-		"numer": 356,
-		"tekst": "",
-		"copyr": null
-	},
-	{
-		"id": 10020,
-		"numer": 356,
-		"tekst": "w wierności wobec mnie,",
-		"copyr": null
-	},
-	{
-		"id": 10021,
-		"numer": 356,
-		"tekst": "Twoje imie sławić chcę.",
-		"copyr": null
-	},
-	{
-		"id": 10022,
-		"numer": 356,
-		"tekst": "",
-		"copyr": null
-	},
-	{
-		"id": 10023,
-		"numer": 356,
-		"tekst": "Ty odwagę dajesz mi,",
-		"copyr": null
-	},
-	{
-		"id": 10024,
-		"numer": 356,
-		"tekst": "prowadzisz kroki me,",
-		"copyr": null
-	},
-	{
-		"id": 10025,
-		"numer": 356,
-		"tekst": "tylko z tobą spokojnie mogę żyć.",
-		"copyr": null
-	},
-	{
-		"id": 10026,
-		"numer": 356,
-		"tekst": "",
-		"copyr": null
-	},
-	{
-		"id": 10027,
-		"numer": 356,
-		"tekst": "\/Zbawco mój,",
-		"copyr": null
-	},
-	{
-		"id": 10028,
-		"numer": 356,
-		"tekst": "ja ufam Ci.\/x2",
-		"copyr": null
-	},
-	{
-		"id": 10029,
-		"numer": 356,
-		"tekst": "Luca Arzenton - Re glorioso tłum. Mateusz Nowaczyk",
-		"copyr": 1
 	},
 	{
 		"id" : 5841,
