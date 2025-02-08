@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/ThemeProvider";
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Koinonia Piosenki',
+  title: 'Koinonia Śpiewnik',
   description: 'Śpiewnik Wspólnoty Koinonia Jan Chrzciciel',
   manifest: '/manifest.json',
   icons: [
