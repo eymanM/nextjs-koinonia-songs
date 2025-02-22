@@ -3,7 +3,6 @@
 import { useState, useEffect } from 'react';
 import { useSong } from './SongContext';
 import { Search, Music4, Heart, Library, ArrowLeft, PanelLeftClose, PanelLeft, Wind, X } from 'lucide-react';
-import { ThemeToggle } from './ThemeToggle';
 import SongView from './SongView';
 import { getSongs, getSongTexts } from '@/lib/songs';
 import { Song, SongText } from '@/lib/types';
@@ -27,7 +26,6 @@ export default function SongsList() {
   const [favorites, setFavorites] = useState<number[]>([]);
   const { selectedSong, setSelectedSong } = useSong();
   const [showMobileList, setShowMobileList] = useState(true);
-  const [showSidebar, setShowSidebar] = useState(true);
   const [isPresentation, setIsPresentation] = useState(false);
 
   useEffect(() => {
@@ -49,7 +47,7 @@ export default function SongsList() {
     if (e) {
       e.stopPropagation();
     }
-    const isNowFavorite = toggleFavorite(songId);
+    toggleFavorite(songId);
     setFavorites(getFavorites());
   };
 
@@ -140,11 +138,11 @@ export default function SongsList() {
 
       {!isPresentation && (
         <div
-          className={`hidden lg:flex lg:w-80 border-r bg-card flex-shrink-0 flex-col transition-all duration-300 fixed top-0 bottom-0 ${showSidebar ? 'translate-x-0' : '-translate-x-full'
+          className={`hidden lg:flex lg:w-80 border-r bg-card flex-shrink-0 flex-col transition-all duration-300 fixed top-0 bottom-0 translate-x-0'
             }`}
         >
           <div className="flex flex-col h-full">
-            <div className="p-4 border-b pt-16 flex-shrink-0">
+            <div className="p-4 border-b pt-2 flex-shrink-0">
               <div className="flex gap-2 mb-4">
                 <button
                   onClick={() => setActiveTab('all')}
@@ -203,7 +201,6 @@ export default function SongsList() {
                     <Heart className="w-4 h-4 inline-block mr-2" />
                     Ulubione
                   </button>
-                  <ThemeToggle />
                 </div>
                 {renderSearchInput()}
               </div>
@@ -219,7 +216,7 @@ export default function SongsList() {
       )}
 
       {/* Main content */}
-      <div className={`flex-1 ${showMobileList ? 'hidden lg:block' : 'block'} ${!isPresentation && showSidebar ? 'lg:ml-80' : ''}`}>
+      <div className={`flex-1 ${showMobileList ? 'hidden lg:block' : 'block'} ${!isPresentation ? 'lg:ml-80' : ''}`}>
         {selectedSong ? (
           <SongView
             songId={selectedSong}

@@ -4,10 +4,10 @@ import { useEffect, useState } from 'react';
 import { Heart, ArrowLeft, ZoomIn, ZoomOut, Maximize2, Minimize2 } from 'lucide-react';
 import { getSongTexts, getSongChords } from '@/lib/songs';
 import { SongText, SongChord } from '@/lib/types';
-
+import { ThemeToggle } from './ThemeToggle';
 const TEXT_SIZE_KEY = 'songbook-text-size';
 const DEFAULT_TEXT_SIZE = 24;
-const PRESENTATION_TEXT_SIZE = 44;
+const PRESENTATION_TEXT_SIZE = 48;
 
 interface SongViewProps {
   songId: number;
@@ -30,14 +30,13 @@ export default function SongView({
   const [chordMap, setChordMap] = useState<Record<number, SongChord | undefined>>({});
   const [showChords, setShowChords] = useState(false);
   const [textSize, setTextSize] = useState(DEFAULT_TEXT_SIZE);
-  const [showControls, setShowControls] = useState(true);
 
   // Load saved text size on mount
   useEffect(() => {
     if (typeof window !== 'undefined') {
       const savedSize = localStorage.getItem(TEXT_SIZE_KEY);
       if (savedSize) {
-        setTextSize(parseInt(savedSize, 10));
+        setTextSize(parseInt(savedSize));
       }
     }
   }, []);
@@ -51,10 +50,6 @@ export default function SongView({
 
     setSongTexts(texts);
     setChordMap(chords);
-
-    if (songId && window.innerWidth < 1024) {
-      window.scrollTo({ top: 0, behavior: 'instant' });
-    }
   }, [songId]);
 
   const togglePresentation = () => {
@@ -64,12 +59,12 @@ export default function SongView({
     } else {
       // Restore the previous non-presentation size from cache
       const savedSize = localStorage.getItem(TEXT_SIZE_KEY);
-      setTextSize(savedSize ? parseInt(savedSize, 22) : DEFAULT_TEXT_SIZE);
+      setTextSize(savedSize ? parseInt(savedSize) : DEFAULT_TEXT_SIZE);
     }
     onPresentationChange(newPresentationState);
   };
 
-  const increaseSize = () => {
+  const increaseSize = (): void => {
     const newSize = Math.min(textSize + 2, 50);
     setTextSize(newSize);
     if (!isPresentation) {
@@ -77,8 +72,8 @@ export default function SongView({
     }
   };
 
-  const decreaseSize = () => {
-    const newSize = Math.max(textSize - 2, 24);
+  const decreaseSize = (): void => {
+    const newSize = Math.max(textSize - 2, DEFAULT_TEXT_SIZE);
     setTextSize(newSize);
     if (!isPresentation) {
       localStorage.setItem(TEXT_SIZE_KEY, newSize.toString());
@@ -87,15 +82,13 @@ export default function SongView({
 
   return (
     <div className="min-h-screen flex flex-col">
-      {/* Controls */}
       <div
-        className={`
+        className={
+          `
           ${isPresentation
             ? 'fixed top-4 right-4 opacity-0 transition-opacity duration-200 bg-background/80 backdrop-blur-sm rounded-lg p-2'
             : 'sticky top-0 z-50 bg-background border-b px-4 py-2'
-          } 
-          ${(showControls || !isPresentation) ? 'opacity-100' : 'opacity-0'} 
-          flex items-center gap-2
+          } opacity-100 flex items-center gap-2
         `}
       >
         {isPresentation ? (
@@ -110,6 +103,7 @@ export default function SongView({
           </>
         ) : (
           <>
+            <ThemeToggle />
             <button
               onClick={onBack}
               className="lg:hidden p-2 hover:bg-accent rounded-full"
@@ -176,7 +170,7 @@ export default function SongView({
                 {showChords && chordMap[text.id] && (
                   <div
                     className="font-mono mb-1 text-muted-foreground"
-                    style={{ fontSize: Math.max(textSize * 0.75, 16) + 'px' }}
+                    style={{ fontSize: textSize * 0.75 + 'px' }}
                   >
                     {chordMap[text.id]?.chwyt}
                   </div>
@@ -184,11 +178,11 @@ export default function SongView({
                 {text.tekst && (
                   <p
                     className={`
-                    ${text.copyr === 1 && !isPresentation ? 'text-muted-foreground italic' : ''}
+                    ${text.copyr === 1 && 'text-muted-foreground italic'}
                     leading-relaxed
                   `}
                     style={{
-                      fontSize: text.copyr === 1 && !isPresentation ? Math.max(textSize * 0.75, 16) + 'px' : textSize + 'px'
+                      fontSize: text.copyr === 1 ? textSize * 0.70 + 'px' : textSize + 'px'
                     }}
                   >
                     {text.tekst}
