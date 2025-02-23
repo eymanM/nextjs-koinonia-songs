@@ -169,8 +169,8 @@ export default function SongView({
               >
                 {showChords && chordMap[text.id] && (
                   <div
-                    className="font-mono mb-1 text-muted-foreground"
-                    style={{ fontSize: textSize * 0.75 + 'px' }}
+                    className="font-mono mb-1 text-muted-foreground text-center"
+                    style={{ fontSize: textSize * 0.70 + 'px' }}
                   >
                     {chordMap[text.id]?.chwyt}
                   </div>
@@ -179,10 +179,10 @@ export default function SongView({
                   <p
                     className={`
                     ${text.copyr === 1 && 'text-muted-foreground italic'}
-                    leading-relaxed
+                    leading-relaxed text-center
                   `}
                     style={{
-                      fontSize: text.copyr === 1 ? textSize * 0.70 + 'px' : textSize + 'px'
+                      fontSize: text.copyr === 1 ? textSize * 0.60 + 'px' : textSize + 'px'
                     }}
                   >
                     {text.tekst}
