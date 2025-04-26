@@ -103,7 +103,6 @@ export default function SongView({
           </>
         ) : (
           <>
-            <ThemeToggle />
             <button
               onClick={onBack}
               className="lg:hidden p-2 hover:bg-accent rounded-full"
@@ -139,6 +138,9 @@ export default function SongView({
             >
               <Maximize2 className="w-5 h-5" />
             </button>
+            <div className="ml-4 flex items-center">
+              <ThemeToggle />
+            </div>
             <button
               onClick={onToggleFavorite}
               className="p-2 rounded-full hover:bg-accent transition-colors ml-auto"

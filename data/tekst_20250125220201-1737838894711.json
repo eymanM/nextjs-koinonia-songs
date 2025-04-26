@@ -121,6 +121,12 @@
 		"copyr" : null
 	},
 	{
+		"id" : 16,
+		"numer" : 2,
+		"tekst" : "",
+		"copyr" : null
+	},
+	{
 		"id" : 22,
 		"numer" : 2,
 		"tekst" : "2. Słońce, księżycu, wielbijcie Pana,",
@@ -172,6 +178,12 @@
 		"id" : 30,
 		"numer" : 2,
 		"tekst" : "niechaj na wieki brzmi Jego chwała.",
+		"copyr" : null
+	},
+	{
+		"id" : 9999,
+		"numer" : 2,
+		"tekst" : "",
 		"copyr" : null
 	},
 	{
@@ -6124,12 +6136,6 @@
 		"id" : 1104,
 		"numer" : 74,
 		"tekst" : "74. Godzien, o godzien jest nasz Pan,",
-		"copyr" : null
-	},
-	{
-		"id" : 1105,
-		"numer" : 74,
-		"tekst" : "",
 		"copyr" : null
 	},
 	{
@@ -36767,5 +36773,155 @@
 		"numer": 387,
 		"tekst": "Amen, amen.",
 		"copyr": null
+	},
+	{
+		"id" : 6580,
+		"numer" : 400,
+		"tekst" : "400. Widzę dom w nim otwarte drzwi",
+		"copyr" : null
+	},
+	{
+		"id" : 6581,
+		"numer" : 400,
+		"tekst" : "Ojciec czeka na mnie w nich",
+		"copyr" : null
+	},
+	{
+		"id" : 6582,
+		"numer" : 400,
+		"tekst" : "Woła mnie wiem że mogę wejść",
+		"copyr" : null
+	},
+	{
+		"id" : 6583,
+		"numer" : 400,
+		"tekst" : "On opatrzy rany me",
+		"copyr" : null
+	},
+	{
+		"id" : 6584,
+		"numer" : 400,
+		"tekst" : "Wiele bitew za mną jest",
+		"copyr" : null
+	},
+	{
+		"id" : 6585,
+		"numer" : 400,
+		"tekst" : "",
+		"copyr" : null
+	},
+	{
+		"id" : 6586,
+		"numer" : 400,
+		"tekst" : "To czas by ucztować w sercu mam pokój",
+		"copyr" : null
+	},
+	{
+		"id" : 6587,
+		"numer" : 400,
+		"tekst" : "gdy wokół wojna",
+		"copyr" : null
+	},
+	{
+		"id" : 6588,
+		"numer" : 400,
+		"tekst" : "Na oczach moich wrogów Pan zastawia stół",
+		"copyr" : null
+	},
+	{
+		"id" : 6589,
+		"numer" : 400,
+		"tekst" : "",
+		"copyr" : null
+	},
+	{
+		"id" : 6590,
+		"numer" : 400,
+		"tekst" : "Widzę dom w nim otwarte drzwi",
+		"copyr" : null
+	},
+	{
+		"id" : 6591,
+		"numer" : 400,
+		"tekst" : "Ojciec czeka na mnie w nich",
+		"copyr" : null
+	},
+	{
+		"id" : 6592,
+		"numer" : 400,
+		"tekst" : "Woła mnie wiem że mogę wejść",
+		"copyr" : null
+	},
+	{
+		"id" : 6593,
+		"numer" : 400,
+		"tekst" : "On opatrzy rany me",
+		"copyr" : null
+	},
+	{
+		"id" : 6594,
+		"numer" : 400,
+		"tekst" : "Wiele bitew za mną jest",
+		"copyr" : null
+	},
+	{
+		"id" : 6595,
+		"numer" : 400,
+		"tekst" : "",
+		"copyr" : null
+	},
+	{
+		"id" : 6596,
+		"numer" : 400,
+		"tekst" : "Strach nie ma wstępu do tego domu oskarżyciele nie mają głosu",
+		"copyr" : null
+	},
+	{
+		"id" : 6597,
+		"numer" : 400,
+		"tekst" : "Pan sam pokonał moich wrogów",
+		"copyr" : null
+	},
+	{
+		"id" : 6598,
+		"numer" : 400,
+		"tekst" : "Będę dziękować będę dziękować",
+		"copyr" : null
+	},
+	{
+		"id" : 6599,
+		"numer" : 400,
+		"tekst" : "Będę dziękować memu Bogu",
+		"copyr" : null
+	},
+	{
+		"id" : 6600,
+		"numer" : 400,
+		"tekst" : "",
+		"copyr" : null
+	},
+	{
+		"id" : 6601,
+		"numer" : 400,
+		"tekst" : "To czas by ucztować w sercu mam pokój gdy wokół wojna",
+		"copyr" : null
+	},
+	{
+		"id" : 6602,
+		"numer" : 400,
+		"tekst" : "Na oczach moich wrogów Pan zastawia stół",
+		"copyr" : null
+	},
+	{
+		"id" : 6603,
+		"numer" : 400,
+		"tekst" : "Na oczach moich wrogów Pan zastawia stół",
+		"copyr" : null
+	},
+	{
+		"id" : 6604,
+		"numer" : 400,
+		"tekst" : "© Pieśniopisarze - Kacper Kukier, Olga Juraszus, Zofia Muzalewska",
+		"copyr" : 1
 	}
 ]}

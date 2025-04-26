@@ -101,8 +101,8 @@ export default function SongsList() {
       >
         <Heart
           className={`w-5 h-5 ${favorites.includes(song.numer)
-              ? 'fill-primary text-primary'
-              : 'text-muted-foreground'
+            ? 'fill-primary text-primary'
+            : 'text-muted-foreground'
             }`}
         />
       </div>
@@ -147,8 +147,8 @@ export default function SongsList() {
                 <button
                   onClick={() => setActiveTab('all')}
                   className={`flex-1 py-2 px-4 rounded-md transition-colors ${activeTab === 'all'
-                      ? 'bg-primary text-primary-foreground'
-                      : 'bg-secondary hover:bg-accent'
+                    ? 'bg-primary text-primary-foreground'
+                    : 'bg-secondary hover:bg-accent'
                     }`}
                 >
                   <Library className="w-4 h-4 inline-block mr-2" />
@@ -157,8 +157,8 @@ export default function SongsList() {
                 <button
                   onClick={() => setActiveTab('favorites')}
                   className={`flex-1 py-2 px-4 rounded-md transition-colors ${activeTab === 'favorites'
-                      ? 'bg-primary text-primary-foreground'
-                      : 'bg-secondary hover:bg-accent'
+                    ? 'bg-primary text-primary-foreground'
+                    : 'bg-secondary hover:bg-accent'
                     }`}
                 >
                   <Heart className="w-4 h-4 inline-block mr-2" />
@@ -184,8 +184,8 @@ export default function SongsList() {
                   <button
                     onClick={() => setActiveTab('all')}
                     className={`flex-1 py-2 px-4 rounded-md transition-colors ${activeTab === 'all'
-                        ? 'bg-primary text-primary-foreground'
-                        : 'bg-secondary hover:bg-accent'
+                      ? 'bg-primary text-primary-foreground'
+                      : 'bg-secondary hover:bg-accent'
                       }`}
                   >
                     <Library className="w-4 h-4 inline-block mr-2" />
@@ -194,8 +194,8 @@ export default function SongsList() {
                   <button
                     onClick={() => setActiveTab('favorites')}
                     className={`flex-1 py-2 px-4 rounded-md transition-colors ${activeTab === 'favorites'
-                        ? 'bg-primary text-primary-foreground'
-                        : 'bg-secondary hover:bg-accent'
+                      ? 'bg-primary text-primary-foreground'
+                      : 'bg-secondary hover:bg-accent'
                       }`}
                   >
                     <Heart className="w-4 h-4 inline-block mr-2" />
