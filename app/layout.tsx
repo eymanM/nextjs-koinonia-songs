@@ -9,10 +9,21 @@ export const metadata: Metadata = {
   title: 'Koinonia Śpiewnik',
   description: 'Śpiewnik Wspólnoty Koinonia Jan Chrzciciel',
   manifest: '/manifest.json',
-  icons: [
-    { rel: 'apple-touch-icon', url: '/icons/icon-192x192.png' },
-    { rel: 'icon', url: '/favicon.ico' }
-  ],
+  icons: {
+    icon: [
+      { url: '/favicon.ico', sizes: 'any' },
+      { url: '/icons/favicon-16x16.png', type: 'image/png', sizes: '16x16' },
+      { url: '/icons/favicon-32x32.png', type: 'image/png', sizes: '32x32' },
+    ],
+    apple: [
+      { url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
+    ],
+  },
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: 'default',
+    title: 'Koinonia Śpiewnik',
+  },
 };
 
 export const viewport = {
@@ -30,9 +41,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="pl" suppressHydrationWarning>
-      <head>
-          <link rel="icon" href="/favicon.ico" sizes="any" />
-      </head>
+      <head />
       <body className={inter.className}>
         <ThemeProvider
           attribute="class"
