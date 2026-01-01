@@ -14,10 +14,28 @@ export const metadata: Metadata = {
       { url: '/favicon.ico', sizes: 'any' },
       { url: '/icons/favicon-16x16.png', type: 'image/png', sizes: '16x16' },
       { url: '/icons/favicon-32x32.png', type: 'image/png', sizes: '32x32' },
+      { url: '/icons/icon-48x48.png', type: 'image/png', sizes: '48x48' },
+      { url: '/icons/icon-192x192.png', type: 'image/png', sizes: '192x192' },
+      { url: '/icons/icon-512x512.png', type: 'image/png', sizes: '512x512' },
     ],
     apple: [
       { url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
     ],
+  },
+  openGraph: {
+    title: 'Koinonia Śpiewnik',
+    description: 'Śpiewnik Wspólnoty Koinonia Jan Chrzciciel',
+    siteName: 'Koinonia Śpiewnik',
+    images: [
+      {
+        url: '/opengraph-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'Koinonia Śpiewnik',
+      },
+    ],
+    locale: 'pl_PL',
+    type: 'website',
   },
   appleWebApp: {
     capable: true,
